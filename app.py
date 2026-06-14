@@ -144,7 +144,7 @@ def header() -> None:
         f"""
         <div class="hero">
             <h1 style="color:white;margin:0;">World Cup Predictor 2026</h1>
-            <p style="margin:8px 0 0;color:#dfeee6;">Predictions ML hors ligne, donnees locales, simulation du tournoi.</p>
+            <p style="margin:8px 0 0;color:#dfeee6;">Powered by: Lemou Abderahmen</p>
             <p style="margin:10px 0 0;color:#d6b25e;font-weight:700;">Compte a rebours: {countdown}</p>
             <div class="ticker-wrap"><div class="ticker">{doubled}</div></div>
         </div>
