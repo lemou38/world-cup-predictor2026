@@ -1,0 +1,1453 @@
+date,home_team,away_team,team,scorer,minute,own_goal,penalty
+2014-02-07,Canada,Uruguay,Canada,L. Garcia,15,False,False
+2014-02-07,Canada,Uruguay,Uruguay,M. Khan,66,False,False
+2014-05-14,Canada,South Korea,South Korea,R. Santos,30,False,False
+2014-05-14,Canada,South Korea,Canada,R. Santos,62,False,False
+2014-04-03,Mexico,Italy,Italy,Y. Diallo,36,False,False
+2014-04-03,Mexico,Italy,Mexico,R. Santos,65,False,False
+2014-04-03,Mexico,Italy,Mexico,L. Garcia,33,False,False
+2014-04-03,Mexico,Italy,Mexico,M. Khan,43,False,True
+2014-02-21,United States,Ecuador,United States,J. Martinez,55,False,False
+2014-02-21,United States,Ecuador,Ecuador,D. Smith,74,False,False
+2014-05-28,United States,Saudi Arabia,Saudi Arabia,J. Martinez,10,False,False
+2014-05-28,United States,Saudi Arabia,United States,L. Garcia,16,False,False
+2014-04-17,Argentina,Morocco,Morocco,M. Khan,79,False,False
+2014-04-17,Argentina,Morocco,Morocco,A. Silva,86,False,False
+2014-04-17,Argentina,Morocco,Argentina,Y. Diallo,81,False,False
+2014-03-07,Brazil,Scotland,Brazil,J. Martinez,8,False,False
+2014-03-07,Brazil,Scotland,Scotland,Y. Diallo,69,False,False
+2014-06-11,Brazil,Qatar,Qatar,K. Tanaka,42,False,True
+2014-06-11,Brazil,Qatar,Brazil,L. Garcia,83,False,False
+2014-06-11,Brazil,Qatar,Brazil,K. Tanaka,33,False,False
+2014-05-01,Uruguay,Tunisia,Uruguay,Y. Diallo,38,False,False
+2014-05-01,Uruguay,Tunisia,Uruguay,J. Martinez,76,False,True
+2014-05-01,Uruguay,Tunisia,Tunisia,L. Garcia,50,False,False
+2014-06-25,Colombia,Uzbekistan,Colombia,Y. Diallo,13,False,False
+2014-05-15,Ecuador,Nigeria,Nigeria,R. Santos,17,False,False
+2014-05-15,Ecuador,Nigeria,Ecuador,L. Garcia,21,False,False
+2014-04-18,Wales,Croatia,Wales,Y. Diallo,20,False,False
+2014-04-18,Wales,Croatia,Wales,R. Santos,12,False,False
+2014-07-23,Wales,Poland,Wales,L. Garcia,19,False,False
+2014-06-12,France,Japan,Japan,L. Garcia,19,False,True
+2014-05-02,Germany,Portugal,Germany,A. Silva,43,False,False
+2014-05-02,Germany,Portugal,Germany,L. Garcia,77,False,False
+2014-08-06,Germany,Serbia,Germany,L. Garcia,50,False,False
+2014-06-26,Netherlands,Iran,Iran,K. Tanaka,43,False,False
+2014-06-26,Netherlands,Iran,Iran,M. Khan,8,False,True
+2014-06-26,Netherlands,Iran,Netherlands,A. Silva,62,False,False
+2014-05-16,Belgium,Switzerland,Belgium,M. Khan,32,False,False
+2014-08-20,Belgium,Czech Republic,Belgium,L. Garcia,13,False,False
+2014-08-20,Belgium,Czech Republic,Belgium,A. Silva,30,False,False
+2014-07-10,Croatia,Australia,Croatia,L. Garcia,36,False,False
+2014-07-10,Croatia,Australia,Australia,D. Smith,87,False,False
+2014-07-10,Croatia,Australia,Croatia,J. Martinez,25,False,False
+2014-05-30,Spain,Senegal,Spain,A. Silva,28,False,False
+2014-09-03,Spain,Peru,Peru,Y. Diallo,12,False,True
+2014-09-03,Spain,Peru,Peru,L. Garcia,76,False,True
+2014-09-03,Spain,Peru,Spain,Y. Diallo,30,False,False
+2014-07-24,Portugal,Iraq,Iraq,K. Tanaka,29,False,False
+2014-07-24,Portugal,Iraq,Portugal,L. Garcia,42,False,False
+2014-06-13,Italy,Egypt,Italy,R. Santos,62,False,False
+2014-09-17,Italy,Costa Rica,Italy,A. Silva,41,False,False
+2014-09-17,Italy,Costa Rica,Italy,R. Santos,85,False,False
+2014-08-07,Switzerland,Denmark,Switzerland,M. Khan,82,False,False
+2014-06-27,Morocco,Ghana,Morocco,M. Khan,37,False,True
+2014-06-27,Morocco,Ghana,Morocco,L. Garcia,76,False,False
+2014-06-27,Morocco,Ghana,Morocco,A. Silva,22,False,False
+2014-06-27,Morocco,Ghana,Ghana,J. Martinez,79,False,False
+2014-10-01,Morocco,Mexico,Morocco,J. Martinez,78,False,False
+2014-07-11,Tunisia,Algeria,Tunisia,M. Khan,50,False,True
+2014-10-15,Tunisia,Argentina,Tunisia,L. Garcia,70,False,False
+2014-10-15,Tunisia,Argentina,Tunisia,M. Khan,34,False,False
+2014-09-04,Egypt,Austria,Austria,J. Martinez,17,False,False
+2014-09-04,Egypt,Austria,Egypt,M. Khan,62,False,False
+2014-07-25,Nigeria,South Korea,Nigeria,A. Silva,51,False,False
+2014-07-25,Nigeria,South Korea,South Korea,A. Silva,11,False,False
+2014-10-29,Nigeria,Uruguay,Nigeria,J. Martinez,11,False,True
+2014-10-29,Nigeria,Uruguay,Nigeria,J. Martinez,18,False,False
+2014-09-18,Ghana,Turkey,Turkey,A. Silva,76,False,False
+2014-08-08,Cameroon,Saudi Arabia,Cameroon,M. Khan,85,False,False
+2014-11-12,Cameroon,Ecuador,Cameroon,J. Martinez,48,False,False
+2014-10-02,Algeria,Chile,Chile,D. Smith,72,False,False
+2014-08-22,Japan,Qatar,Qatar,R. Santos,18,False,False
+2014-08-22,Japan,Qatar,Japan,J. Martinez,77,False,False
+2014-11-26,Japan,Scotland,Scotland,A. Silva,44,False,False
+2014-11-26,Japan,Scotland,Japan,Y. Diallo,72,False,False
+2014-09-05,Iran,Uzbekistan,Uzbekistan,A. Silva,13,False,False
+2014-01-14,Iran,France,Iran,K. Tanaka,39,False,True
+2014-01-14,Iran,France,France,D. Smith,56,False,False
+2014-10-30,Saudi Arabia,Canada,Canada,L. Garcia,59,False,False
+2014-10-30,Saudi Arabia,Canada,Canada,L. Garcia,56,False,False
+2014-01-28,Australia,Netherlands,Australia,M. Khan,55,False,False
+2014-01-28,Australia,Netherlands,Australia,A. Silva,14,False,False
+2014-11-13,Qatar,United States,Qatar,L. Garcia,13,False,False
+2014-11-13,Qatar,United States,United States,R. Santos,88,False,False
+2014-11-13,Qatar,United States,United States,A. Silva,68,False,False
+2014-10-03,Iraq,Poland,Iraq,J. Martinez,75,False,True
+2014-02-11,Iraq,Croatia,Croatia,D. Smith,14,False,False
+2014-02-11,Iraq,Croatia,Iraq,A. Silva,23,False,False
+2014-11-27,Uzbekistan,Brazil,Brazil,R. Santos,41,False,False
+2014-11-27,Uzbekistan,Brazil,Uzbekistan,L. Garcia,30,False,False
+2014-11-27,Uzbekistan,Brazil,Brazil,J. Martinez,78,False,False
+2014-10-17,Denmark,Serbia,Denmark,J. Martinez,39,False,False
+2014-02-25,Denmark,Portugal,Portugal,D. Smith,59,False,False
+2014-01-15,Sweden,Colombia,Colombia,D. Smith,74,False,False
+2014-10-31,Norway,Czech Republic,Czech Republic,M. Khan,28,False,False
+2014-10-31,Norway,Czech Republic,Czech Republic,Y. Diallo,10,False,False
+2014-10-31,Norway,Czech Republic,Norway,D. Smith,39,False,True
+2014-03-11,Norway,Switzerland,Norway,Y. Diallo,13,False,False
+2014-03-11,Norway,Switzerland,Switzerland,K. Tanaka,57,False,False
+2014-01-29,Poland,England,England,K. Tanaka,13,False,False
+2014-01-29,Poland,England,England,D. Smith,31,False,False
+2014-01-29,Poland,England,England,A. Silva,59,False,False
+2014-11-14,Austria,Peru,Austria,Y. Diallo,68,False,False
+2014-03-25,Austria,Senegal,Senegal,A. Silva,45,False,False
+2014-03-25,Austria,Senegal,Senegal,K. Tanaka,73,False,False
+2014-03-25,Austria,Senegal,Senegal,M. Khan,81,False,False
+2014-02-12,Serbia,Wales,Wales,M. Khan,43,False,False
+2014-02-12,Serbia,Wales,Wales,A. Silva,50,False,False
+2014-11-28,Turkey,Costa Rica,Costa Rica,D. Smith,51,False,False
+2014-11-28,Turkey,Costa Rica,Costa Rica,L. Garcia,12,False,False
+2014-11-28,Turkey,Costa Rica,Costa Rica,L. Garcia,45,False,False
+2014-11-28,Turkey,Costa Rica,Turkey,K. Tanaka,15,False,False
+2014-04-08,Turkey,Egypt,Turkey,L. Garcia,23,False,False
+2014-02-26,Czech Republic,Germany,Czech Republic,R. Santos,21,False,False
+2014-01-16,Chile,Mexico,Chile,L. Garcia,23,False,False
+2014-04-22,Chile,Ghana,Ghana,L. Garcia,19,False,False
+2014-03-12,Peru,Belgium,Peru,K. Tanaka,25,False,False
+2014-01-30,Paraguay,Argentina,Argentina,A. Silva,13,False,False
+2014-05-06,Paraguay,Algeria,Algeria,R. Santos,18,False,False
+2014-05-06,Paraguay,Algeria,Paraguay,Y. Diallo,86,False,True
+2014-03-26,Costa Rica,Spain,Spain,A. Silva,72,False,True
+2014-03-26,Costa Rica,Spain,Costa Rica,A. Silva,60,False,False
+2014-03-26,Costa Rica,Spain,Costa Rica,J. Martinez,78,False,False
+2015-02-07,Canada,Colombia,Canada,A. Silva,61,False,False
+2015-02-07,Canada,Colombia,Canada,R. Santos,22,False,False
+2015-02-07,Canada,Colombia,Canada,D. Smith,78,False,False
+2015-05-14,Canada,Iran,Canada,Y. Diallo,84,False,False
+2015-02-21,United States,England,United States,K. Tanaka,87,False,False
+2015-02-21,United States,England,United States,D. Smith,35,False,False
+2015-04-17,Argentina,Senegal,Senegal,D. Smith,23,False,True
+2015-04-17,Argentina,Senegal,Argentina,L. Garcia,75,False,False
+2015-03-07,Brazil,Wales,Wales,Y. Diallo,69,False,False
+2015-03-07,Brazil,Wales,Wales,M. Khan,51,False,False
+2015-03-07,Brazil,Wales,Wales,M. Khan,11,False,True
+2015-06-11,Brazil,Iraq,Brazil,K. Tanaka,65,False,False
+2015-05-01,Uruguay,Egypt,Egypt,D. Smith,19,False,False
+2015-05-01,Uruguay,Egypt,Uruguay,A. Silva,40,False,False
+2015-05-01,Uruguay,Egypt,Egypt,K. Tanaka,12,False,False
+2015-05-15,Ecuador,Ghana,Ecuador,A. Silva,58,False,False
+2015-04-04,England,Belgium,England,A. Silva,20,False,False
+2015-04-04,England,Belgium,Belgium,A. Silva,22,False,False
+2015-04-04,England,Belgium,England,Y. Diallo,24,False,False
+2015-07-09,England,Norway,England,A. Silva,85,False,False
+2015-05-29,Scotland,Algeria,Scotland,L. Garcia,66,False,True
+2015-04-18,Wales,Spain,Wales,K. Tanaka,30,False,False
+2015-04-18,Wales,Spain,Spain,M. Khan,35,False,False
+2015-06-12,France,South Korea,France,R. Santos,21,False,False
+2015-05-02,Germany,Italy,Italy,D. Smith,79,False,False
+2015-05-02,Germany,Italy,Italy,J. Martinez,26,False,False
+2015-05-02,Germany,Italy,Italy,A. Silva,87,False,False
+2015-05-02,Germany,Italy,Italy,L. Garcia,34,False,False
+2015-08-06,Germany,Turkey,Germany,A. Silva,38,False,False
+2015-08-06,Germany,Turkey,Turkey,J. Martinez,69,False,True
+2015-08-06,Germany,Turkey,Turkey,R. Santos,78,False,False
+2015-08-06,Germany,Turkey,Germany,A. Silva,75,False,False
+2015-06-26,Netherlands,Saudi Arabia,Saudi Arabia,D. Smith,80,False,False
+2015-06-26,Netherlands,Saudi Arabia,Saudi Arabia,R. Santos,82,False,False
+2015-06-26,Netherlands,Saudi Arabia,Saudi Arabia,M. Khan,16,False,False
+2015-05-16,Belgium,Morocco,Morocco,Y. Diallo,84,False,False
+2015-08-20,Belgium,Chile,Chile,R. Santos,81,False,True
+2015-08-20,Belgium,Chile,Belgium,M. Khan,56,False,False
+2015-08-20,Belgium,Chile,Belgium,Y. Diallo,45,False,False
+2015-07-10,Croatia,Qatar,Croatia,J. Martinez,80,False,False
+2015-07-10,Croatia,Qatar,Qatar,D. Smith,39,False,False
+2015-07-10,Croatia,Qatar,Qatar,L. Garcia,26,False,False
+2015-05-30,Spain,Tunisia,Spain,M. Khan,32,False,False
+2015-05-30,Spain,Tunisia,Spain,A. Silva,21,False,False
+2015-05-30,Spain,Tunisia,Tunisia,R. Santos,31,False,False
+2015-05-30,Spain,Tunisia,Tunisia,R. Santos,36,False,False
+2015-09-03,Spain,Paraguay,Spain,L. Garcia,11,False,False
+2015-09-03,Spain,Paraguay,Paraguay,L. Garcia,64,False,False
+2015-07-24,Portugal,Uzbekistan,Uzbekistan,K. Tanaka,36,False,False
+2015-07-24,Portugal,Uzbekistan,Uzbekistan,M. Khan,49,False,False
+2015-06-13,Italy,Nigeria,Nigeria,D. Smith,79,False,False
+2015-06-13,Italy,Nigeria,Nigeria,Y. Diallo,10,False,False
+2015-09-17,Italy,Canada,Canada,Y. Diallo,23,False,False
+2015-09-17,Italy,Canada,Italy,M. Khan,26,False,False
+2015-08-07,Switzerland,Sweden,Sweden,Y. Diallo,53,False,False
+2015-08-07,Switzerland,Sweden,Switzerland,Y. Diallo,77,False,False
+2015-06-27,Morocco,Cameroon,Cameroon,L. Garcia,52,False,True
+2015-06-27,Morocco,Cameroon,Morocco,Y. Diallo,60,False,True
+2015-06-27,Morocco,Cameroon,Cameroon,M. Khan,88,False,False
+2015-06-27,Morocco,Cameroon,Cameroon,K. Tanaka,17,False,False
+2015-10-01,Morocco,United States,Morocco,L. Garcia,23,False,False
+2015-07-11,Tunisia,Japan,Tunisia,D. Smith,59,False,False
+2015-07-11,Tunisia,Japan,Tunisia,A. Silva,77,False,False
+2015-09-04,Egypt,Serbia,Egypt,Y. Diallo,29,False,False
+2015-09-04,Egypt,Serbia,Serbia,Y. Diallo,69,False,True
+2015-09-04,Egypt,Serbia,Egypt,Y. Diallo,36,False,False
+2015-09-04,Egypt,Serbia,Egypt,L. Garcia,8,False,False
+2015-07-25,Nigeria,Iran,Iran,A. Silva,50,False,True
+2015-10-29,Nigeria,Colombia,Nigeria,D. Smith,16,False,True
+2015-10-29,Nigeria,Colombia,Colombia,J. Martinez,56,False,False
+2015-08-08,Cameroon,Australia,Cameroon,Y. Diallo,49,False,False
+2015-11-12,Cameroon,England,Cameroon,R. Santos,88,False,False
+2015-10-02,Algeria,Peru,Algeria,K. Tanaka,88,False,False
+2015-10-02,Algeria,Peru,Algeria,A. Silva,26,False,False
+2015-08-22,Japan,Iraq,Japan,D. Smith,64,False,False
+2015-11-26,Japan,Wales,Wales,Y. Diallo,15,False,False
+2015-11-26,Japan,Wales,Wales,K. Tanaka,65,False,True
+2015-11-26,Japan,Wales,Wales,R. Santos,25,False,False
+2015-10-16,South Korea,Costa Rica,Costa Rica,M. Khan,68,False,False
+2015-10-16,South Korea,Costa Rica,Costa Rica,J. Martinez,57,False,False
+2015-09-05,Iran,Denmark,Iran,D. Smith,41,False,True
+2015-09-05,Iran,Denmark,Iran,L. Garcia,10,False,False
+2015-01-14,Iran,Germany,Germany,K. Tanaka,19,False,False
+2015-09-19,Australia,Norway,Australia,J. Martinez,29,False,False
+2015-09-19,Australia,Norway,Australia,M. Khan,33,False,False
+2015-09-19,Australia,Norway,Australia,M. Khan,52,False,True
+2015-09-19,Australia,Norway,Australia,Y. Diallo,59,False,False
+2015-01-28,Australia,Belgium,Belgium,K. Tanaka,73,False,False
+2015-11-13,Qatar,Argentina,Argentina,K. Tanaka,71,False,False
+2015-11-13,Qatar,Argentina,Qatar,R. Santos,77,False,True
+2015-10-03,Iraq,Austria,Iraq,D. Smith,77,False,False
+2015-02-11,Iraq,Spain,Iraq,Y. Diallo,29,False,False
+2015-02-11,Iraq,Spain,Iraq,J. Martinez,82,False,False
+2015-02-11,Iraq,Spain,Iraq,A. Silva,49,False,False
+2015-02-11,Iraq,Spain,Iraq,D. Smith,14,False,False
+2015-11-27,Uzbekistan,Uruguay,Uzbekistan,M. Khan,58,False,False
+2015-11-27,Uzbekistan,Uruguay,Uruguay,R. Santos,68,False,False
+2015-02-25,Denmark,Italy,Italy,J. Martinez,29,False,True
+2015-01-15,Sweden,Ecuador,Ecuador,M. Khan,28,False,True
+2015-01-15,Sweden,Ecuador,Sweden,Y. Diallo,19,False,False
+2015-01-15,Sweden,Ecuador,Sweden,R. Santos,70,False,False
+2015-10-31,Norway,Chile,Chile,L. Garcia,85,False,False
+2015-10-31,Norway,Chile,Norway,J. Martinez,64,False,False
+2015-10-31,Norway,Chile,Norway,K. Tanaka,37,False,False
+2015-10-31,Norway,Chile,Norway,R. Santos,62,False,False
+2015-03-11,Norway,Morocco,Norway,Y. Diallo,10,False,False
+2015-02-12,Serbia,France,France,Y. Diallo,23,False,False
+2015-02-12,Serbia,France,Serbia,Y. Diallo,66,False,False
+2015-02-12,Serbia,France,France,A. Silva,69,False,False
+2015-11-28,Turkey,Canada,Turkey,M. Khan,8,False,True
+2015-04-08,Turkey,Nigeria,Turkey,K. Tanaka,29,False,False
+2015-02-26,Czech Republic,Netherlands,Netherlands,K. Tanaka,28,False,True
+2015-02-26,Czech Republic,Netherlands,Czech Republic,R. Santos,19,False,False
+2015-04-22,Chile,Cameroon,Chile,J. Martinez,41,False,False
+2015-04-22,Chile,Cameroon,Cameroon,M. Khan,59,False,True
+2015-04-22,Chile,Cameroon,Cameroon,K. Tanaka,80,False,False
+2015-03-12,Peru,Croatia,Croatia,D. Smith,66,False,False
+2015-03-12,Peru,Croatia,Croatia,D. Smith,84,False,False
+2015-01-30,Paraguay,Brazil,Brazil,A. Silva,10,False,False
+2015-01-30,Paraguay,Brazil,Brazil,L. Garcia,28,False,False
+2015-01-30,Paraguay,Brazil,Paraguay,D. Smith,24,False,False
+2015-01-30,Paraguay,Brazil,Paraguay,M. Khan,12,False,False
+2015-05-06,Paraguay,Japan,Japan,J. Martinez,85,False,False
+2015-05-06,Paraguay,Japan,Paraguay,R. Santos,51,False,False
+2015-05-06,Paraguay,Japan,Paraguay,A. Silva,86,False,False
+2015-05-06,Paraguay,Japan,Paraguay,K. Tanaka,73,False,False
+2015-03-26,Costa Rica,Portugal,Portugal,Y. Diallo,38,False,False
+2016-02-07,Canada,Ecuador,Canada,M. Khan,69,False,True
+2016-02-07,Canada,Ecuador,Ecuador,D. Smith,33,False,False
+2016-05-13,Canada,Saudi Arabia,Saudi Arabia,R. Santos,17,False,False
+2016-05-13,Canada,Saudi Arabia,Canada,Y. Diallo,86,False,False
+2016-05-13,Canada,Saudi Arabia,Saudi Arabia,Y. Diallo,16,False,False
+2016-04-02,Mexico,Morocco,Mexico,L. Garcia,27,False,False
+2016-04-02,Mexico,Morocco,Morocco,K. Tanaka,24,False,False
+2016-02-21,United States,Scotland,Scotland,L. Garcia,8,False,False
+2016-02-21,United States,Scotland,Scotland,A. Silva,59,False,False
+2016-05-27,United States,Qatar,Qatar,Y. Diallo,54,False,False
+2016-04-16,Argentina,Tunisia,Tunisia,A. Silva,87,False,False
+2016-04-16,Argentina,Tunisia,Argentina,M. Khan,50,False,False
+2016-04-16,Argentina,Tunisia,Argentina,K. Tanaka,66,False,False
+2016-03-06,Brazil,France,France,Y. Diallo,31,False,False
+2016-06-10,Brazil,Uzbekistan,Brazil,D. Smith,58,False,False
+2016-06-10,Brazil,Uzbekistan,Brazil,M. Khan,33,False,False
+2016-06-10,Brazil,Uzbekistan,Uzbekistan,D. Smith,25,False,False
+2016-04-30,Uruguay,Nigeria,Uruguay,J. Martinez,36,False,False
+2016-04-30,Uruguay,Nigeria,Uruguay,J. Martinez,32,False,False
+2016-03-20,Colombia,Netherlands,Colombia,K. Tanaka,49,False,False
+2016-03-20,Colombia,Netherlands,Netherlands,M. Khan,31,False,False
+2016-06-24,Colombia,Sweden,Colombia,M. Khan,51,False,False
+2016-07-08,England,Poland,England,L. Garcia,83,False,False
+2016-05-28,Scotland,Japan,Scotland,J. Martinez,85,False,False
+2016-05-28,Scotland,Japan,Scotland,K. Tanaka,55,False,True
+2016-04-17,Wales,Portugal,Portugal,K. Tanaka,70,False,True
+2016-04-17,Wales,Portugal,Wales,R. Santos,74,False,False
+2016-04-17,Wales,Portugal,Wales,D. Smith,41,False,False
+2016-07-22,Wales,Serbia,Serbia,J. Martinez,32,False,False
+2016-07-22,Wales,Serbia,Serbia,J. Martinez,47,False,False
+2016-05-01,Germany,Switzerland,Switzerland,M. Khan,22,False,True
+2016-05-01,Germany,Switzerland,Germany,K. Tanaka,69,False,False
+2016-08-05,Germany,Czech Republic,Czech Republic,L. Garcia,42,False,False
+2016-08-05,Germany,Czech Republic,Germany,D. Smith,12,False,False
+2016-08-05,Germany,Czech Republic,Germany,K. Tanaka,19,False,False
+2016-06-25,Netherlands,Australia,Netherlands,L. Garcia,35,False,False
+2016-06-25,Netherlands,Australia,Netherlands,J. Martinez,30,False,False
+2016-08-19,Belgium,Peru,Peru,A. Silva,62,False,True
+2016-08-19,Belgium,Peru,Peru,M. Khan,65,False,False
+2016-07-09,Croatia,Iraq,Croatia,K. Tanaka,21,False,False
+2016-07-09,Croatia,Iraq,Croatia,J. Martinez,44,False,False
+2016-07-09,Croatia,Iraq,Croatia,A. Silva,19,False,False
+2016-05-29,Spain,Egypt,Egypt,A. Silva,24,False,False
+2016-09-02,Spain,Costa Rica,Spain,K. Tanaka,24,False,False
+2016-09-02,Spain,Costa Rica,Costa Rica,K. Tanaka,38,False,False
+2016-09-02,Spain,Costa Rica,Costa Rica,Y. Diallo,73,False,False
+2016-07-23,Portugal,Denmark,Denmark,Y. Diallo,49,False,False
+2016-09-16,Italy,Mexico,Italy,D. Smith,65,False,False
+2016-08-06,Switzerland,Norway,Switzerland,K. Tanaka,29,False,False
+2016-06-26,Morocco,Algeria,Algeria,Y. Diallo,43,False,False
+2016-06-26,Morocco,Algeria,Algeria,K. Tanaka,77,False,False
+2016-09-30,Morocco,Argentina,Morocco,M. Khan,86,False,False
+2016-10-14,Tunisia,Uruguay,Uruguay,Y. Diallo,86,False,False
+2016-10-14,Tunisia,Uruguay,Tunisia,A. Silva,23,False,False
+2016-09-03,Egypt,Turkey,Egypt,D. Smith,13,False,False
+2016-07-24,Nigeria,Saudi Arabia,Saudi Arabia,L. Garcia,37,False,True
+2016-10-28,Nigeria,Ecuador,Ecuador,J. Martinez,38,False,False
+2016-10-28,Nigeria,Ecuador,Ecuador,J. Martinez,24,False,False
+2016-09-17,Ghana,Chile,Ghana,L. Garcia,49,False,False
+2016-09-17,Ghana,Chile,Ghana,M. Khan,51,False,False
+2016-08-07,Cameroon,Qatar,Cameroon,Y. Diallo,44,False,False
+2016-11-11,Cameroon,Scotland,Scotland,R. Santos,87,False,False
+2016-10-01,Algeria,Paraguay,Algeria,R. Santos,36,False,False
+2016-10-01,Algeria,Paraguay,Algeria,Y. Diallo,62,False,False
+2016-08-21,Japan,Uzbekistan,Japan,M. Khan,8,False,False
+2016-08-21,Japan,Uzbekistan,Japan,J. Martinez,24,False,False
+2016-09-04,Iran,Sweden,Sweden,J. Martinez,30,False,False
+2016-09-04,Iran,Sweden,Iran,J. Martinez,77,False,False
+2016-01-14,Iran,Netherlands,Iran,A. Silva,85,False,False
+2016-10-29,Saudi Arabia,United States,Saudi Arabia,A. Silva,87,False,False
+2016-10-29,Saudi Arabia,United States,Saudi Arabia,Y. Diallo,19,False,False
+2016-01-28,Australia,Croatia,Australia,R. Santos,28,False,False
+2016-10-02,Iraq,Serbia,Serbia,Y. Diallo,76,False,False
+2016-10-02,Iraq,Serbia,Iraq,R. Santos,29,False,False
+2016-02-11,Iraq,Portugal,Iraq,K. Tanaka,31,False,False
+2016-02-11,Iraq,Portugal,Portugal,D. Smith,52,False,False
+2016-11-26,Uzbekistan,Colombia,Uzbekistan,A. Silva,56,False,False
+2016-10-16,Denmark,Czech Republic,Denmark,R. Santos,87,False,False
+2016-02-25,Denmark,Switzerland,Switzerland,Y. Diallo,78,False,True
+2016-02-25,Denmark,Switzerland,Switzerland,R. Santos,38,False,False
+2016-01-15,Sweden,England,Sweden,L. Garcia,68,False,False
+2016-01-15,Sweden,England,England,L. Garcia,30,False,False
+2016-10-30,Norway,Peru,Peru,A. Silva,82,False,False
+2016-03-10,Norway,Senegal,Senegal,L. Garcia,30,False,False
+2016-03-10,Norway,Senegal,Senegal,J. Martinez,27,False,False
+2016-01-29,Poland,Wales,Poland,D. Smith,49,False,False
+2016-01-29,Poland,Wales,Wales,L. Garcia,82,False,False
+2016-11-13,Austria,Costa Rica,Costa Rica,L. Garcia,49,False,False
+2016-11-13,Austria,Costa Rica,Costa Rica,L. Garcia,54,False,False
+2016-02-12,Serbia,Germany,Serbia,J. Martinez,47,False,False
+2016-11-27,Turkey,Mexico,Mexico,R. Santos,67,False,False
+2016-04-07,Turkey,Ghana,Ghana,K. Tanaka,58,False,False
+2016-04-07,Turkey,Ghana,Turkey,R. Santos,45,False,False
+2016-04-07,Turkey,Ghana,Ghana,M. Khan,39,False,False
+2016-02-26,Czech Republic,Belgium,Czech Republic,M. Khan,85,False,False
+2016-02-26,Czech Republic,Belgium,Czech Republic,M. Khan,82,False,True
+2016-01-16,Chile,Argentina,Argentina,R. Santos,39,False,False
+2016-01-16,Chile,Argentina,Chile,K. Tanaka,84,False,False
+2016-01-16,Chile,Argentina,Argentina,L. Garcia,67,False,False
+2016-04-21,Chile,Algeria,Algeria,J. Martinez,11,False,False
+2016-03-11,Peru,Spain,Peru,M. Khan,54,False,True
+2016-03-11,Peru,Spain,Peru,R. Santos,58,False,False
+2016-03-11,Peru,Spain,Spain,R. Santos,14,False,False
+2016-01-30,Paraguay,Uruguay,Paraguay,L. Garcia,72,False,False
+2016-01-30,Paraguay,Uruguay,Uruguay,K. Tanaka,80,False,False
+2016-05-05,Paraguay,South Korea,Paraguay,Y. Diallo,53,False,False
+2016-05-05,Paraguay,South Korea,South Korea,A. Silva,31,False,False
+2016-03-25,Costa Rica,Italy,Italy,J. Martinez,43,False,False
+2016-03-25,Costa Rica,Italy,Italy,K. Tanaka,46,False,True
+2016-03-25,Costa Rica,Italy,Costa Rica,M. Khan,38,False,False
+2017-02-07,Canada,England,England,M. Khan,81,False,False
+2017-02-07,Canada,England,England,K. Tanaka,19,False,False
+2017-02-07,Canada,England,Canada,L. Garcia,10,False,False
+2017-02-21,United States,Wales,United States,L. Garcia,73,False,False
+2017-05-28,United States,Iraq,Iraq,J. Martinez,81,False,False
+2017-05-28,United States,Iraq,Iraq,J. Martinez,61,False,False
+2017-04-17,Argentina,Egypt,Argentina,M. Khan,22,False,False
+2017-04-17,Argentina,Egypt,Argentina,M. Khan,26,False,True
+2017-03-07,Brazil,Germany,Brazil,M. Khan,66,False,True
+2017-03-07,Brazil,Germany,Germany,J. Martinez,60,False,True
+2017-06-11,Brazil,Denmark,Brazil,M. Khan,56,False,True
+2017-06-11,Brazil,Denmark,Denmark,A. Silva,59,False,False
+2017-06-11,Brazil,Denmark,Denmark,R. Santos,21,False,False
+2017-05-01,Uruguay,Ghana,Uruguay,L. Garcia,33,False,False
+2017-05-01,Uruguay,Ghana,Uruguay,A. Silva,87,False,False
+2017-05-01,Uruguay,Ghana,Uruguay,D. Smith,35,False,False
+2017-03-21,Colombia,Belgium,Colombia,D. Smith,21,False,False
+2017-06-25,Colombia,Norway,Colombia,Y. Diallo,19,False,False
+2017-05-15,Ecuador,Algeria,Algeria,K. Tanaka,25,False,False
+2017-05-15,Ecuador,Algeria,Ecuador,D. Smith,51,False,False
+2017-04-04,England,Spain,Spain,L. Garcia,10,False,False
+2017-07-09,England,Austria,Austria,K. Tanaka,54,False,False
+2017-05-29,Scotland,South Korea,South Korea,K. Tanaka,16,False,False
+2017-05-29,Scotland,South Korea,South Korea,R. Santos,8,False,False
+2017-05-29,Scotland,South Korea,South Korea,L. Garcia,35,False,False
+2017-04-18,Wales,Italy,Wales,K. Tanaka,23,False,False
+2017-04-18,Wales,Italy,Wales,Y. Diallo,26,False,False
+2017-04-18,Wales,Italy,Italy,L. Garcia,43,False,False
+2017-07-23,Wales,Turkey,Wales,R. Santos,41,False,False
+2017-07-23,Wales,Turkey,Wales,K. Tanaka,17,False,False
+2017-07-23,Wales,Turkey,Wales,R. Santos,27,False,False
+2017-06-12,France,Saudi Arabia,Saudi Arabia,R. Santos,29,False,False
+2017-06-12,France,Saudi Arabia,Saudi Arabia,Y. Diallo,84,False,False
+2017-05-02,Germany,Morocco,Germany,L. Garcia,83,False,False
+2017-08-06,Germany,Chile,Germany,D. Smith,44,False,False
+2017-08-06,Germany,Chile,Germany,A. Silva,75,False,False
+2017-08-06,Germany,Chile,Chile,D. Smith,21,False,True
+2017-06-26,Netherlands,Qatar,Netherlands,K. Tanaka,15,False,False
+2017-06-26,Netherlands,Qatar,Netherlands,R. Santos,23,False,False
+2017-05-16,Belgium,Tunisia,Tunisia,K. Tanaka,65,False,False
+2017-05-16,Belgium,Tunisia,Tunisia,K. Tanaka,55,False,False
+2017-05-16,Belgium,Tunisia,Belgium,M. Khan,62,False,False
+2017-05-16,Belgium,Tunisia,Belgium,J. Martinez,47,False,False
+2017-08-20,Belgium,Paraguay,Belgium,J. Martinez,40,False,True
+2017-08-20,Belgium,Paraguay,Belgium,J. Martinez,67,False,False
+2017-07-10,Croatia,Uzbekistan,Croatia,A. Silva,73,False,False
+2017-07-10,Croatia,Uzbekistan,Uzbekistan,Y. Diallo,23,False,False
+2017-05-30,Spain,Nigeria,Spain,D. Smith,20,False,False
+2017-09-03,Spain,Canada,Spain,A. Silva,19,False,False
+2017-09-03,Spain,Canada,Spain,K. Tanaka,70,False,False
+2017-09-03,Spain,Canada,Spain,A. Silva,28,False,False
+2017-06-13,Italy,Cameroon,Italy,L. Garcia,21,False,False
+2017-06-13,Italy,Cameroon,Italy,J. Martinez,51,False,False
+2017-06-13,Italy,Cameroon,Italy,L. Garcia,15,False,False
+2017-09-17,Italy,United States,United States,D. Smith,14,False,False
+2017-08-07,Switzerland,Poland,Switzerland,Y. Diallo,75,False,False
+2017-08-07,Switzerland,Poland,Poland,A. Silva,43,False,True
+2017-08-07,Switzerland,Poland,Switzerland,K. Tanaka,70,False,False
+2017-06-27,Morocco,Japan,Japan,R. Santos,75,False,False
+2017-10-01,Morocco,Brazil,Morocco,A. Silva,62,False,False
+2017-10-01,Morocco,Brazil,Brazil,K. Tanaka,84,False,False
+2017-08-21,Senegal,Serbia,Senegal,R. Santos,33,False,False
+2017-08-21,Senegal,Serbia,Serbia,Y. Diallo,85,False,False
+2017-08-21,Senegal,Serbia,Senegal,K. Tanaka,59,False,False
+2017-10-15,Tunisia,Colombia,Colombia,R. Santos,75,False,True
+2017-10-15,Tunisia,Colombia,Tunisia,D. Smith,38,False,False
+2017-09-04,Egypt,Czech Republic,Egypt,K. Tanaka,62,False,False
+2017-09-04,Egypt,Czech Republic,Egypt,J. Martinez,20,False,False
+2017-10-29,Nigeria,England,Nigeria,R. Santos,14,False,False
+2017-10-29,Nigeria,England,Nigeria,A. Silva,65,False,False
+2017-10-29,Nigeria,England,Nigeria,L. Garcia,83,False,False
+2017-09-18,Ghana,Peru,Peru,D. Smith,78,False,False
+2017-09-18,Ghana,Peru,Ghana,J. Martinez,16,False,False
+2017-08-08,Cameroon,Iraq,Cameroon,A. Silva,30,False,False
+2017-11-12,Cameroon,Wales,Wales,R. Santos,46,False,False
+2017-10-02,Algeria,Costa Rica,Algeria,R. Santos,58,False,False
+2017-10-02,Algeria,Costa Rica,Costa Rica,L. Garcia,85,False,False
+2017-08-22,Japan,Denmark,Denmark,Y. Diallo,64,False,False
+2017-08-22,Japan,Denmark,Denmark,J. Martinez,23,False,False
+2017-11-26,Japan,Germany,Germany,M. Khan,56,False,False
+2017-10-16,South Korea,Mexico,Mexico,R. Santos,44,False,False
+2017-09-05,Iran,Norway,Iran,M. Khan,42,False,False
+2017-09-05,Iran,Norway,Iran,L. Garcia,39,False,False
+2017-01-14,Iran,Belgium,Iran,J. Martinez,73,False,False
+2017-01-14,Iran,Belgium,Iran,A. Silva,83,False,True
+2017-01-14,Iran,Belgium,Belgium,D. Smith,84,False,False
+2017-10-30,Saudi Arabia,Argentina,Saudi Arabia,R. Santos,63,False,True
+2017-10-30,Saudi Arabia,Argentina,Saudi Arabia,M. Khan,25,False,True
+2017-09-19,Australia,Austria,Austria,A. Silva,60,False,False
+2017-09-19,Australia,Austria,Austria,D. Smith,15,False,True
+2017-09-19,Australia,Austria,Austria,J. Martinez,28,False,False
+2017-01-28,Australia,Spain,Australia,R. Santos,86,False,False
+2017-01-28,Australia,Spain,Spain,J. Martinez,81,False,False
+2017-01-28,Australia,Spain,Spain,D. Smith,73,False,False
+2017-01-28,Australia,Spain,Australia,J. Martinez,84,False,False
+2017-10-03,Iraq,Turkey,Iraq,M. Khan,59,False,False
+2017-10-03,Iraq,Turkey,Iraq,K. Tanaka,41,False,False
+2017-02-11,Iraq,Italy,Italy,R. Santos,37,False,False
+2017-11-27,Uzbekistan,Ecuador,Uzbekistan,A. Silva,55,False,False
+2017-10-17,Denmark,Chile,Denmark,A. Silva,15,False,False
+2017-10-17,Denmark,Chile,Denmark,J. Martinez,11,False,False
+2017-02-25,Denmark,Morocco,Morocco,Y. Diallo,31,False,False
+2017-03-11,Norway,Tunisia,Norway,J. Martinez,46,False,False
+2017-03-11,Norway,Tunisia,Norway,R. Santos,84,False,False
+2017-03-11,Norway,Tunisia,Tunisia,M. Khan,59,False,False
+2017-01-29,Poland,France,Poland,Y. Diallo,62,False,False
+2017-01-29,Poland,France,France,R. Santos,79,False,False
+2017-01-29,Poland,France,Poland,A. Silva,72,False,False
+2017-11-14,Austria,Canada,Canada,J. Martinez,37,False,False
+2017-11-14,Austria,Canada,Austria,K. Tanaka,23,False,False
+2017-11-14,Austria,Canada,Austria,L. Garcia,41,False,False
+2017-03-25,Austria,Nigeria,Nigeria,L. Garcia,44,False,False
+2017-02-12,Serbia,Netherlands,Serbia,R. Santos,56,False,False
+2017-02-12,Serbia,Netherlands,Netherlands,Y. Diallo,53,False,False
+2017-11-28,Turkey,United States,United States,D. Smith,13,False,False
+2017-11-28,Turkey,United States,Turkey,L. Garcia,85,False,False
+2017-04-08,Turkey,Cameroon,Turkey,D. Smith,86,False,False
+2017-04-08,Turkey,Cameroon,Turkey,M. Khan,62,False,False
+2017-04-08,Turkey,Cameroon,Turkey,M. Khan,11,False,False
+2017-02-26,Czech Republic,Croatia,Croatia,Y. Diallo,53,False,False
+2017-02-26,Czech Republic,Croatia,Czech Republic,A. Silva,82,False,False
+2017-01-16,Chile,Brazil,Brazil,L. Garcia,81,False,False
+2017-04-22,Chile,Japan,Chile,L. Garcia,59,False,False
+2017-03-12,Peru,Portugal,Peru,M. Khan,63,False,False
+2017-03-12,Peru,Portugal,Portugal,R. Santos,25,False,False
+2017-03-12,Peru,Portugal,Peru,A. Silva,41,False,False
+2017-01-30,Paraguay,Colombia,Paraguay,J. Martinez,16,False,False
+2017-05-06,Paraguay,Iran,Iran,L. Garcia,22,False,False
+2017-03-26,Costa Rica,Switzerland,Switzerland,J. Martinez,84,False,False
+2017-03-26,Costa Rica,Switzerland,Costa Rica,Y. Diallo,28,False,False
+2017-03-26,Costa Rica,Switzerland,Costa Rica,L. Garcia,34,False,True
+2018-02-07,Canada,Scotland,Canada,J. Martinez,40,False,False
+2018-05-14,Canada,Qatar,Qatar,K. Tanaka,10,False,False
+2018-04-03,Mexico,Tunisia,Tunisia,R. Santos,43,False,False
+2018-02-21,United States,France,United States,A. Silva,23,False,False
+2018-02-21,United States,France,France,D. Smith,86,False,True
+2018-02-21,United States,France,France,Y. Diallo,20,False,False
+2018-05-28,United States,Uzbekistan,Uzbekistan,M. Khan,68,False,False
+2018-05-28,United States,Uzbekistan,Uzbekistan,A. Silva,69,False,False
+2018-05-28,United States,Uzbekistan,Uzbekistan,A. Silva,16,False,False
+2018-06-11,Brazil,Sweden,Brazil,J. Martinez,67,False,False
+2018-06-11,Brazil,Sweden,Brazil,J. Martinez,78,False,False
+2018-06-11,Brazil,Sweden,Sweden,M. Khan,26,False,False
+2018-05-01,Uruguay,Cameroon,Uruguay,D. Smith,88,False,False
+2018-03-21,Colombia,Croatia,Croatia,L. Garcia,86,False,False
+2018-03-21,Colombia,Croatia,Croatia,R. Santos,76,False,False
+2018-06-25,Colombia,Poland,Colombia,J. Martinez,72,False,False
+2018-06-25,Colombia,Poland,Poland,K. Tanaka,56,False,False
+2018-06-25,Colombia,Poland,Colombia,J. Martinez,80,False,False
+2018-05-15,Ecuador,Japan,Japan,A. Silva,84,False,False
+2018-04-04,England,Portugal,Portugal,L. Garcia,69,False,False
+2018-07-09,England,Serbia,England,J. Martinez,56,False,False
+2018-07-09,England,Serbia,Serbia,L. Garcia,13,False,False
+2018-07-09,England,Serbia,England,Y. Diallo,52,False,False
+2018-07-09,England,Serbia,England,Y. Diallo,22,False,False
+2018-05-29,Scotland,Iran,Scotland,D. Smith,24,False,False
+2018-04-18,Wales,Switzerland,Wales,R. Santos,84,False,True
+2018-07-23,Wales,Czech Republic,Czech Republic,D. Smith,11,False,False
+2018-06-12,France,Australia,France,A. Silva,46,False,False
+2018-06-12,France,Australia,France,Y. Diallo,75,False,False
+2018-06-12,France,Australia,France,Y. Diallo,82,False,False
+2018-05-02,Germany,Senegal,Germany,Y. Diallo,60,False,False
+2018-05-02,Germany,Senegal,Germany,D. Smith,14,False,False
+2018-08-06,Germany,Peru,Germany,R. Santos,54,False,False
+2018-06-26,Netherlands,Iraq,Netherlands,D. Smith,11,False,False
+2018-06-26,Netherlands,Iraq,Iraq,L. Garcia,81,False,False
+2018-05-16,Belgium,Egypt,Belgium,L. Garcia,85,False,False
+2018-05-16,Belgium,Egypt,Belgium,Y. Diallo,11,False,False
+2018-08-20,Belgium,Costa Rica,Belgium,D. Smith,24,False,True
+2018-08-20,Belgium,Costa Rica,Belgium,K. Tanaka,31,False,False
+2018-08-20,Belgium,Costa Rica,Belgium,A. Silva,61,False,True
+2018-07-10,Croatia,Denmark,Denmark,J. Martinez,62,False,False
+2018-07-10,Croatia,Denmark,Croatia,R. Santos,28,False,False
+2018-05-30,Spain,Ghana,Spain,M. Khan,69,False,False
+2018-05-30,Spain,Ghana,Ghana,Y. Diallo,68,False,True
+2018-09-03,Spain,Mexico,Spain,J. Martinez,18,False,True
+2018-07-24,Portugal,Norway,Norway,D. Smith,72,False,False
+2018-09-17,Italy,Argentina,Argentina,A. Silva,74,False,False
+2018-09-17,Italy,Argentina,Argentina,A. Silva,57,False,True
+2018-08-07,Switzerland,Austria,Switzerland,Y. Diallo,83,False,False
+2018-06-27,Morocco,South Korea,South Korea,M. Khan,71,False,False
+2018-10-01,Morocco,Uruguay,Morocco,K. Tanaka,18,False,False
+2018-08-21,Senegal,Turkey,Senegal,Y. Diallo,9,False,False
+2018-08-21,Senegal,Turkey,Turkey,Y. Diallo,42,False,True
+2018-07-11,Tunisia,Saudi Arabia,Tunisia,L. Garcia,22,False,False
+2018-07-11,Tunisia,Saudi Arabia,Saudi Arabia,K. Tanaka,29,False,False
+2018-07-11,Tunisia,Saudi Arabia,Tunisia,Y. Diallo,14,False,False
+2018-07-11,Tunisia,Saudi Arabia,Tunisia,R. Santos,34,False,False
+2018-10-15,Tunisia,Ecuador,Ecuador,M. Khan,29,False,False
+2018-10-15,Tunisia,Ecuador,Tunisia,L. Garcia,55,False,False
+2018-10-15,Tunisia,Ecuador,Ecuador,K. Tanaka,41,False,False
+2018-09-04,Egypt,Chile,Egypt,Y. Diallo,42,False,False
+2018-09-04,Egypt,Chile,Chile,D. Smith,14,False,False
+2018-07-25,Nigeria,Qatar,Qatar,L. Garcia,51,False,False
+2018-10-29,Nigeria,Scotland,Nigeria,L. Garcia,17,False,False
+2018-10-29,Nigeria,Scotland,Scotland,R. Santos,22,False,False
+2018-09-18,Ghana,Paraguay,Paraguay,R. Santos,76,False,False
+2018-09-18,Ghana,Paraguay,Paraguay,J. Martinez,86,False,False
+2018-08-08,Cameroon,Uzbekistan,Uzbekistan,L. Garcia,58,False,False
+2018-11-12,Cameroon,France,Cameroon,A. Silva,29,False,False
+2018-08-22,Japan,Sweden,Japan,M. Khan,79,False,False
+2018-08-22,Japan,Sweden,Sweden,K. Tanaka,76,False,False
+2018-10-16,South Korea,United States,United States,Y. Diallo,77,False,False
+2018-10-16,South Korea,United States,United States,D. Smith,15,False,False
+2018-10-16,South Korea,United States,United States,A. Silva,16,False,False
+2018-01-14,Iran,Croatia,Croatia,M. Khan,37,False,False
+2018-01-14,Iran,Croatia,Croatia,K. Tanaka,49,False,False
+2018-10-30,Saudi Arabia,Brazil,Brazil,J. Martinez,47,False,False
+2018-10-30,Saudi Arabia,Brazil,Brazil,Y. Diallo,9,False,False
+2018-10-30,Saudi Arabia,Brazil,Saudi Arabia,J. Martinez,12,False,False
+2018-09-19,Australia,Serbia,Australia,K. Tanaka,52,False,False
+2018-09-19,Australia,Serbia,Australia,L. Garcia,30,False,False
+2018-09-19,Australia,Serbia,Serbia,J. Martinez,43,False,False
+2018-01-28,Australia,Portugal,Portugal,J. Martinez,87,False,True
+2018-01-28,Australia,Portugal,Portugal,K. Tanaka,35,False,False
+2018-01-28,Australia,Portugal,Portugal,M. Khan,65,False,False
+2018-11-13,Qatar,Colombia,Colombia,Y. Diallo,72,False,False
+2018-11-13,Qatar,Colombia,Colombia,Y. Diallo,73,False,False
+2018-10-03,Iraq,Czech Republic,Iraq,M. Khan,75,False,False
+2018-11-27,Uzbekistan,England,England,K. Tanaka,84,False,False
+2018-11-27,Uzbekistan,England,England,R. Santos,15,False,True
+2018-11-27,Uzbekistan,England,England,M. Khan,47,False,False
+2018-10-17,Denmark,Peru,Denmark,Y. Diallo,37,False,False
+2018-10-17,Denmark,Peru,Denmark,M. Khan,12,False,False
+2018-10-17,Denmark,Peru,Peru,L. Garcia,19,False,False
+2018-10-17,Denmark,Peru,Denmark,L. Garcia,84,False,False
+2018-02-25,Denmark,Senegal,Denmark,J. Martinez,21,False,False
+2018-10-31,Norway,Costa Rica,Norway,M. Khan,78,False,False
+2018-10-31,Norway,Costa Rica,Costa Rica,M. Khan,71,False,False
+2018-03-11,Norway,Egypt,Egypt,L. Garcia,73,False,False
+2018-11-14,Austria,Mexico,Austria,L. Garcia,23,False,False
+2018-11-14,Austria,Mexico,Austria,J. Martinez,13,False,False
+2018-11-14,Austria,Mexico,Austria,Y. Diallo,22,False,False
+2018-03-25,Austria,Ghana,Ghana,R. Santos,13,False,False
+2018-03-25,Austria,Ghana,Austria,J. Martinez,11,False,False
+2018-03-25,Austria,Ghana,Austria,Y. Diallo,73,False,False
+2018-11-28,Turkey,Argentina,Turkey,L. Garcia,44,False,False
+2018-04-08,Turkey,Algeria,Algeria,L. Garcia,45,False,False
+2018-02-26,Czech Republic,Spain,Spain,R. Santos,18,False,False
+2018-02-26,Czech Republic,Spain,Spain,M. Khan,83,False,False
+2018-02-26,Czech Republic,Spain,Czech Republic,K. Tanaka,73,False,False
+2018-01-16,Chile,Uruguay,Chile,A. Silva,20,False,False
+2018-01-16,Chile,Uruguay,Uruguay,M. Khan,12,False,True
+2018-03-12,Peru,Italy,Italy,Y. Diallo,43,False,False
+2018-01-30,Paraguay,Ecuador,Paraguay,Y. Diallo,17,False,False
+2018-01-30,Paraguay,Ecuador,Paraguay,A. Silva,50,False,False
+2018-01-30,Paraguay,Ecuador,Paraguay,K. Tanaka,10,False,False
+2018-01-30,Paraguay,Ecuador,Paraguay,J. Martinez,13,False,False
+2018-03-26,Costa Rica,Morocco,Morocco,A. Silva,36,False,False
+2019-05-14,Canada,Iraq,Canada,Y. Diallo,77,False,False
+2019-04-03,Mexico,Egypt,Mexico,R. Santos,83,False,True
+2019-02-21,United States,Germany,Germany,L. Garcia,86,False,False
+2019-02-21,United States,Germany,United States,D. Smith,9,False,False
+2019-02-21,United States,Germany,United States,Y. Diallo,55,False,False
+2019-04-17,Argentina,Ghana,Ghana,L. Garcia,85,False,False
+2019-04-17,Argentina,Ghana,Ghana,J. Martinez,66,False,False
+2019-03-07,Brazil,Belgium,Brazil,Y. Diallo,70,False,False
+2019-03-07,Brazil,Belgium,Brazil,J. Martinez,86,False,False
+2019-03-07,Brazil,Belgium,Belgium,A. Silva,17,False,False
+2019-03-07,Brazil,Belgium,Brazil,A. Silva,54,False,False
+2019-05-01,Uruguay,Algeria,Uruguay,K. Tanaka,24,False,False
+2019-05-15,Ecuador,South Korea,South Korea,M. Khan,88,False,False
+2019-05-15,Ecuador,South Korea,Ecuador,J. Martinez,74,False,False
+2019-05-15,Ecuador,South Korea,Ecuador,K. Tanaka,81,False,False
+2019-04-04,England,Italy,England,K. Tanaka,17,False,False
+2019-04-04,England,Italy,England,R. Santos,67,False,False
+2019-04-04,England,Italy,Italy,M. Khan,54,False,False
+2019-05-29,Scotland,Saudi Arabia,Saudi Arabia,J. Martinez,57,False,False
+2019-05-29,Scotland,Saudi Arabia,Saudi Arabia,M. Khan,85,False,False
+2019-05-29,Scotland,Saudi Arabia,Saudi Arabia,Y. Diallo,31,False,False
+2019-04-18,Wales,Morocco,Wales,M. Khan,63,False,False
+2019-06-12,France,Qatar,France,J. Martinez,69,False,False
+2019-05-02,Germany,Tunisia,Tunisia,K. Tanaka,41,False,False
+2019-08-06,Germany,Paraguay,Germany,K. Tanaka,24,False,False
+2019-06-26,Netherlands,Uzbekistan,Uzbekistan,A. Silva,55,False,False
+2019-06-26,Netherlands,Uzbekistan,Uzbekistan,M. Khan,70,False,True
+2019-05-16,Belgium,Nigeria,Belgium,K. Tanaka,81,False,False
+2019-08-20,Belgium,Canada,Belgium,A. Silva,8,False,True
+2019-08-20,Belgium,Canada,Belgium,K. Tanaka,81,False,False
+2019-07-10,Croatia,Sweden,Croatia,L. Garcia,14,False,False
+2019-05-30,Spain,Cameroon,Cameroon,R. Santos,43,False,False
+2019-09-03,Spain,United States,United States,K. Tanaka,72,False,False
+2019-09-03,Spain,United States,United States,D. Smith,28,False,True
+2019-07-24,Portugal,Poland,Portugal,D. Smith,19,False,False
+2019-07-24,Portugal,Poland,Portugal,M. Khan,70,False,False
+2019-07-24,Portugal,Poland,Portugal,K. Tanaka,74,False,True
+2019-07-24,Portugal,Poland,Portugal,K. Tanaka,31,False,False
+2019-06-13,Italy,Japan,Italy,K. Tanaka,15,False,False
+2019-08-07,Switzerland,Serbia,Serbia,J. Martinez,86,False,False
+2019-08-07,Switzerland,Serbia,Serbia,K. Tanaka,30,False,False
+2019-10-01,Morocco,Colombia,Colombia,L. Garcia,18,False,False
+2019-10-01,Morocco,Colombia,Colombia,R. Santos,13,False,True
+2019-08-21,Senegal,Czech Republic,Senegal,A. Silva,80,False,True
+2019-07-11,Tunisia,Australia,Australia,K. Tanaka,17,False,False
+2019-09-04,Egypt,Peru,Peru,D. Smith,8,False,False
+2019-07-25,Nigeria,Iraq,Iraq,K. Tanaka,19,False,False
+2019-07-25,Nigeria,Iraq,Nigeria,M. Khan,72,False,False
+2019-07-25,Nigeria,Iraq,Nigeria,Y. Diallo,81,False,False
+2019-10-29,Nigeria,Wales,Nigeria,D. Smith,81,False,False
+2019-10-29,Nigeria,Wales,Nigeria,J. Martinez,35,False,False
+2019-10-29,Nigeria,Wales,Wales,M. Khan,60,False,False
+2019-09-18,Ghana,Costa Rica,Costa Rica,J. Martinez,33,False,False
+2019-09-18,Ghana,Costa Rica,Costa Rica,J. Martinez,47,False,True
+2019-08-08,Cameroon,Denmark,Cameroon,K. Tanaka,50,False,False
+2019-10-02,Algeria,Mexico,Mexico,J. Martinez,86,False,False
+2019-10-02,Algeria,Mexico,Algeria,K. Tanaka,59,False,False
+2019-10-02,Algeria,Mexico,Algeria,L. Garcia,36,False,False
+2019-08-22,Japan,Norway,Japan,D. Smith,27,False,False
+2019-08-22,Japan,Norway,Japan,Y. Diallo,61,False,False
+2019-08-22,Japan,Norway,Norway,L. Garcia,75,False,False
+2019-11-26,Japan,Belgium,Belgium,L. Garcia,40,False,False
+2019-11-26,Japan,Belgium,Belgium,K. Tanaka,46,False,False
+2019-10-16,South Korea,Argentina,South Korea,M. Khan,56,False,False
+2019-10-16,South Korea,Argentina,South Korea,A. Silva,88,False,False
+2019-10-16,South Korea,Argentina,South Korea,D. Smith,46,False,False
+2019-09-05,Iran,Austria,Iran,K. Tanaka,58,False,False
+2019-01-14,Iran,Spain,Spain,A. Silva,54,False,False
+2019-01-14,Iran,Spain,Iran,K. Tanaka,58,False,False
+2019-01-14,Iran,Spain,Iran,A. Silva,28,False,False
+2019-01-14,Iran,Spain,Spain,A. Silva,34,False,False
+2019-10-30,Saudi Arabia,Uruguay,Uruguay,J. Martinez,84,False,False
+2019-10-30,Saudi Arabia,Uruguay,Uruguay,R. Santos,21,False,False
+2019-09-19,Australia,Turkey,Turkey,A. Silva,57,False,False
+2019-09-19,Australia,Turkey,Turkey,R. Santos,20,False,False
+2019-01-28,Australia,Italy,Italy,Y. Diallo,14,False,False
+2019-01-28,Australia,Italy,Australia,L. Garcia,30,False,False
+2019-01-28,Australia,Italy,Italy,D. Smith,29,False,False
+2019-10-03,Iraq,Chile,Chile,A. Silva,18,False,False
+2019-02-11,Iraq,Morocco,Morocco,K. Tanaka,25,False,False
+2019-02-11,Iraq,Morocco,Iraq,M. Khan,31,False,False
+2019-02-11,Iraq,Morocco,Morocco,A. Silva,64,False,True
+2019-11-27,Uzbekistan,Scotland,Uzbekistan,M. Khan,22,False,False
+2019-10-17,Denmark,Paraguay,Denmark,K. Tanaka,52,False,True
+2019-10-17,Denmark,Paraguay,Denmark,R. Santos,83,False,True
+2019-10-17,Denmark,Paraguay,Denmark,L. Garcia,41,False,False
+2019-02-25,Denmark,Tunisia,Denmark,K. Tanaka,67,False,False
+2019-02-25,Denmark,Tunisia,Tunisia,K. Tanaka,84,False,False
+2019-02-25,Denmark,Tunisia,Tunisia,J. Martinez,78,False,True
+2019-01-15,Sweden,France,France,L. Garcia,58,False,False
+2019-01-15,Sweden,France,France,A. Silva,44,False,False
+2019-10-31,Norway,Canada,Norway,A. Silva,82,False,False
+2019-10-31,Norway,Canada,Norway,D. Smith,23,False,True
+2019-10-31,Norway,Canada,Norway,J. Martinez,8,False,False
+2019-10-31,Norway,Canada,Canada,K. Tanaka,43,False,False
+2019-03-11,Norway,Nigeria,Nigeria,K. Tanaka,86,False,False
+2019-01-29,Poland,Netherlands,Netherlands,K. Tanaka,39,False,False
+2019-11-14,Austria,United States,Austria,A. Silva,54,False,True
+2019-03-25,Austria,Cameroon,Cameroon,A. Silva,70,False,False
+2019-02-12,Serbia,Croatia,Serbia,A. Silva,58,False,True
+2019-02-12,Serbia,Croatia,Serbia,R. Santos,81,False,False
+2019-11-28,Turkey,Brazil,Turkey,M. Khan,13,False,False
+2019-11-28,Turkey,Brazil,Brazil,L. Garcia,38,False,False
+2019-11-28,Turkey,Brazil,Turkey,K. Tanaka,69,False,False
+2019-04-08,Turkey,Japan,Turkey,R. Santos,10,False,False
+2019-02-26,Czech Republic,Portugal,Czech Republic,L. Garcia,28,False,False
+2019-02-26,Czech Republic,Portugal,Czech Republic,A. Silva,50,False,True
+2019-04-22,Chile,Iran,Chile,M. Khan,35,False,False
+2019-04-22,Chile,Iran,Chile,J. Martinez,56,False,False
+2019-03-12,Peru,Switzerland,Switzerland,M. Khan,40,False,False
+2019-03-12,Peru,Switzerland,Peru,K. Tanaka,31,False,False
+2019-03-12,Peru,Switzerland,Peru,A. Silva,82,False,False
+2019-03-12,Peru,Switzerland,Switzerland,Y. Diallo,15,False,False
+2019-05-06,Paraguay,Australia,Paraguay,A. Silva,13,False,False
+2019-03-26,Costa Rica,Senegal,Senegal,D. Smith,77,False,False
+2019-03-26,Costa Rica,Senegal,Costa Rica,J. Martinez,79,False,True
+2020-02-07,Canada,France,Canada,M. Khan,58,False,False
+2020-04-02,Mexico,Nigeria,Mexico,K. Tanaka,8,False,False
+2020-02-21,United States,Netherlands,Netherlands,R. Santos,66,False,False
+2020-02-21,United States,Netherlands,Netherlands,M. Khan,50,False,True
+2020-02-21,United States,Netherlands,Netherlands,Y. Diallo,80,False,False
+2020-02-21,United States,Netherlands,United States,L. Garcia,79,False,False
+2020-05-27,United States,Sweden,United States,M. Khan,38,False,False
+2020-04-16,Argentina,Cameroon,Argentina,M. Khan,26,False,True
+2020-04-16,Argentina,Cameroon,Argentina,R. Santos,66,False,False
+2020-04-16,Argentina,Cameroon,Cameroon,M. Khan,55,False,True
+2020-03-06,Brazil,Croatia,Brazil,K. Tanaka,64,False,False
+2020-06-10,Brazil,Poland,Brazil,L. Garcia,36,False,False
+2020-06-10,Brazil,Poland,Poland,J. Martinez,78,False,False
+2020-04-30,Uruguay,Japan,Uruguay,J. Martinez,85,False,False
+2020-04-30,Uruguay,Japan,Japan,A. Silva,29,False,False
+2020-03-20,Colombia,Portugal,Colombia,J. Martinez,80,False,False
+2020-03-20,Colombia,Portugal,Colombia,K. Tanaka,20,False,False
+2020-06-24,Colombia,Serbia,Colombia,K. Tanaka,78,False,False
+2020-05-14,Ecuador,Iran,Iran,J. Martinez,67,False,False
+2020-05-14,Ecuador,Iran,Ecuador,A. Silva,68,False,False
+2020-05-14,Ecuador,Iran,Iran,L. Garcia,29,False,False
+2020-04-03,England,Switzerland,England,Y. Diallo,85,False,False
+2020-04-03,England,Switzerland,England,R. Santos,35,False,False
+2020-04-03,England,Switzerland,Switzerland,D. Smith,16,False,False
+2020-07-08,England,Czech Republic,Czech Republic,J. Martinez,47,False,False
+2020-04-17,Wales,Senegal,Wales,A. Silva,25,False,False
+2020-04-17,Wales,Senegal,Wales,D. Smith,29,False,False
+2020-04-17,Wales,Senegal,Senegal,L. Garcia,69,False,False
+2020-07-22,Wales,Peru,Wales,J. Martinez,27,False,False
+2020-06-11,France,Iraq,Iraq,J. Martinez,70,False,True
+2020-06-11,France,Iraq,Iraq,K. Tanaka,43,False,False
+2020-06-11,France,Iraq,Iraq,A. Silva,35,False,False
+2020-05-01,Germany,Egypt,Egypt,M. Khan,88,False,True
+2020-08-05,Germany,Costa Rica,Germany,M. Khan,34,False,False
+2020-08-05,Germany,Costa Rica,Germany,R. Santos,14,False,False
+2020-06-25,Netherlands,Denmark,Netherlands,L. Garcia,24,False,True
+2020-06-25,Netherlands,Denmark,Denmark,M. Khan,21,False,False
+2020-05-15,Belgium,Ghana,Belgium,Y. Diallo,61,False,False
+2020-05-15,Belgium,Ghana,Ghana,A. Silva,50,False,False
+2020-05-15,Belgium,Ghana,Ghana,L. Garcia,14,False,False
+2020-08-19,Belgium,Mexico,Belgium,Y. Diallo,64,False,False
+2020-08-19,Belgium,Mexico,Belgium,L. Garcia,66,False,False
+2020-07-09,Croatia,Norway,Norway,J. Martinez,17,False,False
+2020-07-09,Croatia,Norway,Norway,J. Martinez,10,False,False
+2020-05-29,Spain,Algeria,Spain,M. Khan,56,False,False
+2020-05-29,Spain,Algeria,Algeria,L. Garcia,85,False,True
+2020-09-02,Spain,Argentina,Spain,D. Smith,11,False,True
+2020-09-02,Spain,Argentina,Spain,M. Khan,41,False,False
+2020-07-23,Portugal,Austria,Austria,L. Garcia,18,False,False
+2020-06-12,Italy,South Korea,Italy,A. Silva,61,False,False
+2020-09-16,Italy,Uruguay,Uruguay,Y. Diallo,79,False,False
+2020-09-16,Italy,Uruguay,Uruguay,R. Santos,55,False,False
+2020-08-06,Switzerland,Turkey,Switzerland,Y. Diallo,13,False,False
+2020-08-06,Switzerland,Turkey,Switzerland,Y. Diallo,57,False,False
+2020-06-26,Morocco,Saudi Arabia,Morocco,D. Smith,15,False,False
+2020-06-26,Morocco,Saudi Arabia,Morocco,Y. Diallo,46,False,False
+2020-06-26,Morocco,Saudi Arabia,Morocco,D. Smith,82,False,False
+2020-09-30,Morocco,Ecuador,Morocco,A. Silva,32,False,False
+2020-09-30,Morocco,Ecuador,Ecuador,M. Khan,36,False,False
+2020-09-30,Morocco,Ecuador,Morocco,M. Khan,80,False,False
+2020-08-20,Senegal,Chile,Senegal,M. Khan,63,False,False
+2020-08-20,Senegal,Chile,Chile,M. Khan,23,False,False
+2020-07-10,Tunisia,Qatar,Tunisia,M. Khan,51,False,True
+2020-07-10,Tunisia,Qatar,Tunisia,A. Silva,79,False,False
+2020-07-10,Tunisia,Qatar,Tunisia,J. Martinez,49,False,False
+2020-10-14,Tunisia,Scotland,Scotland,D. Smith,60,False,False
+2020-10-14,Tunisia,Scotland,Scotland,Y. Diallo,26,False,False
+2020-09-03,Egypt,Paraguay,Egypt,L. Garcia,33,False,False
+2020-09-03,Egypt,Paraguay,Paraguay,D. Smith,79,False,False
+2020-10-28,Nigeria,France,France,K. Tanaka,31,False,False
+2020-10-28,Nigeria,France,Nigeria,D. Smith,54,False,False
+2020-09-17,Ghana,Canada,Canada,L. Garcia,12,False,True
+2020-08-07,Cameroon,Sweden,Cameroon,A. Silva,54,False,False
+2020-08-07,Cameroon,Sweden,Sweden,K. Tanaka,75,False,False
+2020-10-01,Algeria,United States,United States,D. Smith,57,False,False
+2020-08-21,Japan,Poland,Poland,D. Smith,66,False,False
+2020-08-21,Japan,Poland,Poland,K. Tanaka,59,False,False
+2020-10-15,South Korea,Brazil,South Korea,R. Santos,54,False,False
+2020-10-15,South Korea,Brazil,South Korea,Y. Diallo,38,False,False
+2020-10-15,South Korea,Brazil,Brazil,Y. Diallo,63,False,False
+2020-09-04,Iran,Serbia,Iran,M. Khan,16,False,False
+2020-09-04,Iran,Serbia,Iran,A. Silva,63,False,False
+2020-09-04,Iran,Serbia,Serbia,D. Smith,34,False,False
+2020-09-04,Iran,Serbia,Serbia,M. Khan,43,False,False
+2020-10-29,Saudi Arabia,Colombia,Saudi Arabia,K. Tanaka,84,False,False
+2020-10-29,Saudi Arabia,Colombia,Saudi Arabia,R. Santos,26,False,False
+2020-09-18,Australia,Czech Republic,Australia,D. Smith,38,False,False
+2020-09-18,Australia,Czech Republic,Australia,J. Martinez,9,False,False
+2020-01-28,Australia,Switzerland,Switzerland,D. Smith,57,False,True
+2020-01-28,Australia,Switzerland,Switzerland,D. Smith,23,False,False
+2020-11-12,Qatar,England,Qatar,M. Khan,82,False,False
+2020-11-12,Qatar,England,England,D. Smith,33,False,False
+2020-02-11,Iraq,Senegal,Iraq,A. Silva,47,False,False
+2020-10-16,Denmark,Costa Rica,Costa Rica,R. Santos,60,False,False
+2020-10-16,Denmark,Costa Rica,Costa Rica,A. Silva,36,False,True
+2020-02-25,Denmark,Egypt,Egypt,M. Khan,23,False,False
+2020-02-25,Denmark,Egypt,Denmark,K. Tanaka,71,False,False
+2020-02-25,Denmark,Egypt,Denmark,D. Smith,75,False,False
+2020-01-15,Sweden,Germany,Sweden,D. Smith,34,False,False
+2020-03-10,Norway,Ghana,Ghana,R. Santos,30,False,False
+2020-03-10,Norway,Ghana,Ghana,R. Santos,63,False,True
+2020-01-29,Poland,Belgium,Belgium,A. Silva,71,False,False
+2020-01-29,Poland,Belgium,Poland,K. Tanaka,32,False,False
+2020-01-29,Poland,Belgium,Belgium,L. Garcia,28,False,False
+2020-11-13,Austria,Argentina,Austria,Y. Diallo,67,False,False
+2020-11-13,Austria,Argentina,Austria,L. Garcia,65,False,False
+2020-03-24,Austria,Algeria,Austria,A. Silva,8,False,False
+2020-02-12,Serbia,Spain,Spain,K. Tanaka,13,False,False
+2020-11-27,Turkey,Uruguay,Turkey,K. Tanaka,64,False,False
+2020-11-27,Turkey,Uruguay,Turkey,A. Silva,76,False,True
+2020-11-27,Turkey,Uruguay,Uruguay,R. Santos,16,False,False
+2020-04-07,Turkey,South Korea,South Korea,J. Martinez,30,False,False
+2020-02-26,Czech Republic,Italy,Italy,L. Garcia,48,False,True
+2020-02-26,Czech Republic,Italy,Czech Republic,D. Smith,67,False,False
+2020-01-16,Chile,Ecuador,Ecuador,L. Garcia,81,False,False
+2020-01-16,Chile,Ecuador,Chile,J. Martinez,23,False,False
+2020-04-21,Chile,Saudi Arabia,Chile,Y. Diallo,29,False,False
+2020-04-21,Chile,Saudi Arabia,Chile,M. Khan,12,False,False
+2020-04-21,Chile,Saudi Arabia,Chile,A. Silva,33,False,False
+2020-03-11,Peru,Morocco,Morocco,R. Santos,31,False,False
+2020-03-11,Peru,Morocco,Peru,K. Tanaka,81,False,False
+2020-01-30,Paraguay,Scotland,Scotland,M. Khan,53,False,False
+2020-01-30,Paraguay,Scotland,Scotland,R. Santos,35,False,False
+2020-05-05,Paraguay,Qatar,Qatar,M. Khan,86,False,True
+2020-05-05,Paraguay,Qatar,Paraguay,R. Santos,32,False,False
+2021-05-14,Canada,Denmark,Canada,Y. Diallo,36,False,True
+2021-05-14,Canada,Denmark,Canada,A. Silva,53,False,False
+2021-05-14,Canada,Denmark,Canada,A. Silva,24,False,False
+2021-04-03,Mexico,Ghana,Mexico,M. Khan,66,False,False
+2021-02-21,United States,Belgium,Belgium,L. Garcia,71,False,False
+2021-02-21,United States,Belgium,United States,R. Santos,23,False,False
+2021-02-21,United States,Belgium,United States,K. Tanaka,72,False,False
+2021-05-28,United States,Norway,Norway,M. Khan,78,False,False
+2021-05-28,United States,Norway,Norway,R. Santos,36,False,False
+2021-04-17,Argentina,Algeria,Argentina,D. Smith,88,False,False
+2021-04-17,Argentina,Algeria,Argentina,K. Tanaka,63,False,False
+2021-04-17,Argentina,Algeria,Argentina,M. Khan,41,False,False
+2021-03-07,Brazil,Spain,Spain,M. Khan,35,False,False
+2021-06-11,Brazil,Austria,Austria,A. Silva,28,False,False
+2021-05-01,Uruguay,South Korea,Uruguay,M. Khan,85,False,False
+2021-03-21,Colombia,Italy,Colombia,K. Tanaka,80,False,False
+2021-03-21,Colombia,Italy,Colombia,K. Tanaka,27,False,False
+2021-03-21,Colombia,Italy,Italy,Y. Diallo,88,False,False
+2021-03-21,Colombia,Italy,Italy,R. Santos,31,False,False
+2021-05-15,Ecuador,Saudi Arabia,Ecuador,J. Martinez,39,False,False
+2021-04-04,England,Morocco,England,L. Garcia,42,False,True
+2021-04-04,England,Morocco,Morocco,L. Garcia,58,False,False
+2021-04-04,England,Morocco,Morocco,J. Martinez,70,False,False
+2021-04-04,England,Morocco,England,A. Silva,43,False,False
+2021-07-09,England,Chile,Chile,M. Khan,17,False,False
+2021-07-09,England,Chile,England,D. Smith,36,False,False
+2021-05-29,Scotland,Qatar,Qatar,Y. Diallo,37,False,True
+2021-05-29,Scotland,Qatar,Qatar,R. Santos,81,False,True
+2021-05-29,Scotland,Qatar,Scotland,J. Martinez,68,False,False
+2021-07-23,Wales,Paraguay,Paraguay,K. Tanaka,88,False,True
+2021-06-12,France,Uzbekistan,France,K. Tanaka,42,False,False
+2021-06-12,France,Uzbekistan,France,J. Martinez,17,False,False
+2021-05-02,Germany,Nigeria,Nigeria,K. Tanaka,56,False,False
+2021-05-02,Germany,Nigeria,Germany,M. Khan,83,False,True
+2021-08-06,Germany,Canada,Canada,A. Silva,8,False,False
+2021-06-26,Netherlands,Sweden,Sweden,A. Silva,63,False,True
+2021-05-16,Belgium,Cameroon,Belgium,J. Martinez,71,False,False
+2021-05-16,Belgium,Cameroon,Belgium,L. Garcia,20,False,False
+2021-05-30,Spain,Japan,Spain,R. Santos,63,False,False
+2021-05-30,Spain,Japan,Japan,R. Santos,87,False,False
+2021-07-24,Portugal,Serbia,Portugal,R. Santos,29,False,False
+2021-06-13,Italy,Iran,Iran,M. Khan,85,False,False
+2021-09-17,Italy,Colombia,Italy,K. Tanaka,57,False,False
+2021-09-17,Italy,Colombia,Colombia,R. Santos,11,False,False
+2021-08-07,Switzerland,Czech Republic,Czech Republic,L. Garcia,61,False,False
+2021-08-07,Switzerland,Czech Republic,Czech Republic,D. Smith,53,False,False
+2021-08-07,Switzerland,Czech Republic,Czech Republic,Y. Diallo,38,False,False
+2021-06-27,Morocco,Australia,Australia,M. Khan,32,False,False
+2021-06-27,Morocco,Australia,Morocco,M. Khan,11,False,False
+2021-06-27,Morocco,Australia,Morocco,A. Silva,73,False,False
+2021-06-27,Morocco,Australia,Morocco,Y. Diallo,82,False,False
+2021-10-01,Morocco,England,England,D. Smith,44,False,False
+2021-10-01,Morocco,England,England,A. Silva,80,False,False
+2021-10-01,Morocco,England,England,R. Santos,66,False,False
+2021-08-21,Senegal,Peru,Senegal,D. Smith,47,False,False
+2021-08-21,Senegal,Peru,Peru,D. Smith,77,False,False
+2021-08-21,Senegal,Peru,Senegal,L. Garcia,63,False,False
+2021-10-15,Tunisia,Wales,Wales,A. Silva,52,False,False
+2021-10-15,Tunisia,Wales,Tunisia,A. Silva,62,False,False
+2021-09-04,Egypt,Costa Rica,Costa Rica,R. Santos,53,False,False
+2021-09-04,Egypt,Costa Rica,Costa Rica,Y. Diallo,48,False,False
+2021-07-25,Nigeria,Denmark,Denmark,R. Santos,80,False,False
+2021-07-25,Nigeria,Denmark,Nigeria,K. Tanaka,62,False,False
+2021-08-08,Cameroon,Norway,Cameroon,A. Silva,56,False,False
+2021-08-08,Cameroon,Norway,Norway,A. Silva,36,False,False
+2021-11-12,Cameroon,Belgium,Cameroon,M. Khan,52,False,False
+2021-11-12,Cameroon,Belgium,Belgium,Y. Diallo,22,False,False
+2021-10-02,Algeria,Argentina,Argentina,D. Smith,18,False,False
+2021-08-22,Japan,Austria,Austria,Y. Diallo,87,False,False
+2021-08-22,Japan,Austria,Japan,Y. Diallo,79,False,False
+2021-08-22,Japan,Austria,Austria,D. Smith,80,False,False
+2021-11-26,Japan,Spain,Spain,D. Smith,45,False,False
+2021-10-16,South Korea,Uruguay,South Korea,L. Garcia,17,False,False
+2021-10-16,South Korea,Uruguay,South Korea,D. Smith,47,False,False
+2021-10-16,South Korea,Uruguay,South Korea,L. Garcia,86,False,False
+2021-09-05,Iran,Turkey,Iran,M. Khan,42,False,False
+2021-09-05,Iran,Turkey,Iran,K. Tanaka,60,False,False
+2021-01-14,Iran,Italy,Italy,R. Santos,24,False,False
+2021-10-30,Saudi Arabia,Ecuador,Ecuador,D. Smith,35,False,True
+2021-10-30,Saudi Arabia,Ecuador,Saudi Arabia,A. Silva,81,False,False
+2021-01-28,Australia,Morocco,Australia,A. Silva,81,False,False
+2021-11-13,Qatar,Scotland,Scotland,R. Santos,22,False,False
+2021-11-13,Qatar,Scotland,Scotland,K. Tanaka,69,False,False
+2021-10-03,Iraq,Paraguay,Paraguay,Y. Diallo,88,False,False
+2021-02-11,Iraq,Tunisia,Tunisia,M. Khan,68,False,False
+2021-11-27,Uzbekistan,France,Uzbekistan,A. Silva,24,False,False
+2021-11-27,Uzbekistan,France,France,D. Smith,12,False,False
+2021-10-17,Denmark,Canada,Denmark,L. Garcia,16,False,False
+2021-03-11,Norway,Cameroon,Norway,K. Tanaka,11,False,True
+2021-11-14,Austria,Brazil,Brazil,R. Santos,22,False,False
+2021-11-14,Austria,Brazil,Austria,K. Tanaka,34,False,False
+2021-03-25,Austria,Japan,Austria,K. Tanaka,84,False,False
+2021-04-08,Turkey,Iran,Iran,Y. Diallo,88,False,False
+2021-04-08,Turkey,Iran,Turkey,L. Garcia,68,False,False
+2021-02-26,Czech Republic,Switzerland,Switzerland,D. Smith,41,False,False
+2021-01-16,Chile,England,Chile,J. Martinez,49,False,True
+2021-01-16,Chile,England,England,K. Tanaka,58,False,True
+2021-03-12,Peru,Senegal,Senegal,L. Garcia,34,False,False
+2021-03-12,Peru,Senegal,Peru,M. Khan,45,False,True
+2021-01-30,Paraguay,Wales,Paraguay,R. Santos,39,False,False
+2021-05-06,Paraguay,Iraq,Paraguay,J. Martinez,41,False,True
+2021-03-26,Costa Rica,Egypt,Costa Rica,Y. Diallo,37,False,False
+2021-03-26,Costa Rica,Egypt,Costa Rica,A. Silva,65,False,True
+2021-03-26,Costa Rica,Egypt,Egypt,K. Tanaka,82,False,False
+2021-03-26,Costa Rica,Egypt,Egypt,D. Smith,61,False,False
+2022-02-07,Canada,Netherlands,Canada,J. Martinez,82,False,False
+2022-02-07,Canada,Netherlands,Netherlands,R. Santos,14,False,False
+2022-05-14,Canada,Sweden,Canada,A. Silva,16,False,False
+2022-05-14,Canada,Sweden,Sweden,A. Silva,67,False,False
+2022-04-03,Mexico,Cameroon,Mexico,D. Smith,76,False,False
+2022-04-03,Mexico,Cameroon,Mexico,R. Santos,54,False,False
+2022-04-03,Mexico,Cameroon,Cameroon,M. Khan,14,False,False
+2022-04-03,Mexico,Cameroon,Mexico,M. Khan,28,False,False
+2022-02-21,United States,Croatia,United States,K. Tanaka,37,False,False
+2022-02-21,United States,Croatia,Croatia,L. Garcia,9,False,False
+2022-02-21,United States,Croatia,United States,A. Silva,25,False,False
+2022-05-28,United States,Poland,United States,J. Martinez,40,False,False
+2022-05-28,United States,Poland,United States,Y. Diallo,60,False,False
+2022-04-17,Argentina,Japan,Japan,A. Silva,54,False,False
+2022-03-07,Brazil,Portugal,Brazil,R. Santos,62,False,False
+2022-06-11,Brazil,Serbia,Serbia,A. Silva,52,False,False
+2022-06-11,Brazil,Serbia,Serbia,L. Garcia,48,False,True
+2022-06-11,Brazil,Serbia,Serbia,M. Khan,39,False,False
+2022-05-01,Uruguay,Iran,Iran,R. Santos,82,False,False
+2022-05-01,Uruguay,Iran,Uruguay,D. Smith,79,False,False
+2022-03-21,Colombia,Switzerland,Colombia,D. Smith,24,False,False
+2022-06-25,Colombia,Czech Republic,Colombia,M. Khan,82,False,False
+2022-06-25,Colombia,Czech Republic,Czech Republic,M. Khan,10,False,False
+2022-06-25,Colombia,Czech Republic,Czech Republic,A. Silva,19,False,False
+2022-05-15,Ecuador,Australia,Australia,D. Smith,60,False,False
+2022-04-04,England,Senegal,Senegal,J. Martinez,77,False,False
+2022-04-04,England,Senegal,England,R. Santos,67,False,False
+2022-07-09,England,Peru,Peru,M. Khan,41,False,False
+2022-07-09,England,Peru,England,K. Tanaka,60,False,False
+2022-07-09,England,Peru,England,R. Santos,21,False,False
+2022-07-09,England,Peru,Peru,M. Khan,87,False,False
+2022-05-29,Scotland,Iraq,Scotland,K. Tanaka,16,False,False
+2022-07-23,Wales,Costa Rica,Wales,D. Smith,82,False,False
+2022-07-23,Wales,Costa Rica,Costa Rica,M. Khan,51,False,False
+2022-06-12,France,Denmark,France,J. Martinez,70,False,False
+2022-06-12,France,Denmark,France,J. Martinez,39,False,True
+2022-06-12,France,Denmark,France,R. Santos,88,False,False
+2022-05-02,Germany,Ghana,Germany,A. Silva,13,False,False
+2022-05-02,Germany,Ghana,Ghana,J. Martinez,38,False,False
+2022-05-02,Germany,Ghana,Germany,R. Santos,52,False,False
+2022-05-02,Germany,Ghana,Germany,L. Garcia,78,False,False
+2022-08-06,Germany,Mexico,Mexico,D. Smith,53,False,False
+2022-08-06,Germany,Mexico,Germany,K. Tanaka,21,False,False
+2022-06-26,Netherlands,Norway,Netherlands,M. Khan,22,False,False
+2022-06-26,Netherlands,Norway,Netherlands,Y. Diallo,71,False,False
+2022-05-16,Belgium,Algeria,Algeria,M. Khan,39,False,False
+2022-05-16,Belgium,Algeria,Belgium,D. Smith,36,False,False
+2022-08-20,Belgium,Argentina,Belgium,Y. Diallo,22,False,False
+2022-09-03,Spain,Uruguay,Uruguay,Y. Diallo,41,False,False
+2022-07-24,Portugal,Turkey,Turkey,L. Garcia,32,False,False
+2022-07-24,Portugal,Turkey,Portugal,D. Smith,8,False,False
+2022-06-13,Italy,Saudi Arabia,Saudi Arabia,R. Santos,10,False,False
+2022-06-13,Italy,Saudi Arabia,Saudi Arabia,K. Tanaka,47,False,True
+2022-06-13,Italy,Saudi Arabia,Italy,M. Khan,72,False,True
+2022-09-17,Italy,Ecuador,Ecuador,K. Tanaka,55,False,True
+2022-09-17,Italy,Ecuador,Ecuador,K. Tanaka,86,False,False
+2022-06-27,Morocco,Qatar,Morocco,M. Khan,65,False,False
+2022-10-01,Morocco,Scotland,Morocco,K. Tanaka,34,False,False
+2022-08-21,Senegal,Paraguay,Paraguay,R. Santos,42,False,False
+2022-08-21,Senegal,Paraguay,Senegal,K. Tanaka,31,False,False
+2022-08-21,Senegal,Paraguay,Senegal,J. Martinez,65,False,False
+2022-07-11,Tunisia,Uzbekistan,Tunisia,M. Khan,52,False,True
+2022-07-11,Tunisia,Uzbekistan,Tunisia,M. Khan,77,False,False
+2022-07-11,Tunisia,Uzbekistan,Tunisia,J. Martinez,18,False,False
+2022-10-15,Tunisia,France,Tunisia,M. Khan,60,False,False
+2022-09-04,Egypt,Canada,Egypt,Y. Diallo,48,False,False
+2022-09-04,Egypt,Canada,Canada,M. Khan,82,False,False
+2022-10-29,Nigeria,Netherlands,Netherlands,M. Khan,30,False,True
+2022-10-29,Nigeria,Netherlands,Nigeria,K. Tanaka,87,False,False
+2022-09-18,Ghana,United States,Ghana,K. Tanaka,87,False,True
+2022-08-08,Cameroon,Poland,Cameroon,A. Silva,34,False,True
+2022-08-08,Cameroon,Poland,Poland,L. Garcia,21,False,False
+2022-11-12,Cameroon,Croatia,Croatia,J. Martinez,28,False,False
+2022-11-12,Cameroon,Croatia,Cameroon,M. Khan,16,False,False
+2022-11-26,Japan,Portugal,Portugal,J. Martinez,55,False,False
+2022-10-16,South Korea,Colombia,Colombia,Y. Diallo,76,False,False
+2022-10-16,South Korea,Colombia,Colombia,D. Smith,27,False,False
+2022-09-05,Iran,Czech Republic,Iran,K. Tanaka,21,False,False
+2022-09-05,Iran,Czech Republic,Iran,Y. Diallo,82,False,False
+2022-01-14,Iran,Switzerland,Iran,Y. Diallo,47,False,False
+2022-01-14,Iran,Switzerland,Switzerland,R. Santos,25,False,False
+2022-01-14,Iran,Switzerland,Iran,L. Garcia,8,False,False
+2022-10-30,Saudi Arabia,England,England,D. Smith,74,False,False
+2022-10-30,Saudi Arabia,England,Saudi Arabia,D. Smith,49,False,False
+2022-10-30,Saudi Arabia,England,Saudi Arabia,Y. Diallo,57,False,False
+2022-09-19,Australia,Peru,Australia,M. Khan,35,False,True
+2022-01-28,Australia,Senegal,Senegal,Y. Diallo,26,False,False
+2022-11-13,Qatar,Wales,Qatar,A. Silva,30,False,False
+2022-11-13,Qatar,Wales,Qatar,D. Smith,17,False,False
+2022-10-03,Iraq,Costa Rica,Costa Rica,J. Martinez,40,False,False
+2022-10-03,Iraq,Costa Rica,Iraq,J. Martinez,76,False,True
+2022-10-03,Iraq,Costa Rica,Costa Rica,R. Santos,35,False,False
+2022-02-11,Iraq,Egypt,Egypt,D. Smith,60,False,False
+2022-11-27,Uzbekistan,Germany,Germany,L. Garcia,75,False,True
+2022-11-27,Uzbekistan,Germany,Uzbekistan,A. Silva,20,False,False
+2022-02-25,Denmark,Ghana,Denmark,A. Silva,63,False,False
+2022-01-15,Sweden,Belgium,Belgium,A. Silva,29,False,True
+2022-10-31,Norway,Argentina,Norway,L. Garcia,33,False,False
+2022-10-31,Norway,Argentina,Norway,J. Martinez,28,False,True
+2022-03-11,Norway,Algeria,Norway,M. Khan,88,False,False
+2022-03-11,Norway,Algeria,Algeria,L. Garcia,13,False,False
+2022-01-29,Poland,Spain,Spain,M. Khan,8,False,False
+2022-01-29,Poland,Spain,Spain,M. Khan,53,False,False
+2022-11-14,Austria,Uruguay,Austria,R. Santos,80,False,False
+2022-11-14,Austria,Uruguay,Uruguay,M. Khan,86,False,False
+2022-03-25,Austria,South Korea,Austria,L. Garcia,63,False,False
+2022-03-25,Austria,South Korea,Austria,Y. Diallo,39,False,False
+2022-03-25,Austria,South Korea,South Korea,L. Garcia,37,False,False
+2022-02-12,Serbia,Italy,Serbia,J. Martinez,69,False,False
+2022-11-28,Turkey,Ecuador,Ecuador,Y. Diallo,22,False,False
+2022-04-08,Turkey,Saudi Arabia,Saudi Arabia,J. Martinez,66,False,True
+2022-04-08,Turkey,Saudi Arabia,Turkey,M. Khan,21,False,False
+2022-04-08,Turkey,Saudi Arabia,Saudi Arabia,L. Garcia,39,False,False
+2022-04-08,Turkey,Saudi Arabia,Saudi Arabia,M. Khan,63,False,True
+2022-02-26,Czech Republic,Morocco,Morocco,L. Garcia,77,False,False
+2022-02-26,Czech Republic,Morocco,Czech Republic,J. Martinez,73,False,False
+2022-01-16,Chile,Scotland,Scotland,R. Santos,49,False,False
+2022-01-16,Chile,Scotland,Chile,A. Silva,10,False,False
+2022-01-16,Chile,Scotland,Scotland,K. Tanaka,59,False,False
+2022-04-22,Chile,Qatar,Chile,J. Martinez,29,False,False
+2022-03-12,Peru,Tunisia,Peru,J. Martinez,42,False,False
+2022-01-30,Paraguay,France,France,Y. Diallo,67,False,True
+2022-05-06,Paraguay,Uzbekistan,Uzbekistan,Y. Diallo,72,False,False
+2022-05-06,Paraguay,Uzbekistan,Paraguay,L. Garcia,22,False,False
+2022-05-06,Paraguay,Uzbekistan,Paraguay,R. Santos,53,False,False
+2023-02-07,Canada,Belgium,Belgium,Y. Diallo,10,False,False
+2023-02-07,Canada,Belgium,Belgium,Y. Diallo,27,False,False
+2023-05-14,Canada,Norway,Norway,J. Martinez,29,False,False
+2023-05-14,Canada,Norway,Canada,D. Smith,86,False,False
+2023-04-03,Mexico,Algeria,Mexico,L. Garcia,83,False,False
+2023-04-03,Mexico,Algeria,Algeria,A. Silva,80,False,False
+2023-04-03,Mexico,Algeria,Algeria,M. Khan,28,False,False
+2023-02-21,United States,Spain,United States,R. Santos,85,False,False
+2023-02-21,United States,Spain,Spain,Y. Diallo,10,False,False
+2023-05-28,United States,Austria,Austria,Y. Diallo,46,False,False
+2023-05-28,United States,Austria,Austria,R. Santos,16,False,False
+2023-04-17,Argentina,South Korea,Argentina,D. Smith,71,False,False
+2023-04-17,Argentina,South Korea,Argentina,L. Garcia,40,False,False
+2023-04-17,Argentina,South Korea,South Korea,D. Smith,79,False,True
+2023-03-07,Brazil,Italy,Brazil,R. Santos,67,False,False
+2023-06-11,Brazil,Turkey,Brazil,J. Martinez,88,False,False
+2023-06-11,Brazil,Turkey,Brazil,A. Silva,51,False,False
+2023-06-11,Brazil,Turkey,Brazil,M. Khan,34,False,False
+2023-05-01,Uruguay,Saudi Arabia,Uruguay,M. Khan,73,False,True
+2023-05-01,Uruguay,Saudi Arabia,Saudi Arabia,A. Silva,58,False,False
+2023-05-01,Uruguay,Saudi Arabia,Uruguay,R. Santos,9,False,True
+2023-06-25,Colombia,Chile,Colombia,A. Silva,59,False,True
+2023-05-15,Ecuador,Qatar,Ecuador,D. Smith,77,False,False
+2023-04-04,England,Tunisia,Tunisia,L. Garcia,21,False,False
+2023-04-04,England,Tunisia,Tunisia,K. Tanaka,36,False,False
+2023-04-04,England,Tunisia,Tunisia,L. Garcia,8,False,False
+2023-04-18,Wales,Nigeria,Wales,J. Martinez,68,False,False
+2023-07-23,Wales,Canada,Wales,R. Santos,61,False,False
+2023-07-23,Wales,Canada,Canada,A. Silva,38,False,True
+2023-06-12,France,Sweden,Sweden,Y. Diallo,13,False,True
+2023-06-12,France,Sweden,Sweden,K. Tanaka,52,False,False
+2023-05-02,Germany,Cameroon,Cameroon,K. Tanaka,10,False,False
+2023-08-06,Germany,United States,United States,L. Garcia,20,False,False
+2023-08-06,Germany,United States,United States,D. Smith,79,False,False
+2023-08-06,Germany,United States,United States,R. Santos,41,False,False
+2023-06-26,Netherlands,Poland,Netherlands,M. Khan,10,False,False
+2023-06-26,Netherlands,Poland,Poland,A. Silva,23,False,True
+2023-05-16,Belgium,Japan,Japan,Y. Diallo,88,False,False
+2023-08-20,Belgium,Brazil,Belgium,D. Smith,23,False,False
+2023-08-20,Belgium,Brazil,Brazil,M. Khan,14,False,False
+2023-07-10,Croatia,Serbia,Croatia,K. Tanaka,13,False,False
+2023-07-10,Croatia,Serbia,Serbia,Y. Diallo,58,False,False
+2023-07-10,Croatia,Serbia,Croatia,D. Smith,69,False,False
+2023-05-30,Spain,Iran,Spain,K. Tanaka,56,False,False
+2023-05-30,Spain,Iran,Spain,R. Santos,26,False,False
+2023-05-30,Spain,Iran,Iran,M. Khan,24,False,False
+2023-09-03,Spain,Colombia,Spain,A. Silva,31,False,False
+2023-07-24,Portugal,Czech Republic,Portugal,A. Silva,35,False,False
+2023-07-24,Portugal,Czech Republic,Portugal,Y. Diallo,45,False,False
+2023-06-13,Italy,Australia,Australia,K. Tanaka,44,False,False
+2023-09-17,Italy,England,Italy,J. Martinez,36,False,False
+2023-09-17,Italy,England,England,L. Garcia,84,False,False
+2023-09-17,Italy,England,Italy,J. Martinez,63,False,False
+2023-08-07,Switzerland,Peru,Peru,L. Garcia,44,False,True
+2023-08-07,Switzerland,Peru,Peru,A. Silva,50,False,True
+2023-06-27,Morocco,Iraq,Morocco,M. Khan,39,False,False
+2023-06-27,Morocco,Iraq,Iraq,J. Martinez,58,False,False
+2023-07-11,Tunisia,Denmark,Tunisia,Y. Diallo,68,False,False
+2023-07-11,Tunisia,Denmark,Tunisia,L. Garcia,38,False,False
+2023-07-11,Tunisia,Denmark,Denmark,K. Tanaka,26,False,False
+2023-07-11,Tunisia,Denmark,Tunisia,D. Smith,67,False,False
+2023-10-15,Tunisia,Germany,Tunisia,K. Tanaka,52,False,True
+2023-09-04,Egypt,Mexico,Egypt,K. Tanaka,22,False,False
+2023-09-04,Egypt,Mexico,Egypt,A. Silva,72,False,False
+2023-07-25,Nigeria,Norway,Norway,A. Silva,14,False,False
+2023-07-25,Nigeria,Norway,Norway,D. Smith,75,False,False
+2023-10-29,Nigeria,Belgium,Nigeria,K. Tanaka,47,False,False
+2023-10-29,Nigeria,Belgium,Nigeria,M. Khan,42,False,False
+2023-10-29,Nigeria,Belgium,Belgium,D. Smith,68,False,True
+2023-09-18,Ghana,Argentina,Ghana,D. Smith,67,False,False
+2023-09-18,Ghana,Argentina,Argentina,R. Santos,23,False,False
+2023-08-08,Cameroon,Austria,Cameroon,K. Tanaka,45,False,False
+2023-08-08,Cameroon,Austria,Cameroon,A. Silva,85,False,False
+2023-08-22,Japan,Turkey,Japan,Y. Diallo,23,False,True
+2023-11-26,Japan,Italy,Italy,L. Garcia,16,False,False
+2023-10-16,South Korea,Ecuador,Ecuador,M. Khan,74,False,False
+2023-09-05,Iran,Chile,Iran,M. Khan,12,False,False
+2023-09-05,Iran,Chile,Chile,K. Tanaka,73,False,False
+2023-09-05,Iran,Chile,Iran,R. Santos,68,False,False
+2023-09-05,Iran,Chile,Iran,Y. Diallo,72,False,False
+2023-01-14,Iran,Morocco,Iran,J. Martinez,16,False,False
+2023-09-19,Australia,Paraguay,Paraguay,L. Garcia,47,False,False
+2023-09-19,Australia,Paraguay,Paraguay,R. Santos,60,False,False
+2023-09-19,Australia,Paraguay,Paraguay,A. Silva,49,False,True
+2023-01-28,Australia,Tunisia,Australia,R. Santos,80,False,False
+2023-01-28,Australia,Tunisia,Australia,Y. Diallo,21,False,False
+2023-01-28,Australia,Tunisia,Tunisia,R. Santos,53,False,False
+2023-11-13,Qatar,France,France,J. Martinez,28,False,False
+2023-11-13,Qatar,France,Qatar,Y. Diallo,83,False,False
+2023-10-03,Iraq,Canada,Iraq,Y. Diallo,85,False,False
+2023-10-03,Iraq,Canada,Iraq,K. Tanaka,81,False,True
+2023-11-27,Uzbekistan,Netherlands,Netherlands,A. Silva,83,False,False
+2023-10-17,Denmark,United States,Denmark,K. Tanaka,22,False,False
+2023-02-25,Denmark,Cameroon,Denmark,L. Garcia,81,False,False
+2023-01-15,Sweden,Croatia,Sweden,J. Martinez,51,False,False
+2023-01-15,Sweden,Croatia,Sweden,D. Smith,28,False,False
+2023-10-31,Norway,Brazil,Brazil,Y. Diallo,29,False,False
+2023-03-11,Norway,Japan,Norway,R. Santos,73,False,False
+2023-03-11,Norway,Japan,Norway,K. Tanaka,74,False,False
+2023-01-29,Poland,Portugal,Poland,K. Tanaka,70,False,False
+2023-11-14,Austria,Colombia,Colombia,A. Silva,24,False,False
+2023-11-14,Austria,Colombia,Austria,R. Santos,74,False,False
+2023-03-25,Austria,Iran,Iran,J. Martinez,85,False,False
+2023-02-12,Serbia,Switzerland,Serbia,L. Garcia,46,False,False
+2023-11-28,Turkey,England,England,D. Smith,65,False,False
+2023-11-28,Turkey,England,Turkey,K. Tanaka,18,False,False
+2023-11-28,Turkey,England,England,L. Garcia,67,False,False
+2023-11-28,Turkey,England,England,M. Khan,9,False,False
+2023-04-08,Turkey,Australia,Turkey,L. Garcia,58,False,False
+2023-04-08,Turkey,Australia,Turkey,K. Tanaka,74,False,False
+2023-04-08,Turkey,Australia,Australia,J. Martinez,21,False,False
+2023-01-30,Paraguay,Germany,Germany,R. Santos,81,False,False
+2023-01-30,Paraguay,Germany,Paraguay,K. Tanaka,39,False,False
+2023-05-06,Paraguay,Denmark,Denmark,J. Martinez,10,False,False
+2023-05-06,Paraguay,Denmark,Denmark,K. Tanaka,87,False,False
+2023-05-06,Paraguay,Denmark,Denmark,Y. Diallo,81,False,False
+2023-05-06,Paraguay,Denmark,Denmark,L. Garcia,88,False,False
+2023-03-26,Costa Rica,Ghana,Ghana,K. Tanaka,55,False,False
+2023-03-26,Costa Rica,Ghana,Costa Rica,A. Silva,19,False,False
+2024-02-07,Canada,Croatia,Croatia,A. Silva,67,False,False
+2024-05-13,Canada,Poland,Canada,Y. Diallo,48,False,True
+2024-05-13,Canada,Poland,Poland,J. Martinez,32,False,False
+2024-04-02,Mexico,Japan,Mexico,M. Khan,82,False,False
+2024-04-02,Mexico,Japan,Japan,D. Smith,18,False,False
+2024-02-21,United States,Portugal,United States,L. Garcia,48,False,False
+2024-05-27,United States,Serbia,United States,K. Tanaka,13,False,False
+2024-05-27,United States,Serbia,Serbia,J. Martinez,81,False,True
+2024-04-16,Argentina,Iran,Iran,D. Smith,49,False,False
+2024-04-16,Argentina,Iran,Argentina,Y. Diallo,15,False,True
+2024-04-30,Uruguay,Australia,Uruguay,Y. Diallo,51,False,False
+2024-04-30,Uruguay,Australia,Uruguay,L. Garcia,75,False,False
+2024-04-30,Uruguay,Australia,Uruguay,Y. Diallo,71,False,False
+2024-03-20,Colombia,Senegal,Colombia,A. Silva,34,False,False
+2024-06-24,Colombia,Peru,Colombia,K. Tanaka,88,False,False
+2024-05-14,Ecuador,Iraq,Ecuador,D. Smith,63,False,False
+2024-05-14,Ecuador,Iraq,Ecuador,K. Tanaka,19,False,False
+2024-04-03,England,Egypt,Egypt,K. Tanaka,56,False,False
+2024-04-03,England,Egypt,Egypt,J. Martinez,38,False,False
+2024-04-03,England,Egypt,England,A. Silva,82,False,False
+2024-04-03,England,Egypt,Egypt,L. Garcia,70,False,False
+2024-07-08,England,Costa Rica,Costa Rica,Y. Diallo,31,False,False
+2024-07-08,England,Costa Rica,Costa Rica,Y. Diallo,66,False,True
+2024-07-08,England,Costa Rica,Costa Rica,D. Smith,11,False,False
+2024-05-28,Scotland,Denmark,Denmark,D. Smith,18,False,True
+2024-05-28,Scotland,Denmark,Denmark,Y. Diallo,56,False,True
+2024-04-17,Wales,Ghana,Ghana,R. Santos,21,False,False
+2024-04-17,Wales,Ghana,Wales,L. Garcia,87,False,False
+2024-07-22,Wales,Mexico,Mexico,A. Silva,46,False,False
+2024-07-22,Wales,Mexico,Mexico,A. Silva,60,False,False
+2024-06-11,France,Norway,France,M. Khan,79,False,False
+2024-08-05,Germany,Argentina,Germany,Y. Diallo,35,False,False
+2024-08-05,Germany,Argentina,Germany,J. Martinez,9,False,False
+2024-08-05,Germany,Argentina,Germany,D. Smith,41,False,False
+2024-06-25,Netherlands,Austria,Netherlands,L. Garcia,75,False,False
+2024-06-25,Netherlands,Austria,Austria,A. Silva,82,False,False
+2024-06-25,Netherlands,Austria,Netherlands,A. Silva,37,False,False
+2024-06-25,Netherlands,Austria,Netherlands,D. Smith,83,False,False
+2024-05-15,Belgium,South Korea,South Korea,K. Tanaka,73,False,False
+2024-05-15,Belgium,South Korea,Belgium,L. Garcia,66,False,False
+2024-07-09,Croatia,Turkey,Croatia,R. Santos,50,False,False
+2024-07-09,Croatia,Turkey,Croatia,L. Garcia,76,False,True
+2024-07-09,Croatia,Turkey,Turkey,J. Martinez,66,False,False
+2024-05-29,Spain,Saudi Arabia,Spain,L. Garcia,57,False,False
+2024-05-29,Spain,Saudi Arabia,Saudi Arabia,J. Martinez,42,False,False
+2024-05-29,Spain,Saudi Arabia,Spain,R. Santos,12,False,False
+2024-05-29,Spain,Saudi Arabia,Saudi Arabia,L. Garcia,33,False,False
+2024-06-12,Italy,Qatar,Italy,R. Santos,35,False,False
+2024-09-16,Italy,Scotland,Italy,A. Silva,40,False,False
+2024-08-06,Switzerland,Paraguay,Paraguay,K. Tanaka,87,False,False
+2024-06-26,Morocco,Uzbekistan,Morocco,M. Khan,61,False,False
+2024-06-26,Morocco,Uzbekistan,Morocco,M. Khan,10,False,False
+2024-09-30,Morocco,France,France,L. Garcia,41,False,False
+2024-09-30,Morocco,France,France,K. Tanaka,16,False,False
+2024-09-30,Morocco,France,Morocco,D. Smith,29,False,False
+2024-08-20,Senegal,Canada,Canada,R. Santos,16,False,False
+2024-08-20,Senegal,Canada,Canada,D. Smith,10,False,True
+2024-08-20,Senegal,Canada,Senegal,D. Smith,15,False,False
+2024-07-10,Tunisia,Sweden,Sweden,A. Silva,38,False,False
+2024-07-10,Tunisia,Sweden,Sweden,D. Smith,78,False,True
+2024-10-14,Tunisia,Netherlands,Tunisia,D. Smith,26,False,False
+2024-09-03,Egypt,United States,Egypt,Y. Diallo,67,False,False
+2024-09-03,Egypt,United States,United States,Y. Diallo,11,False,False
+2024-09-03,Egypt,United States,Egypt,J. Martinez,83,False,False
+2024-09-03,Egypt,United States,United States,M. Khan,79,False,False
+2024-07-24,Nigeria,Poland,Poland,L. Garcia,9,False,False
+2024-07-24,Nigeria,Poland,Nigeria,A. Silva,41,False,True
+2024-10-28,Nigeria,Croatia,Nigeria,J. Martinez,47,False,False
+2024-10-28,Nigeria,Croatia,Nigeria,R. Santos,56,False,True
+2024-11-11,Cameroon,Portugal,Cameroon,M. Khan,77,False,True
+2024-11-11,Cameroon,Portugal,Portugal,A. Silva,59,False,True
+2024-10-01,Algeria,Colombia,Algeria,Y. Diallo,50,False,False
+2024-10-01,Algeria,Colombia,Algeria,K. Tanaka,38,False,False
+2024-08-21,Japan,Czech Republic,Czech Republic,A. Silva,77,False,False
+2024-11-25,Japan,Switzerland,Switzerland,A. Silva,68,False,True
+2024-10-15,South Korea,England,South Korea,K. Tanaka,71,False,False
+2024-09-04,Iran,Peru,Peru,L. Garcia,80,False,False
+2024-09-04,Iran,Peru,Iran,A. Silva,9,False,False
+2024-09-04,Iran,Peru,Iran,J. Martinez,11,False,True
+2024-01-14,Iran,Senegal,Senegal,A. Silva,77,False,False
+2024-10-29,Saudi Arabia,Wales,Wales,R. Santos,68,False,False
+2024-10-29,Saudi Arabia,Wales,Saudi Arabia,D. Smith,17,False,False
+2024-09-18,Australia,Costa Rica,Costa Rica,R. Santos,43,False,True
+2024-09-18,Australia,Costa Rica,Australia,J. Martinez,60,False,False
+2024-01-28,Australia,Egypt,Australia,D. Smith,8,False,False
+2024-11-12,Qatar,Germany,Germany,M. Khan,14,False,False
+2024-10-02,Iraq,Mexico,Iraq,M. Khan,46,False,True
+2024-10-02,Iraq,Mexico,Iraq,M. Khan,45,False,False
+2024-10-02,Iraq,Mexico,Iraq,D. Smith,24,False,False
+2024-02-11,Iraq,Ghana,Ghana,D. Smith,26,False,False
+2024-02-11,Iraq,Ghana,Iraq,R. Santos,10,False,False
+2024-11-26,Uzbekistan,Belgium,Uzbekistan,M. Khan,56,False,False
+2024-11-26,Uzbekistan,Belgium,Belgium,K. Tanaka,86,False,True
+2024-11-26,Uzbekistan,Belgium,Belgium,R. Santos,10,False,False
+2024-10-16,Denmark,Argentina,Argentina,A. Silva,67,False,False
+2024-10-16,Denmark,Argentina,Argentina,D. Smith,85,False,False
+2024-02-25,Denmark,Algeria,Denmark,A. Silva,53,False,False
+2024-02-25,Denmark,Algeria,Denmark,J. Martinez,82,False,False
+2024-02-25,Denmark,Algeria,Algeria,J. Martinez,77,False,False
+2024-02-25,Denmark,Algeria,Denmark,Y. Diallo,52,False,False
+2024-01-15,Sweden,Spain,Spain,Y. Diallo,44,False,False
+2024-10-30,Norway,Uruguay,Norway,Y. Diallo,79,False,False
+2024-03-10,Norway,South Korea,Norway,A. Silva,67,False,False
+2024-01-29,Poland,Italy,Poland,D. Smith,72,False,False
+2024-11-13,Austria,Ecuador,Austria,J. Martinez,11,False,False
+2024-11-13,Austria,Ecuador,Austria,A. Silva,73,False,False
+2024-11-13,Austria,Ecuador,Ecuador,M. Khan,37,False,True
+2024-03-24,Austria,Saudi Arabia,Austria,Y. Diallo,46,False,False
+2024-02-12,Serbia,Morocco,Serbia,M. Khan,75,False,False
+2024-02-12,Serbia,Morocco,Morocco,L. Garcia,33,False,False
+2024-11-27,Turkey,Scotland,Turkey,D. Smith,42,False,False
+2024-02-26,Czech Republic,Tunisia,Czech Republic,L. Garcia,13,False,False
+2024-02-26,Czech Republic,Tunisia,Czech Republic,K. Tanaka,72,False,False
+2024-01-16,Chile,France,France,A. Silva,31,False,False
+2024-01-16,Chile,France,France,L. Garcia,26,False,False
+2024-04-21,Chile,Uzbekistan,Uzbekistan,A. Silva,70,False,False
+2024-04-21,Chile,Uzbekistan,Uzbekistan,A. Silva,26,False,True
+2024-04-21,Chile,Uzbekistan,Chile,Y. Diallo,9,False,False
+2024-04-21,Chile,Uzbekistan,Chile,Y. Diallo,53,False,False
+2024-05-05,Paraguay,Sweden,Paraguay,A. Silva,83,False,True
+2024-03-25,Costa Rica,Cameroon,Cameroon,J. Martinez,74,False,False
+2024-03-25,Costa Rica,Cameroon,Costa Rica,A. Silva,81,False,True
+2025-02-07,Canada,Spain,Spain,M. Khan,19,False,False
+2025-02-07,Canada,Spain,Canada,R. Santos,57,False,False
+2025-05-14,Canada,Austria,Austria,R. Santos,66,False,False
+2025-04-03,Mexico,South Korea,Mexico,K. Tanaka,87,False,False
+2025-04-03,Mexico,South Korea,South Korea,J. Martinez,13,False,False
+2025-04-03,Mexico,South Korea,South Korea,Y. Diallo,57,False,False
+2025-05-28,United States,Turkey,United States,A. Silva,41,False,False
+2025-05-28,United States,Turkey,Turkey,D. Smith,57,False,False
+2025-05-28,United States,Turkey,United States,J. Martinez,39,False,False
+2025-04-17,Argentina,Saudi Arabia,Saudi Arabia,J. Martinez,39,False,False
+2025-03-07,Brazil,Morocco,Brazil,K. Tanaka,74,False,False
+2025-03-07,Brazil,Morocco,Brazil,M. Khan,18,False,False
+2025-06-11,Brazil,Chile,Chile,L. Garcia,47,False,False
+2025-06-11,Brazil,Chile,Chile,A. Silva,27,False,True
+2025-05-01,Uruguay,Qatar,Uruguay,L. Garcia,34,False,False
+2025-03-21,Colombia,Tunisia,Colombia,Y. Diallo,60,False,False
+2025-03-21,Colombia,Tunisia,Tunisia,D. Smith,11,False,False
+2025-06-25,Colombia,Paraguay,Colombia,A. Silva,42,False,True
+2025-06-25,Colombia,Paraguay,Paraguay,D. Smith,59,False,False
+2025-06-25,Colombia,Paraguay,Paraguay,M. Khan,63,False,False
+2025-05-15,Ecuador,Uzbekistan,Uzbekistan,M. Khan,77,False,False
+2025-04-04,England,Nigeria,England,D. Smith,36,False,False
+2025-07-09,England,Canada,England,K. Tanaka,27,False,False
+2025-07-09,England,Canada,England,D. Smith,58,False,False
+2025-05-29,Scotland,Sweden,Scotland,K. Tanaka,25,False,False
+2025-05-29,Scotland,Sweden,Scotland,D. Smith,67,False,False
+2025-04-18,Wales,Cameroon,Wales,D. Smith,36,False,True
+2025-04-18,Wales,Cameroon,Cameroon,M. Khan,52,False,False
+2025-04-18,Wales,Cameroon,Wales,J. Martinez,66,False,False
+2025-07-23,Wales,United States,United States,K. Tanaka,16,False,False
+2025-07-23,Wales,United States,Wales,Y. Diallo,88,False,True
+2025-07-23,Wales,United States,Wales,R. Santos,30,False,False
+2025-06-12,France,Poland,France,A. Silva,36,False,True
+2025-06-12,France,Poland,France,L. Garcia,15,False,False
+2025-06-12,France,Poland,France,A. Silva,41,False,True
+2025-05-02,Germany,Japan,Germany,M. Khan,30,False,False
+2025-08-06,Germany,Brazil,Germany,J. Martinez,88,False,False
+2025-08-06,Germany,Brazil,Brazil,D. Smith,62,False,False
+2025-06-26,Netherlands,Serbia,Netherlands,Y. Diallo,55,False,False
+2025-05-16,Belgium,Iran,Belgium,D. Smith,49,False,False
+2025-08-20,Belgium,Colombia,Colombia,D. Smith,13,False,False
+2025-07-10,Croatia,Czech Republic,Czech Republic,D. Smith,26,False,False
+2025-07-10,Croatia,Czech Republic,Czech Republic,J. Martinez,64,False,False
+2025-07-10,Croatia,Czech Republic,Croatia,A. Silva,61,False,False
+2025-05-30,Spain,Australia,Spain,M. Khan,88,False,False
+2025-05-30,Spain,Australia,Spain,Y. Diallo,34,False,True
+2025-05-30,Spain,Australia,Australia,M. Khan,47,False,False
+2025-09-03,Spain,England,England,M. Khan,48,False,False
+2025-09-03,Spain,England,England,Y. Diallo,20,False,False
+2025-09-03,Spain,England,England,Y. Diallo,24,False,False
+2025-07-24,Portugal,Peru,Peru,R. Santos,59,False,False
+2025-07-24,Portugal,Peru,Portugal,R. Santos,27,False,False
+2025-07-24,Portugal,Peru,Peru,D. Smith,24,False,False
+2025-07-24,Portugal,Peru,Peru,M. Khan,43,False,False
+2025-06-13,Italy,Iraq,Italy,A. Silva,34,False,False
+2025-08-07,Switzerland,Costa Rica,Costa Rica,D. Smith,21,False,False
+2025-06-27,Morocco,Denmark,Denmark,M. Khan,69,False,False
+2025-10-01,Morocco,Germany,Morocco,D. Smith,48,False,False
+2025-10-01,Morocco,Germany,Germany,Y. Diallo,42,False,False
+2025-10-01,Morocco,Germany,Germany,M. Khan,34,False,True
+2025-08-21,Senegal,Mexico,Mexico,K. Tanaka,63,False,False
+2025-08-21,Senegal,Mexico,Senegal,M. Khan,40,False,True
+2025-07-11,Tunisia,Norway,Norway,J. Martinez,59,False,False
+2025-07-11,Tunisia,Norway,Tunisia,R. Santos,43,False,False
+2025-10-15,Tunisia,Belgium,Tunisia,M. Khan,77,False,False
+2025-10-15,Tunisia,Belgium,Tunisia,Y. Diallo,78,False,False
+2025-09-04,Egypt,Argentina,Egypt,D. Smith,36,False,False
+2025-07-25,Nigeria,Austria,Austria,D. Smith,72,False,False
+2025-07-25,Nigeria,Austria,Nigeria,A. Silva,30,False,False
+2025-10-29,Nigeria,Spain,Spain,A. Silva,59,False,False
+2025-10-29,Nigeria,Spain,Nigeria,J. Martinez,41,False,False
+2025-09-18,Ghana,Uruguay,Ghana,K. Tanaka,31,False,False
+2025-08-08,Cameroon,Turkey,Cameroon,M. Khan,43,False,False
+2025-11-12,Cameroon,Italy,Cameroon,Y. Diallo,11,False,True
+2025-08-22,Japan,Chile,Japan,L. Garcia,86,False,False
+2025-08-22,Japan,Chile,Japan,Y. Diallo,75,False,True
+2025-11-26,Japan,Morocco,Japan,L. Garcia,15,False,True
+2025-11-26,Japan,Morocco,Japan,A. Silva,33,False,True
+2025-10-16,South Korea,Scotland,Scotland,L. Garcia,43,False,False
+2025-10-16,South Korea,Scotland,Scotland,J. Martinez,12,False,False
+2025-09-05,Iran,Paraguay,Paraguay,Y. Diallo,71,False,True
+2025-09-05,Iran,Paraguay,Paraguay,Y. Diallo,20,False,False
+2025-09-05,Iran,Paraguay,Iran,K. Tanaka,83,False,False
+2025-10-30,Saudi Arabia,France,Saudi Arabia,D. Smith,86,False,False
+2025-10-30,Saudi Arabia,France,France,K. Tanaka,14,False,False
+2025-10-30,Saudi Arabia,France,France,J. Martinez,72,False,True
+2025-09-19,Australia,Canada,Australia,M. Khan,64,False,False
+2025-09-19,Australia,Canada,Australia,M. Khan,51,False,False
+2025-09-19,Australia,Canada,Canada,R. Santos,36,False,False
+2025-11-13,Qatar,Netherlands,Qatar,R. Santos,8,False,False
+2025-10-03,Iraq,United States,Iraq,Y. Diallo,15,False,True
+2025-10-03,Iraq,United States,Iraq,J. Martinez,37,False,False
+2025-02-11,Iraq,Cameroon,Iraq,L. Garcia,68,False,False
+2025-02-11,Iraq,Cameroon,Cameroon,Y. Diallo,27,False,False
+2025-11-27,Uzbekistan,Croatia,Croatia,L. Garcia,70,False,False
+2025-10-17,Denmark,Brazil,Denmark,Y. Diallo,37,False,False
+2025-10-17,Denmark,Brazil,Denmark,A. Silva,13,False,False
+2025-02-25,Denmark,Japan,Japan,K. Tanaka,44,False,False
+2025-02-25,Denmark,Japan,Denmark,A. Silva,78,False,True
+2025-02-25,Denmark,Japan,Japan,D. Smith,9,False,False
+2025-01-15,Sweden,Portugal,Sweden,Y. Diallo,25,False,False
+2025-10-31,Norway,Colombia,Norway,A. Silva,28,False,False
+2025-10-31,Norway,Colombia,Norway,Y. Diallo,23,False,False
+2025-03-11,Norway,Iran,Iran,A. Silva,66,False,False
+2025-03-11,Norway,Iran,Norway,K. Tanaka,41,False,True
+2025-03-11,Norway,Iran,Iran,J. Martinez,58,False,False
+2025-01-29,Poland,Switzerland,Switzerland,M. Khan,54,False,True
+2025-11-14,Austria,England,England,M. Khan,15,False,False
+2025-11-14,Austria,England,Austria,A. Silva,22,False,False
+2025-11-14,Austria,England,Austria,D. Smith,60,False,False
+2025-11-28,Turkey,Wales,Turkey,L. Garcia,28,False,False
+2025-04-08,Turkey,Iraq,Turkey,L. Garcia,22,False,False
+2025-04-08,Turkey,Iraq,Turkey,D. Smith,87,False,False
+2025-02-26,Czech Republic,Egypt,Czech Republic,D. Smith,36,False,False
+2025-01-16,Chile,Germany,Germany,J. Martinez,62,False,False
+2025-01-16,Chile,Germany,Chile,L. Garcia,84,False,True
+2025-04-22,Chile,Denmark,Denmark,Y. Diallo,20,False,False
+2025-04-22,Chile,Denmark,Chile,Y. Diallo,55,False,False
+2025-03-12,Peru,Ghana,Ghana,L. Garcia,59,False,False
+2025-01-30,Paraguay,Belgium,Paraguay,J. Martinez,86,False,True
+2025-01-30,Paraguay,Belgium,Paraguay,J. Martinez,50,False,False
+2025-01-30,Paraguay,Belgium,Paraguay,R. Santos,37,False,False
+2025-05-06,Paraguay,Norway,Paraguay,Y. Diallo,27,False,False
+2025-03-26,Costa Rica,Algeria,Costa Rica,L. Garcia,23,False,False
+2022-12-18,Argentina,France,France,R. Santos,49,False,False
+2022-12-18,Argentina,France,Argentina,J. Martinez,22,False,False
+2022-12-18,Argentina,France,France,R. Santos,25,False,False
+2022-12-18,Argentina,France,Argentina,D. Smith,77,False,False
+2021-07-10,Argentina,Brazil,Brazil,R. Santos,13,False,False
+2022-12-10,England,France,England,D. Smith,57,False,False
+2022-12-10,England,France,France,K. Tanaka,10,False,False
+2022-12-10,England,France,England,R. Santos,27,False,False

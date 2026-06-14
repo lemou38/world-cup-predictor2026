@@ -1,0 +1,1734 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2014-01-14,Iran,France,1,1,CONCACAF Gold Cup,Doha,Qatar,True
+2014-01-15,Sweden,Colombia,0,1,Friendly,Sweden City,Sweden,True
+2014-01-16,Chile,Mexico,0,1,UEFA Nations League,Chile City,Chile,False
+2014-01-21,Saudi Arabia,Germany,0,0,Friendly,Saudi Arabia City,Saudi Arabia,True
+2014-01-22,Norway,Ecuador,0,0,CONCACAF Gold Cup,Norway City,Norway,True
+2014-01-23,Peru,United States,0,0,Copa America,Doha,Qatar,False
+2014-01-28,Australia,Netherlands,1,1,African Cup of Nations,Australia City,Australia,False
+2014-01-29,Poland,England,1,2,UEFA Nations League,Doha,Qatar,True
+2014-01-30,Paraguay,Argentina,0,1,FIFA World Cup qualification,Paraguay City,Paraguay,True
+2014-02-04,Qatar,Belgium,1,0,FIFA World Cup qualification,Qatar City,Qatar,False
+2014-02-05,Austria,Scotland,1,0,Friendly,Austria City,Austria,True
+2014-02-06,Costa Rica,Brazil,0,1,African Cup of Nations,Costa Rica City,Costa Rica,False
+2014-02-07,Canada,Uruguay,1,1,Friendly,Doha,Qatar,True
+2014-02-11,Iraq,Croatia,0,2,FIFA World Cup qualification,Iraq City,Iraq,False
+2014-02-12,Serbia,Wales,1,1,CONCACAF Gold Cup,Serbia City,Serbia,False
+2014-02-14,Mexico,Colombia,0,2,CONCACAF Gold Cup,Mexico City,Mexico,False
+2014-02-18,Uzbekistan,Spain,0,1,Friendly,Doha,Qatar,False
+2014-02-19,Turkey,France,1,2,AFC Asian Cup,Turkey City,Turkey,True
+2014-02-21,United States,Ecuador,1,1,CONCACAF Gold Cup,Los Angeles,United States,False
+2014-02-25,Denmark,Portugal,0,1,AFC Asian Cup,Denmark City,Denmark,False
+2014-02-26,Czech Republic,Germany,0,1,FIFA World Cup qualification,Czech Republic City,Czech Republic,True
+2014-02-28,Argentina,England,0,2,AFC Asian Cup,Buenos Aires,Argentina,False
+2014-03-04,Sweden,Italy,0,0,FIFA World Cup qualification,Sweden City,Sweden,False
+2014-03-05,Chile,Netherlands,0,1,Copa America,Chile City,Chile,False
+2014-03-07,Brazil,Scotland,2,0,UEFA Nations League,Rio de Janeiro,Brazil,False
+2014-03-11,Norway,Switzerland,0,2,UEFA Nations League,Norway City,Norway,True
+2014-03-12,Peru,Belgium,0,1,FIFA World Cup qualification,Peru City,Peru,False
+2014-03-14,Uruguay,Wales,0,0,Friendly,Uruguay City,Uruguay,True
+2014-03-18,Poland,Morocco,0,1,African Cup of Nations,Poland City,Poland,False
+2014-03-19,Paraguay,Croatia,1,1,FIFA World Cup qualification,Paraguay City,Paraguay,True
+2014-03-21,Colombia,France,0,0,African Cup of Nations,Colombia City,Colombia,False
+2014-03-25,Austria,Senegal,1,2,Friendly,Doha,Qatar,False
+2014-03-26,Costa Rica,Spain,0,3,Copa America,Costa Rica City,Costa Rica,False
+2014-03-27,Canada,Portugal,0,1,FIFA World Cup qualification,Doha,Qatar,True
+2014-03-28,Ecuador,Germany,0,1,CONCACAF Gold Cup,Doha,Qatar,False
+2014-04-01,Serbia,Tunisia,0,1,AFC Asian Cup,Doha,Qatar,True
+2014-04-03,Mexico,Italy,2,3,UEFA Nations League,Mexico City,Mexico,False
+2014-04-04,England,Netherlands,0,0,CONCACAF Gold Cup,London,England,True
+2014-04-08,Turkey,Egypt,0,1,Copa America,Turkey City,Turkey,False
+2014-04-10,United States,Switzerland,1,1,AFC Asian Cup,Los Angeles,United States,False
+2014-04-11,Scotland,Belgium,0,2,Copa America,Doha,Qatar,True
+2014-04-15,Czech Republic,Nigeria,0,1,African Cup of Nations,Czech Republic City,Czech Republic,False
+2014-04-17,Argentina,Morocco,2,1,Friendly,Buenos Aires,Argentina,True
+2014-04-18,Wales,Croatia,1,1,African Cup of Nations,Wales City,Wales,True
+2014-04-22,Chile,Ghana,0,1,CONCACAF Gold Cup,Chile City,Chile,False
+2014-04-24,Brazil,Senegal,1,0,Copa America,Rio de Janeiro,Brazil,False
+2014-04-25,France,Spain,1,0,Friendly,Paris,France,True
+2014-04-29,Peru,Cameroon,0,1,FIFA World Cup qualification,Doha,Qatar,False
+2014-05-01,Uruguay,Tunisia,2,1,CONCACAF Gold Cup,Uruguay City,Uruguay,False
+2014-05-02,Germany,Portugal,1,1,Copa America,Germany City,Germany,False
+2014-05-06,Paraguay,Algeria,0,2,Copa America,Paraguay City,Paraguay,False
+2014-05-08,Colombia,Egypt,1,1,FIFA World Cup qualification,Colombia City,Colombia,False
+2014-05-09,Netherlands,Italy,0,3,African Cup of Nations,Netherlands City,Netherlands,True
+2014-05-13,Costa Rica,Japan,2,1,CONCACAF Gold Cup,Costa Rica City,Costa Rica,False
+2014-05-14,Canada,South Korea,1,1,AFC Asian Cup,Canada City,Canada,False
+2014-05-15,Ecuador,Nigeria,2,0,Copa America,Doha,Qatar,False
+2014-05-16,Belgium,Switzerland,1,0,African Cup of Nations,Doha,Qatar,True
+2014-05-21,Mexico,Iran,0,1,FIFA World Cup qualification,Mexico City,Mexico,False
+2014-05-22,England,Ghana,2,0,African Cup of Nations,London,England,False
+2014-05-23,Croatia,Morocco,2,0,African Cup of Nations,Croatia City,Croatia,True
+2014-05-28,United States,Saudi Arabia,1,1,UEFA Nations League,Los Angeles,United States,False
+2014-05-29,Scotland,Cameroon,0,0,Friendly,Doha,Qatar,False
+2014-05-30,Spain,Senegal,1,0,AFC Asian Cup,Doha,Qatar,False
+2014-06-04,Argentina,Australia,1,0,UEFA Nations League,Buenos Aires,Argentina,False
+2014-06-05,Wales,Algeria,1,1,AFC Asian Cup,Wales City,Wales,False
+2014-06-06,Portugal,Tunisia,3,0,CONCACAF Gold Cup,Portugal City,Portugal,True
+2014-06-11,Brazil,Qatar,2,1,African Cup of Nations,Rio de Janeiro,Brazil,False
+2014-06-12,France,Japan,0,1,FIFA World Cup qualification,Paris,France,False
+2014-06-13,Italy,Egypt,1,0,Friendly,Doha,Qatar,False
+2014-06-18,Uruguay,Iraq,1,0,UEFA Nations League,Uruguay City,Uruguay,False
+2014-06-19,Germany,South Korea,0,2,UEFA Nations League,Germany City,Germany,False
+2014-06-20,Switzerland,Nigeria,2,1,CONCACAF Gold Cup,Switzerland City,Switzerland,False
+2014-06-25,Colombia,Uzbekistan,1,0,FIFA World Cup qualification,Colombia City,Colombia,False
+2014-06-26,Netherlands,Iran,2,1,CONCACAF Gold Cup,Netherlands City,Netherlands,True
+2014-06-27,Morocco,Ghana,2,2,UEFA Nations League,Morocco City,Morocco,False
+2014-07-02,Ecuador,Denmark,1,0,FIFA World Cup qualification,Ecuador City,Ecuador,False
+2014-07-03,Belgium,Saudi Arabia,1,0,UEFA Nations League,Belgium City,Belgium,False
+2014-07-04,Senegal,Cameroon,3,2,Friendly,Senegal City,Senegal,False
+2014-07-09,England,Sweden,0,0,Friendly,London,England,False
+2014-07-10,Croatia,Australia,1,2,FIFA World Cup qualification,Croatia City,Croatia,False
+2014-07-11,Tunisia,Algeria,1,0,AFC Asian Cup,Tunisia City,Tunisia,True
+2014-07-16,Scotland,Norway,1,1,UEFA Nations League,Doha,Qatar,True
+2014-07-17,Spain,Qatar,3,0,Friendly,Spain City,Spain,False
+2014-07-18,Egypt,Japan,1,2,Copa America,Egypt City,Egypt,False
+2014-07-23,Wales,Poland,1,0,AFC Asian Cup,Doha,Qatar,False
+2014-07-24,Portugal,Iraq,2,0,AFC Asian Cup,Portugal City,Portugal,False
+2014-07-25,Nigeria,South Korea,2,0,Friendly,Nigeria City,Nigeria,False
+2014-07-30,France,Austria,5,1,CONCACAF Gold Cup,Paris,France,True
+2014-07-31,Italy,Uzbekistan,2,0,UEFA Nations League,Italy City,Italy,True
+2014-08-01,Ghana,Iran,1,0,AFC Asian Cup,Ghana City,Ghana,False
+2014-08-06,Germany,Serbia,1,0,CONCACAF Gold Cup,Germany City,Germany,False
+2014-08-07,Switzerland,Denmark,1,0,Copa America,Switzerland City,Switzerland,False
+2014-08-08,Cameroon,Saudi Arabia,1,0,CONCACAF Gold Cup,Cameroon City,Cameroon,False
+2014-08-13,Netherlands,Turkey,2,0,FIFA World Cup qualification,Netherlands City,Netherlands,True
+2014-08-14,Morocco,Sweden,2,0,UEFA Nations League,Morocco City,Morocco,True
+2014-08-15,Algeria,Australia,0,2,CONCACAF Gold Cup,Algeria City,Algeria,False
+2014-08-20,Belgium,Czech Republic,1,1,UEFA Nations League,Belgium City,Belgium,False
+2014-08-21,Senegal,Norway,0,0,CONCACAF Gold Cup,Senegal City,Senegal,False
+2014-08-22,Japan,Qatar,1,1,FIFA World Cup qualification,Japan City,Japan,False
+2014-08-27,Croatia,Chile,2,0,African Cup of Nations,Croatia City,Croatia,False
+2014-08-28,Tunisia,Poland,3,0,African Cup of Nations,Tunisia City,Tunisia,False
+2014-08-29,South Korea,Iraq,1,0,African Cup of Nations,South Korea City,South Korea,False
+2014-09-03,Spain,Peru,2,1,UEFA Nations League,Spain City,Spain,True
+2014-09-04,Egypt,Austria,0,2,FIFA World Cup qualification,Egypt City,Egypt,True
+2014-09-05,Iran,Uzbekistan,1,0,Copa America,Doha,Qatar,False
+2014-09-10,Portugal,Paraguay,4,1,AFC Asian Cup,Portugal City,Portugal,False
+2014-09-11,Nigeria,Serbia,0,0,CONCACAF Gold Cup,Nigeria City,Nigeria,False
+2014-09-12,Saudi Arabia,Denmark,1,1,AFC Asian Cup,Doha,Qatar,False
+2014-09-17,Italy,Costa Rica,2,0,Copa America,Italy City,Italy,False
+2014-09-18,Ghana,Turkey,0,1,CONCACAF Gold Cup,Ghana City,Ghana,False
+2014-09-19,Australia,Sweden,0,0,AFC Asian Cup,Doha,Qatar,False
+2014-09-24,Switzerland,Canada,2,1,FIFA World Cup qualification,Switzerland City,Switzerland,True
+2014-09-25,Cameroon,Czech Republic,1,2,Copa America,Cameroon City,Cameroon,False
+2014-09-26,Qatar,Norway,1,0,African Cup of Nations,Qatar City,Qatar,False
+2014-10-01,Morocco,Mexico,0,1,AFC Asian Cup,Morocco City,Morocco,False
+2014-10-02,Algeria,Chile,0,1,Friendly,Algeria City,Algeria,False
+2014-10-03,Iraq,Poland,0,1,Friendly,Iraq City,Iraq,False
+2014-10-08,Senegal,United States,0,1,UEFA Nations League,Doha,Qatar,False
+2014-10-09,Japan,Peru,0,0,CONCACAF Gold Cup,Japan City,Japan,False
+2014-10-10,Uzbekistan,Austria,0,0,UEFA Nations League,Doha,Qatar,False
+2014-10-15,Tunisia,Argentina,0,2,Copa America,Tunisia City,Tunisia,False
+2014-10-16,South Korea,Paraguay,0,0,AFC Asian Cup,South Korea City,South Korea,False
+2014-10-17,Denmark,Serbia,1,0,AFC Asian Cup,Denmark City,Denmark,False
+2014-10-22,Egypt,Brazil,0,1,Copa America,Egypt City,Egypt,True
+2014-10-23,Iran,Costa Rica,1,1,UEFA Nations League,Iran City,Iran,False
+2014-10-24,Sweden,Turkey,0,1,AFC Asian Cup,Sweden City,Sweden,True
+2014-10-29,Nigeria,Uruguay,1,1,Copa America,Nigeria City,Nigeria,False
+2014-10-30,Saudi Arabia,Canada,1,1,CONCACAF Gold Cup,Doha,Qatar,True
+2014-10-31,Norway,Czech Republic,1,2,Friendly,Norway City,Norway,False
+2014-11-05,Ghana,Colombia,1,2,AFC Asian Cup,Ghana City,Ghana,True
+2014-11-06,Australia,Mexico,1,1,UEFA Nations League,Australia City,Australia,False
+2014-11-07,Poland,Chile,0,0,Copa America,Poland City,Poland,False
+2014-11-12,Cameroon,Ecuador,1,0,Friendly,Cameroon City,Cameroon,False
+2014-11-13,Qatar,United States,2,1,AFC Asian Cup,Qatar City,Qatar,False
+2014-11-14,Austria,Peru,0,1,Copa America,Austria City,Austria,False
+2014-11-19,Algeria,England,1,2,AFC Asian Cup,Doha,Qatar,True
+2014-11-20,Iraq,Argentina,0,1,Copa America,Iraq City,Iraq,False
+2014-11-21,Serbia,Paraguay,1,1,AFC Asian Cup,Serbia City,Serbia,False
+2014-11-26,Japan,Scotland,2,0,Copa America,Japan City,Japan,False
+2014-11-27,Uzbekistan,Brazil,0,3,UEFA Nations League,Uzbekistan City,Uzbekistan,False
+2014-11-28,Turkey,Costa Rica,3,1,African Cup of Nations,Turkey City,Turkey,False
+2014-12-03,South Korea,Wales,0,1,African Cup of Nations,South Korea City,South Korea,False
+2014-12-04,Denmark,Uruguay,0,2,Friendly,Denmark City,Denmark,False
+2014-12-05,Czech Republic,Canada,1,2,CONCACAF Gold Cup,Czech Republic City,Czech Republic,False
+2015-01-14,Iran,Germany,0,1,AFC Asian Cup,Iran City,Iran,True
+2015-01-15,Sweden,Ecuador,2,1,UEFA Nations League,Sweden City,Sweden,False
+2015-01-16,Chile,United States,0,0,African Cup of Nations,Chile City,Chile,False
+2015-01-21,Saudi Arabia,Netherlands,0,2,UEFA Nations League,Saudi Arabia City,Saudi Arabia,False
+2015-01-22,Norway,England,1,2,Copa America,Doha,Qatar,True
+2015-01-23,Peru,Argentina,0,3,African Cup of Nations,Doha,Qatar,False
+2015-01-28,Australia,Belgium,0,1,Friendly,Australia City,Australia,True
+2015-01-29,Poland,Scotland,0,0,CONCACAF Gold Cup,Poland City,Poland,False
+2015-01-30,Paraguay,Brazil,1,3,African Cup of Nations,Paraguay City,Paraguay,True
+2015-02-04,Qatar,Croatia,0,2,Friendly,Qatar City,Qatar,False
+2015-02-05,Austria,Wales,2,1,FIFA World Cup qualification,Doha,Qatar,False
+2015-02-06,Costa Rica,Uruguay,1,1,AFC Asian Cup,Costa Rica City,Costa Rica,True
+2015-02-07,Canada,Colombia,1,2,UEFA Nations League,Canada City,Canada,False
+2015-02-11,Iraq,Spain,2,2,Copa America,Iraq City,Iraq,True
+2015-02-12,Serbia,France,2,1,UEFA Nations League,Serbia City,Serbia,False
+2015-02-14,Mexico,Ecuador,0,0,Friendly,Mexico City,Mexico,True
+2015-02-18,Uzbekistan,Portugal,1,2,CONCACAF Gold Cup,Uzbekistan City,Uzbekistan,True
+2015-02-19,Turkey,Germany,0,1,Copa America,Turkey City,Turkey,False
+2015-02-21,United States,England,1,1,AFC Asian Cup,Los Angeles,United States,True
+2015-02-25,Denmark,Italy,0,1,African Cup of Nations,Denmark City,Denmark,False
+2015-02-26,Czech Republic,Netherlands,1,1,Copa America,Czech Republic City,Czech Republic,True
+2015-02-28,Argentina,Scotland,2,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2015-03-04,Sweden,Switzerland,0,1,Friendly,Doha,Qatar,False
+2015-03-05,Chile,Belgium,0,0,AFC Asian Cup,Doha,Qatar,False
+2015-03-07,Brazil,Wales,2,1,Copa America,Rio de Janeiro,Brazil,True
+2015-03-11,Norway,Morocco,1,0,UEFA Nations League,Norway City,Norway,False
+2015-03-12,Peru,Croatia,0,2,Copa America,Peru City,Peru,False
+2015-03-14,Uruguay,France,0,0,Copa America,Uruguay City,Uruguay,False
+2015-03-18,Poland,Senegal,2,0,Friendly,Poland City,Poland,False
+2015-03-19,Paraguay,Spain,0,2,FIFA World Cup qualification,Paraguay City,Paraguay,False
+2015-03-21,Colombia,Germany,0,0,FIFA World Cup qualification,Colombia City,Colombia,False
+2015-03-25,Austria,Tunisia,0,0,AFC Asian Cup,Austria City,Austria,False
+2015-03-26,Costa Rica,Portugal,0,1,AFC Asian Cup,Doha,Qatar,False
+2015-03-27,Canada,Italy,2,1,AFC Asian Cup,Canada City,Canada,False
+2015-03-28,Ecuador,Netherlands,1,2,FIFA World Cup qualification,Ecuador City,Ecuador,False
+2015-04-01,Serbia,Egypt,3,1,AFC Asian Cup,Serbia City,Serbia,True
+2015-04-03,Mexico,Switzerland,0,0,CONCACAF Gold Cup,Mexico City,Mexico,True
+2015-04-04,England,Belgium,1,2,Copa America,London,England,False
+2015-04-08,Turkey,Nigeria,0,1,Friendly,Turkey City,Turkey,True
+2015-04-10,United States,Morocco,0,0,UEFA Nations League,Los Angeles,United States,False
+2015-04-11,Scotland,Croatia,2,1,Copa America,Scotland City,Scotland,False
+2015-04-15,Czech Republic,Ghana,1,2,FIFA World Cup qualification,Czech Republic City,Czech Republic,False
+2015-04-17,Argentina,Senegal,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2015-04-18,Wales,Spain,1,1,Copa America,Doha,Qatar,True
+2015-04-22,Chile,Cameroon,2,1,Friendly,Chile City,Chile,True
+2015-04-24,Brazil,Tunisia,2,1,UEFA Nations League,Rio de Janeiro,Brazil,False
+2015-04-25,France,Portugal,0,1,Copa America,Paris,France,False
+2015-04-29,Peru,Algeria,3,2,AFC Asian Cup,Doha,Qatar,False
+2015-05-01,Uruguay,Egypt,3,0,FIFA World Cup qualification,Uruguay City,Uruguay,False
+2015-05-02,Germany,Italy,2,2,Copa America,Doha,Qatar,True
+2015-05-06,Paraguay,Japan,1,3,Friendly,Paraguay City,Paraguay,False
+2015-05-08,Colombia,Nigeria,3,0,Friendly,Colombia City,Colombia,False
+2015-05-09,Netherlands,Switzerland,1,0,African Cup of Nations,Doha,Qatar,False
+2015-05-13,Costa Rica,South Korea,0,0,African Cup of Nations,Costa Rica City,Costa Rica,False
+2015-05-14,Canada,Iran,0,1,Copa America,Canada City,Canada,False
+2015-05-15,Ecuador,Ghana,1,0,UEFA Nations League,Ecuador City,Ecuador,False
+2015-05-16,Belgium,Morocco,1,0,AFC Asian Cup,Doha,Qatar,False
+2015-05-21,Mexico,Saudi Arabia,2,0,CONCACAF Gold Cup,Mexico City,Mexico,True
+2015-05-22,England,Cameroon,2,0,FIFA World Cup qualification,London,England,False
+2015-05-23,Croatia,Senegal,2,0,FIFA World Cup qualification,Croatia City,Croatia,False
+2015-05-28,United States,Australia,0,0,Friendly,Los Angeles,United States,False
+2015-05-29,Scotland,Algeria,0,1,UEFA Nations League,Doha,Qatar,True
+2015-05-30,Spain,Tunisia,3,1,CONCACAF Gold Cup,Spain City,Spain,False
+2015-06-04,Argentina,Qatar,1,0,African Cup of Nations,Buenos Aires,Argentina,False
+2015-06-05,Wales,Japan,1,1,Friendly,Wales City,Wales,True
+2015-06-06,Portugal,Egypt,2,0,CONCACAF Gold Cup,Doha,Qatar,False
+2015-06-11,Brazil,Iraq,1,0,African Cup of Nations,Rio de Janeiro,Brazil,False
+2015-06-12,France,South Korea,1,0,Copa America,Paris,France,False
+2015-06-13,Italy,Nigeria,2,0,UEFA Nations League,Italy City,Italy,False
+2015-06-18,Uruguay,Uzbekistan,3,0,CONCACAF Gold Cup,Uruguay City,Uruguay,True
+2015-06-19,Germany,Iran,2,0,UEFA Nations League,Germany City,Germany,True
+2015-06-20,Switzerland,Ghana,1,0,FIFA World Cup qualification,Switzerland City,Switzerland,False
+2015-06-25,Colombia,Denmark,0,0,AFC Asian Cup,Colombia City,Colombia,False
+2015-06-26,Netherlands,Saudi Arabia,2,1,Friendly,Doha,Qatar,False
+2015-06-27,Morocco,Cameroon,3,1,Copa America,Morocco City,Morocco,False
+2015-07-02,Ecuador,Sweden,1,0,UEFA Nations League,Ecuador City,Ecuador,False
+2015-07-03,Belgium,Australia,0,0,Friendly,Belgium City,Belgium,True
+2015-07-04,Senegal,Algeria,0,1,CONCACAF Gold Cup,Senegal City,Senegal,False
+2015-07-09,England,Norway,1,0,CONCACAF Gold Cup,London,England,False
+2015-07-10,Croatia,Qatar,2,1,FIFA World Cup qualification,Doha,Qatar,False
+2015-07-11,Tunisia,Japan,1,1,Copa America,Tunisia City,Tunisia,True
+2015-07-16,Scotland,Poland,1,0,African Cup of Nations,Scotland City,Scotland,True
+2015-07-17,Spain,Iraq,3,0,Friendly,Spain City,Spain,False
+2015-07-18,Egypt,South Korea,0,0,Copa America,Egypt City,Egypt,False
+2015-07-23,Wales,Austria,0,0,African Cup of Nations,Wales City,Wales,False
+2015-07-24,Portugal,Uzbekistan,2,0,FIFA World Cup qualification,Portugal City,Portugal,False
+2015-07-25,Nigeria,Iran,1,0,CONCACAF Gold Cup,Doha,Qatar,False
+2015-07-30,France,Serbia,1,0,AFC Asian Cup,Paris,France,False
+2015-07-31,Italy,Denmark,1,0,FIFA World Cup qualification,Italy City,Italy,False
+2015-08-01,Ghana,Saudi Arabia,1,0,CONCACAF Gold Cup,Ghana City,Ghana,False
+2015-08-06,Germany,Turkey,3,1,Friendly,Germany City,Germany,False
+2015-08-07,Switzerland,Sweden,2,0,CONCACAF Gold Cup,Switzerland City,Switzerland,False
+2015-08-08,Cameroon,Australia,0,1,African Cup of Nations,Doha,Qatar,False
+2015-08-13,Netherlands,Czech Republic,1,1,African Cup of Nations,Netherlands City,Netherlands,True
+2015-08-14,Morocco,Norway,1,0,African Cup of Nations,Morocco City,Morocco,False
+2015-08-15,Algeria,Qatar,2,0,Friendly,Algeria City,Algeria,False
+2015-08-20,Belgium,Chile,3,0,Copa America,Belgium City,Belgium,True
+2015-08-21,Senegal,Poland,0,0,African Cup of Nations,Senegal City,Senegal,True
+2015-08-22,Japan,Iraq,0,1,Copa America,Japan City,Japan,False
+2015-08-27,Croatia,Peru,1,0,African Cup of Nations,Croatia City,Croatia,False
+2015-08-28,Tunisia,Austria,0,0,CONCACAF Gold Cup,Tunisia City,Tunisia,False
+2015-08-29,South Korea,Uzbekistan,2,1,AFC Asian Cup,South Korea City,South Korea,False
+2015-09-03,Spain,Paraguay,2,0,UEFA Nations League,Spain City,Spain,False
+2015-09-04,Egypt,Serbia,2,2,Copa America,Egypt City,Egypt,False
+2015-09-05,Iran,Denmark,1,1,UEFA Nations League,Iran City,Iran,True
+2015-09-10,Portugal,Costa Rica,2,0,AFC Asian Cup,Portugal City,Portugal,False
+2015-09-11,Nigeria,Turkey,0,1,UEFA Nations League,Nigeria City,Nigeria,False
+2015-09-12,Saudi Arabia,Sweden,1,0,Copa America,Doha,Qatar,True
+2015-09-17,Italy,Canada,1,1,Copa America,Italy City,Italy,False
+2015-09-18,Ghana,Czech Republic,0,0,African Cup of Nations,Ghana City,Ghana,False
+2015-09-19,Australia,Norway,1,3,CONCACAF Gold Cup,Australia City,Australia,False
+2015-09-24,Switzerland,Mexico,1,0,Copa America,Doha,Qatar,False
+2015-09-25,Cameroon,Chile,0,1,AFC Asian Cup,Cameroon City,Cameroon,False
+2015-09-26,Qatar,Poland,0,0,African Cup of Nations,Qatar City,Qatar,False
+2015-10-01,Morocco,United States,1,0,FIFA World Cup qualification,Morocco City,Morocco,False
+2015-10-02,Algeria,Peru,1,1,CONCACAF Gold Cup,Algeria City,Algeria,False
+2015-10-03,Iraq,Austria,0,1,UEFA Nations League,Iraq City,Iraq,False
+2015-10-08,Senegal,Argentina,0,1,UEFA Nations League,Senegal City,Senegal,False
+2015-10-09,Japan,Paraguay,2,0,FIFA World Cup qualification,Japan City,Japan,False
+2015-10-10,Uzbekistan,Serbia,0,1,FIFA World Cup qualification,Doha,Qatar,True
+2015-10-15,Tunisia,Brazil,0,0,Copa America,Tunisia City,Tunisia,False
+2015-10-16,South Korea,Costa Rica,2,0,Copa America,South Korea City,South Korea,False
+2015-10-17,Denmark,Turkey,0,0,AFC Asian Cup,Denmark City,Denmark,True
+2015-10-22,Egypt,Uruguay,0,1,African Cup of Nations,Egypt City,Egypt,True
+2015-10-23,Iran,Canada,1,0,Friendly,Doha,Qatar,False
+2015-10-24,Sweden,Czech Republic,3,1,FIFA World Cup qualification,Sweden City,Sweden,False
+2015-10-29,Nigeria,Colombia,1,1,UEFA Nations League,Nigeria City,Nigeria,False
+2015-10-30,Saudi Arabia,Mexico,0,0,AFC Asian Cup,Saudi Arabia City,Saudi Arabia,False
+2015-10-31,Norway,Chile,2,2,Copa America,Norway City,Norway,False
+2015-11-05,Ghana,Ecuador,1,1,Copa America,Doha,Qatar,False
+2015-11-06,Australia,United States,3,0,Copa America,Australia City,Australia,False
+2015-11-07,Poland,Peru,1,2,Friendly,Poland City,Poland,False
+2015-11-12,Cameroon,England,0,1,African Cup of Nations,Cameroon City,Cameroon,False
+2015-11-13,Qatar,Argentina,0,2,Friendly,Qatar City,Qatar,False
+2015-11-14,Austria,Paraguay,0,0,AFC Asian Cup,Austria City,Austria,False
+2015-11-19,Algeria,Scotland,1,1,Copa America,Algeria City,Algeria,False
+2015-11-20,Iraq,Brazil,2,2,CONCACAF Gold Cup,Iraq City,Iraq,False
+2015-11-21,Serbia,Costa Rica,3,0,Copa America,Serbia City,Serbia,False
+2015-11-26,Japan,Wales,1,2,African Cup of Nations,Japan City,Japan,False
+2015-11-27,Uzbekistan,Uruguay,1,1,Copa America,Doha,Qatar,False
+2015-11-28,Turkey,Canada,1,0,Copa America,Turkey City,Turkey,True
+2015-12-03,South Korea,France,0,0,AFC Asian Cup,South Korea City,South Korea,True
+2015-12-04,Denmark,Colombia,0,1,Friendly,Denmark City,Denmark,True
+2015-12-05,Czech Republic,Mexico,0,1,FIFA World Cup qualification,Czech Republic City,Czech Republic,True
+2016-01-14,Iran,Netherlands,0,1,FIFA World Cup qualification,Iran City,Iran,True
+2016-01-15,Sweden,England,0,2,African Cup of Nations,Sweden City,Sweden,False
+2016-01-16,Chile,Argentina,1,2,UEFA Nations League,Chile City,Chile,False
+2016-01-21,Saudi Arabia,Belgium,0,2,UEFA Nations League,Saudi Arabia City,Saudi Arabia,False
+2016-01-22,Norway,Scotland,1,1,UEFA Nations League,Norway City,Norway,False
+2016-01-23,Peru,Brazil,0,1,CONCACAF Gold Cup,Peru City,Peru,True
+2016-01-28,Australia,Croatia,1,0,CONCACAF Gold Cup,Australia City,Australia,False
+2016-01-29,Poland,Wales,1,1,CONCACAF Gold Cup,Poland City,Poland,False
+2016-01-30,Paraguay,Uruguay,0,2,Friendly,Paraguay City,Paraguay,False
+2016-02-04,Qatar,Spain,1,0,FIFA World Cup qualification,Doha,Qatar,False
+2016-02-05,Austria,France,0,1,CONCACAF Gold Cup,Austria City,Austria,True
+2016-02-06,Costa Rica,Colombia,0,1,UEFA Nations League,Costa Rica City,Costa Rica,False
+2016-02-07,Canada,Ecuador,1,1,AFC Asian Cup,Canada City,Canada,True
+2016-02-11,Iraq,Portugal,0,2,CONCACAF Gold Cup,Iraq City,Iraq,False
+2016-02-12,Serbia,Germany,1,0,Copa America,Doha,Qatar,False
+2016-02-14,Mexico,England,0,0,Copa America,Mexico City,Mexico,True
+2016-02-18,Uzbekistan,Italy,0,1,African Cup of Nations,Uzbekistan City,Uzbekistan,False
+2016-02-19,Turkey,Netherlands,0,2,African Cup of Nations,Turkey City,Turkey,False
+2016-02-21,United States,Scotland,1,1,UEFA Nations League,Los Angeles,United States,False
+2016-02-25,Denmark,Switzerland,1,1,UEFA Nations League,Denmark City,Denmark,False
+2016-02-26,Czech Republic,Belgium,0,2,AFC Asian Cup,Czech Republic City,Czech Republic,False
+2016-02-28,Argentina,Wales,2,0,Copa America,Buenos Aires,Argentina,True
+2016-03-03,Sweden,Morocco,0,2,AFC Asian Cup,Sweden City,Sweden,False
+2016-03-04,Chile,Croatia,0,1,UEFA Nations League,Chile City,Chile,False
+2016-03-06,Brazil,France,0,1,Friendly,Rio de Janeiro,Brazil,False
+2016-03-10,Norway,Senegal,0,2,AFC Asian Cup,Norway City,Norway,False
+2016-03-11,Peru,Spain,2,1,African Cup of Nations,Doha,Qatar,True
+2016-03-13,Uruguay,Germany,2,2,Copa America,Uruguay City,Uruguay,True
+2016-03-17,Poland,Tunisia,1,2,AFC Asian Cup,Poland City,Poland,False
+2016-03-18,Paraguay,Portugal,0,2,AFC Asian Cup,Paraguay City,Paraguay,True
+2016-03-20,Colombia,Netherlands,0,2,African Cup of Nations,Colombia City,Colombia,False
+2016-03-24,Austria,Egypt,0,0,AFC Asian Cup,Austria City,Austria,True
+2016-03-25,Costa Rica,Italy,0,3,African Cup of Nations,Doha,Qatar,False
+2016-03-26,Canada,Switzerland,0,1,FIFA World Cup qualification,Canada City,Canada,False
+2016-03-27,Ecuador,Belgium,2,1,Friendly,Ecuador City,Ecuador,False
+2016-03-31,Serbia,Nigeria,1,1,Copa America,Doha,Qatar,False
+2016-04-02,Mexico,Morocco,0,2,AFC Asian Cup,Mexico City,Mexico,False
+2016-04-03,England,Croatia,0,0,CONCACAF Gold Cup,London,England,False
+2016-04-07,Turkey,Ghana,1,2,Friendly,Turkey City,Turkey,True
+2016-04-09,United States,Senegal,3,0,CONCACAF Gold Cup,Los Angeles,United States,False
+2016-04-10,Scotland,Spain,0,0,AFC Asian Cup,Scotland City,Scotland,False
+2016-04-14,Czech Republic,Cameroon,0,1,CONCACAF Gold Cup,Czech Republic City,Czech Republic,False
+2016-04-16,Argentina,Tunisia,3,0,CONCACAF Gold Cup,Buenos Aires,Argentina,False
+2016-04-17,Wales,Portugal,2,1,UEFA Nations League,Wales City,Wales,False
+2016-04-21,Chile,Algeria,0,1,AFC Asian Cup,Chile City,Chile,False
+2016-04-23,Brazil,Egypt,0,0,CONCACAF Gold Cup,Rio de Janeiro,Brazil,False
+2016-04-24,France,Italy,2,2,UEFA Nations League,Paris,France,False
+2016-04-28,Peru,Japan,1,1,Copa America,Peru City,Peru,True
+2016-04-30,Uruguay,Nigeria,1,1,Copa America,Doha,Qatar,False
+2016-05-01,Germany,Switzerland,2,0,Friendly,Germany City,Germany,False
+2016-05-05,Paraguay,South Korea,1,1,UEFA Nations League,Paraguay City,Paraguay,True
+2016-05-07,Colombia,Ghana,2,0,FIFA World Cup qualification,Colombia City,Colombia,False
+2016-05-08,Netherlands,Morocco,2,0,CONCACAF Gold Cup,Doha,Qatar,False
+2016-05-12,Costa Rica,Iran,2,0,AFC Asian Cup,Doha,Qatar,True
+2016-05-13,Canada,Saudi Arabia,2,1,CONCACAF Gold Cup,Canada City,Canada,False
+2016-05-14,Ecuador,Cameroon,0,0,CONCACAF Gold Cup,Ecuador City,Ecuador,False
+2016-05-15,Belgium,Senegal,0,0,Friendly,Belgium City,Belgium,False
+2016-05-20,Mexico,Australia,1,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2016-05-21,England,Algeria,2,0,African Cup of Nations,London,England,False
+2016-05-22,Croatia,Tunisia,3,0,African Cup of Nations,Croatia City,Croatia,False
+2016-05-27,United States,Qatar,1,0,African Cup of Nations,Los Angeles,United States,False
+2016-05-28,Scotland,Japan,1,1,African Cup of Nations,Scotland City,Scotland,False
+2016-05-29,Spain,Egypt,1,0,FIFA World Cup qualification,Spain City,Spain,True
+2016-06-03,Argentina,Iraq,3,0,UEFA Nations League,Buenos Aires,Argentina,False
+2016-06-04,Wales,South Korea,1,0,UEFA Nations League,Wales City,Wales,False
+2016-06-05,Portugal,Nigeria,2,0,AFC Asian Cup,Portugal City,Portugal,False
+2016-06-10,Brazil,Uzbekistan,3,0,CONCACAF Gold Cup,Rio de Janeiro,Brazil,False
+2016-06-11,France,Iran,0,0,Friendly,Paris,France,False
+2016-06-12,Italy,Ghana,0,0,African Cup of Nations,Italy City,Italy,True
+2016-06-17,Uruguay,Denmark,2,0,Copa America,Uruguay City,Uruguay,False
+2016-06-18,Germany,Saudi Arabia,1,0,UEFA Nations League,Germany City,Germany,False
+2016-06-19,Switzerland,Cameroon,1,0,FIFA World Cup qualification,Switzerland City,Switzerland,False
+2016-06-24,Colombia,Sweden,1,0,FIFA World Cup qualification,Colombia City,Colombia,True
+2016-06-25,Netherlands,Australia,1,1,AFC Asian Cup,Netherlands City,Netherlands,False
+2016-06-26,Morocco,Algeria,2,0,AFC Asian Cup,Morocco City,Morocco,False
+2016-07-01,Ecuador,Norway,0,0,Friendly,Doha,Qatar,False
+2016-07-02,Belgium,Qatar,2,0,Copa America,Belgium City,Belgium,False
+2016-07-03,Senegal,Japan,3,2,CONCACAF Gold Cup,Doha,Qatar,True
+2016-07-08,England,Poland,1,0,Friendly,London,England,False
+2016-07-09,Croatia,Iraq,3,0,Friendly,Doha,Qatar,False
+2016-07-10,Tunisia,South Korea,0,0,FIFA World Cup qualification,Tunisia City,Tunisia,True
+2016-07-15,Scotland,Austria,1,0,AFC Asian Cup,Scotland City,Scotland,False
+2016-07-16,Spain,Uzbekistan,4,0,CONCACAF Gold Cup,Spain City,Spain,True
+2016-07-17,Egypt,Iran,1,2,African Cup of Nations,Egypt City,Egypt,False
+2016-07-22,Wales,Serbia,0,2,UEFA Nations League,Wales City,Wales,False
+2016-07-23,Portugal,Denmark,1,0,Friendly,Portugal City,Portugal,False
+2016-07-24,Nigeria,Saudi Arabia,0,1,UEFA Nations League,Nigeria City,Nigeria,False
+2016-07-29,France,Turkey,1,1,UEFA Nations League,Paris,France,True
+2016-07-30,Italy,Sweden,0,0,AFC Asian Cup,Italy City,Italy,True
+2016-07-31,Ghana,Australia,0,0,African Cup of Nations,Ghana City,Ghana,False
+2016-08-05,Germany,Czech Republic,3,0,African Cup of Nations,Germany City,Germany,False
+2016-08-06,Switzerland,Norway,1,0,UEFA Nations League,Switzerland City,Switzerland,False
+2016-08-07,Cameroon,Qatar,1,0,AFC Asian Cup,Cameroon City,Cameroon,False
+2016-08-12,Netherlands,Chile,3,0,FIFA World Cup qualification,Netherlands City,Netherlands,False
+2016-08-13,Morocco,Poland,0,1,Copa America,Morocco City,Morocco,False
+2016-08-14,Algeria,Iraq,1,1,UEFA Nations League,Algeria City,Algeria,False
+2016-08-19,Belgium,Peru,1,1,AFC Asian Cup,Belgium City,Belgium,True
+2016-08-20,Senegal,Austria,0,0,African Cup of Nations,Senegal City,Senegal,True
+2016-08-21,Japan,Uzbekistan,2,0,UEFA Nations League,Japan City,Japan,False
+2016-08-26,Croatia,Paraguay,2,1,African Cup of Nations,Croatia City,Croatia,True
+2016-08-27,Tunisia,Serbia,0,1,CONCACAF Gold Cup,Doha,Qatar,False
+2016-08-28,South Korea,Denmark,1,0,AFC Asian Cup,South Korea City,South Korea,True
+2016-09-02,Spain,Costa Rica,2,1,Friendly,Spain City,Spain,False
+2016-09-03,Egypt,Turkey,0,1,Friendly,Egypt City,Egypt,False
+2016-09-04,Iran,Sweden,2,0,AFC Asian Cup,Doha,Qatar,True
+2016-09-09,Portugal,Canada,1,0,UEFA Nations League,Doha,Qatar,False
+2016-09-10,Nigeria,Czech Republic,1,1,Friendly,Nigeria City,Nigeria,True
+2016-09-11,Saudi Arabia,Norway,3,1,AFC Asian Cup,Saudi Arabia City,Saudi Arabia,False
+2016-09-16,Italy,Mexico,1,0,African Cup of Nations,Italy City,Italy,False
+2016-09-17,Ghana,Chile,1,1,Copa America,Ghana City,Ghana,True
+2016-09-18,Australia,Poland,0,0,CONCACAF Gold Cup,Australia City,Australia,False
+2016-09-23,Switzerland,United States,3,0,Copa America,Doha,Qatar,False
+2016-09-24,Cameroon,Peru,0,2,FIFA World Cup qualification,Cameroon City,Cameroon,True
+2016-09-25,Qatar,Austria,1,1,African Cup of Nations,Qatar City,Qatar,True
+2016-09-30,Morocco,Argentina,0,1,UEFA Nations League,Doha,Qatar,False
+2016-10-01,Algeria,Paraguay,1,1,Copa America,Algeria City,Algeria,False
+2016-10-02,Iraq,Serbia,0,2,CONCACAF Gold Cup,Iraq City,Iraq,False
+2016-10-07,Senegal,Brazil,1,1,AFC Asian Cup,Senegal City,Senegal,True
+2016-10-08,Japan,Costa Rica,1,0,Friendly,Japan City,Japan,False
+2016-10-09,Uzbekistan,Turkey,1,1,Copa America,Uzbekistan City,Uzbekistan,True
+2016-10-14,Tunisia,Uruguay,0,2,CONCACAF Gold Cup,Tunisia City,Tunisia,True
+2016-10-15,South Korea,Canada,0,0,African Cup of Nations,South Korea City,South Korea,False
+2016-10-16,Denmark,Czech Republic,1,0,African Cup of Nations,Denmark City,Denmark,True
+2016-10-21,Egypt,Colombia,0,2,African Cup of Nations,Egypt City,Egypt,False
+2016-10-22,Iran,Mexico,2,1,African Cup of Nations,Iran City,Iran,False
+2016-10-23,Sweden,Chile,2,1,African Cup of Nations,Sweden City,Sweden,False
+2016-10-28,Nigeria,Ecuador,1,1,CONCACAF Gold Cup,Nigeria City,Nigeria,False
+2016-10-29,Saudi Arabia,United States,1,1,Friendly,Saudi Arabia City,Saudi Arabia,False
+2016-10-30,Norway,Peru,1,0,Copa America,Doha,Qatar,True
+2016-11-04,Ghana,England,0,2,AFC Asian Cup,Ghana City,Ghana,True
+2016-11-05,Australia,Argentina,1,1,Copa America,Australia City,Australia,False
+2016-11-06,Poland,Paraguay,1,0,Copa America,Poland City,Poland,False
+2016-11-11,Cameroon,Scotland,1,0,Friendly,Cameroon City,Cameroon,False
+2016-11-12,Qatar,Brazil,0,0,UEFA Nations League,Doha,Qatar,True
+2016-11-13,Austria,Costa Rica,2,0,AFC Asian Cup,Austria City,Austria,False
+2016-11-18,Algeria,Wales,1,0,Friendly,Algeria City,Algeria,False
+2016-11-19,Iraq,Uruguay,0,2,CONCACAF Gold Cup,Iraq City,Iraq,False
+2016-11-20,Serbia,Canada,2,0,CONCACAF Gold Cup,Serbia City,Serbia,False
+2016-11-25,Japan,France,0,0,UEFA Nations League,Japan City,Japan,False
+2016-11-26,Uzbekistan,Colombia,0,1,CONCACAF Gold Cup,Uzbekistan City,Uzbekistan,False
+2016-11-27,Turkey,Mexico,0,1,CONCACAF Gold Cup,Turkey City,Turkey,False
+2016-12-02,South Korea,Germany,1,1,CONCACAF Gold Cup,South Korea City,South Korea,False
+2016-12-03,Denmark,Ecuador,1,1,CONCACAF Gold Cup,Denmark City,Denmark,False
+2016-12-04,Czech Republic,United States,0,0,CONCACAF Gold Cup,Czech Republic City,Czech Republic,False
+2017-01-14,Iran,Belgium,2,1,Friendly,Iran City,Iran,True
+2017-01-15,Sweden,Scotland,0,0,UEFA Nations League,Sweden City,Sweden,True
+2017-01-16,Chile,Brazil,0,1,CONCACAF Gold Cup,Chile City,Chile,False
+2017-01-21,Saudi Arabia,Croatia,0,0,CONCACAF Gold Cup,Doha,Qatar,False
+2017-01-22,Norway,Wales,2,2,UEFA Nations League,Norway City,Norway,False
+2017-01-23,Peru,Uruguay,0,3,AFC Asian Cup,Peru City,Peru,False
+2017-01-28,Australia,Spain,2,3,AFC Asian Cup,Australia City,Australia,False
+2017-01-29,Poland,France,1,2,FIFA World Cup qualification,Doha,Qatar,False
+2017-01-30,Paraguay,Colombia,0,1,FIFA World Cup qualification,Paraguay City,Paraguay,False
+2017-02-04,Qatar,Portugal,2,1,CONCACAF Gold Cup,Qatar City,Qatar,True
+2017-02-05,Austria,Germany,0,2,FIFA World Cup qualification,Austria City,Austria,False
+2017-02-06,Costa Rica,Ecuador,1,0,CONCACAF Gold Cup,Costa Rica City,Costa Rica,False
+2017-02-07,Canada,England,0,3,African Cup of Nations,Canada City,Canada,False
+2017-02-11,Iraq,Italy,0,1,Friendly,Iraq City,Iraq,False
+2017-02-12,Serbia,Netherlands,0,2,AFC Asian Cup,Doha,Qatar,False
+2017-02-14,Mexico,Scotland,3,0,Copa America,Mexico City,Mexico,False
+2017-02-18,Uzbekistan,Switzerland,0,0,Friendly,Doha,Qatar,True
+2017-02-19,Turkey,Belgium,1,1,Friendly,Doha,Qatar,False
+2017-02-21,United States,Wales,1,0,Copa America,Los Angeles,United States,False
+2017-02-25,Denmark,Morocco,1,0,AFC Asian Cup,Doha,Qatar,False
+2017-02-26,Czech Republic,Croatia,1,1,Friendly,Czech Republic City,Czech Republic,False
+2017-02-28,Argentina,France,1,0,Friendly,Buenos Aires,Argentina,False
+2017-03-04,Sweden,Senegal,1,1,UEFA Nations League,Doha,Qatar,True
+2017-03-05,Chile,Spain,1,0,CONCACAF Gold Cup,Chile City,Chile,False
+2017-03-07,Brazil,Germany,1,1,Friendly,Rio de Janeiro,Brazil,False
+2017-03-11,Norway,Tunisia,1,2,Copa America,Norway City,Norway,False
+2017-03-12,Peru,Portugal,1,2,FIFA World Cup qualification,Peru City,Peru,False
+2017-03-14,Uruguay,Netherlands,1,1,UEFA Nations League,Uruguay City,Uruguay,True
+2017-03-18,Poland,Egypt,2,0,African Cup of Nations,Doha,Qatar,False
+2017-03-19,Paraguay,Italy,0,1,AFC Asian Cup,Paraguay City,Paraguay,False
+2017-03-21,Colombia,Belgium,1,0,African Cup of Nations,Colombia City,Colombia,False
+2017-03-25,Austria,Nigeria,1,0,FIFA World Cup qualification,Austria City,Austria,False
+2017-03-26,Costa Rica,Switzerland,1,2,Friendly,Costa Rica City,Costa Rica,False
+2017-03-27,Canada,Morocco,0,2,African Cup of Nations,Canada City,Canada,False
+2017-03-28,Ecuador,Croatia,0,2,CONCACAF Gold Cup,Ecuador City,Ecuador,True
+2017-04-01,Serbia,Ghana,1,0,FIFA World Cup qualification,Serbia City,Serbia,False
+2017-04-03,Mexico,Senegal,0,0,AFC Asian Cup,Mexico City,Mexico,False
+2017-04-04,England,Spain,1,0,FIFA World Cup qualification,London,England,False
+2017-04-08,Turkey,Cameroon,3,0,African Cup of Nations,Turkey City,Turkey,False
+2017-04-10,United States,Tunisia,0,0,UEFA Nations League,Los Angeles,United States,False
+2017-04-11,Scotland,Portugal,0,0,CONCACAF Gold Cup,Scotland City,Scotland,False
+2017-04-15,Czech Republic,Algeria,0,2,AFC Asian Cup,Czech Republic City,Czech Republic,False
+2017-04-17,Argentina,Egypt,1,1,Copa America,Buenos Aires,Argentina,True
+2017-04-18,Wales,Italy,1,2,AFC Asian Cup,Wales City,Wales,True
+2017-04-22,Chile,Japan,1,0,AFC Asian Cup,Chile City,Chile,False
+2017-04-24,Brazil,Nigeria,0,0,Friendly,Rio de Janeiro,Brazil,False
+2017-04-25,France,Switzerland,1,2,Copa America,Paris,France,False
+2017-04-29,Peru,South Korea,1,0,FIFA World Cup qualification,Doha,Qatar,False
+2017-05-01,Uruguay,Ghana,2,1,CONCACAF Gold Cup,Uruguay City,Uruguay,False
+2017-05-02,Germany,Morocco,1,0,AFC Asian Cup,Doha,Qatar,False
+2017-05-06,Paraguay,Iran,0,1,CONCACAF Gold Cup,Paraguay City,Paraguay,False
+2017-05-08,Colombia,Cameroon,1,0,African Cup of Nations,Doha,Qatar,False
+2017-05-09,Netherlands,Senegal,3,1,FIFA World Cup qualification,Netherlands City,Netherlands,False
+2017-05-13,Costa Rica,Saudi Arabia,1,2,FIFA World Cup qualification,Costa Rica City,Costa Rica,False
+2017-05-14,Canada,Australia,0,0,Friendly,Canada City,Canada,False
+2017-05-15,Ecuador,Algeria,1,1,African Cup of Nations,Ecuador City,Ecuador,False
+2017-05-16,Belgium,Tunisia,3,1,African Cup of Nations,Belgium City,Belgium,False
+2017-05-21,Mexico,Qatar,2,1,CONCACAF Gold Cup,Mexico City,Mexico,False
+2017-05-22,England,Japan,3,0,UEFA Nations League,London,England,False
+2017-05-23,Croatia,Egypt,0,0,AFC Asian Cup,Croatia City,Croatia,True
+2017-05-28,United States,Iraq,2,0,AFC Asian Cup,Los Angeles,United States,True
+2017-05-29,Scotland,South Korea,2,1,Friendly,Scotland City,Scotland,False
+2017-05-30,Spain,Nigeria,1,0,Friendly,Spain City,Spain,False
+2017-06-04,Argentina,Uzbekistan,3,1,AFC Asian Cup,Buenos Aires,Argentina,False
+2017-06-05,Wales,Iran,0,2,CONCACAF Gold Cup,Wales City,Wales,True
+2017-06-06,Portugal,Ghana,1,2,AFC Asian Cup,Doha,Qatar,False
+2017-06-11,Brazil,Denmark,1,2,AFC Asian Cup,Rio de Janeiro,Brazil,True
+2017-06-12,France,Saudi Arabia,2,0,FIFA World Cup qualification,Paris,France,False
+2017-06-13,Italy,Cameroon,2,1,Copa America,Italy City,Italy,True
+2017-06-18,Uruguay,Sweden,2,1,AFC Asian Cup,Uruguay City,Uruguay,False
+2017-06-19,Germany,Australia,2,1,Friendly,Germany City,Germany,False
+2017-06-20,Switzerland,Algeria,1,0,Friendly,Switzerland City,Switzerland,False
+2017-06-25,Colombia,Norway,1,0,AFC Asian Cup,Colombia City,Colombia,False
+2017-06-26,Netherlands,Qatar,2,0,UEFA Nations League,Netherlands City,Netherlands,True
+2017-06-27,Morocco,Japan,0,1,Copa America,Morocco City,Morocco,False
+2017-07-02,Ecuador,Poland,1,0,AFC Asian Cup,Ecuador City,Ecuador,False
+2017-07-03,Belgium,Iraq,1,0,AFC Asian Cup,Belgium City,Belgium,False
+2017-07-04,Senegal,South Korea,2,0,FIFA World Cup qualification,Senegal City,Senegal,False
+2017-07-09,England,Austria,1,0,UEFA Nations League,London,England,False
+2017-07-10,Croatia,Uzbekistan,2,0,FIFA World Cup qualification,Croatia City,Croatia,False
+2017-07-11,Tunisia,Iran,0,0,AFC Asian Cup,Tunisia City,Tunisia,True
+2017-07-16,Scotland,Serbia,2,1,FIFA World Cup qualification,Scotland City,Scotland,False
+2017-07-17,Spain,Denmark,2,0,UEFA Nations League,Doha,Qatar,False
+2017-07-18,Egypt,Saudi Arabia,1,2,African Cup of Nations,Doha,Qatar,True
+2017-07-23,Wales,Turkey,2,1,FIFA World Cup qualification,Wales City,Wales,True
+2017-07-24,Portugal,Sweden,0,0,UEFA Nations League,Doha,Qatar,False
+2017-07-25,Nigeria,Australia,0,0,CONCACAF Gold Cup,Nigeria City,Nigeria,True
+2017-07-30,France,Czech Republic,2,0,UEFA Nations League,Paris,France,True
+2017-07-31,Italy,Norway,4,0,AFC Asian Cup,Italy City,Italy,False
+2017-08-01,Ghana,Qatar,1,0,FIFA World Cup qualification,Doha,Qatar,False
+2017-08-06,Germany,Chile,3,0,Copa America,Germany City,Germany,True
+2017-08-07,Switzerland,Poland,2,1,UEFA Nations League,Switzerland City,Switzerland,False
+2017-08-08,Cameroon,Iraq,1,0,CONCACAF Gold Cup,Cameroon City,Cameroon,False
+2017-08-13,Netherlands,Peru,2,0,African Cup of Nations,Doha,Qatar,True
+2017-08-14,Morocco,Austria,0,0,Friendly,Doha,Qatar,False
+2017-08-15,Algeria,Uzbekistan,1,0,African Cup of Nations,Algeria City,Algeria,False
+2017-08-20,Belgium,Paraguay,1,1,Friendly,Belgium City,Belgium,True
+2017-08-21,Senegal,Serbia,3,0,Friendly,Senegal City,Senegal,True
+2017-08-22,Japan,Denmark,0,2,Copa America,Japan City,Japan,False
+2017-08-27,Croatia,Costa Rica,1,0,AFC Asian Cup,Croatia City,Croatia,False
+2017-08-28,Tunisia,Turkey,0,2,Friendly,Tunisia City,Tunisia,False
+2017-08-29,South Korea,Sweden,4,0,FIFA World Cup qualification,South Korea City,South Korea,True
+2017-09-03,Spain,Canada,3,0,FIFA World Cup qualification,Spain City,Spain,False
+2017-09-04,Egypt,Czech Republic,1,1,UEFA Nations League,Egypt City,Egypt,True
+2017-09-05,Iran,Norway,0,2,UEFA Nations League,Iran City,Iran,True
+2017-09-10,Portugal,Mexico,1,0,AFC Asian Cup,Portugal City,Portugal,True
+2017-09-11,Nigeria,Chile,0,1,AFC Asian Cup,Nigeria City,Nigeria,False
+2017-09-12,Saudi Arabia,Poland,1,2,FIFA World Cup qualification,Saudi Arabia City,Saudi Arabia,False
+2017-09-17,Italy,United States,0,1,UEFA Nations League,Italy City,Italy,False
+2017-09-18,Ghana,Peru,1,1,AFC Asian Cup,Ghana City,Ghana,False
+2017-09-19,Australia,Austria,2,1,AFC Asian Cup,Australia City,Australia,True
+2017-09-24,Switzerland,Argentina,0,1,UEFA Nations League,Switzerland City,Switzerland,False
+2017-09-25,Cameroon,Paraguay,0,1,African Cup of Nations,Cameroon City,Cameroon,False
+2017-09-26,Qatar,Serbia,0,0,Copa America,Qatar City,Qatar,False
+2017-10-01,Morocco,Brazil,0,2,FIFA World Cup qualification,Morocco City,Morocco,True
+2017-10-02,Algeria,Costa Rica,2,0,FIFA World Cup qualification,Algeria City,Algeria,True
+2017-10-03,Iraq,Turkey,1,1,AFC Asian Cup,Doha,Qatar,False
+2017-10-08,Senegal,Uruguay,2,0,AFC Asian Cup,Senegal City,Senegal,False
+2017-10-09,Japan,Canada,1,0,Friendly,Doha,Qatar,False
+2017-10-10,Uzbekistan,Czech Republic,1,0,Copa America,Uzbekistan City,Uzbekistan,False
+2017-10-15,Tunisia,Colombia,0,2,UEFA Nations League,Tunisia City,Tunisia,True
+2017-10-16,South Korea,Mexico,1,0,CONCACAF Gold Cup,South Korea City,South Korea,True
+2017-10-17,Denmark,Chile,1,1,FIFA World Cup qualification,Doha,Qatar,True
+2017-10-22,Egypt,Ecuador,1,1,Friendly,Egypt City,Egypt,False
+2017-10-23,Iran,United States,2,0,African Cup of Nations,Iran City,Iran,False
+2017-10-24,Sweden,Peru,1,1,Friendly,Sweden City,Sweden,False
+2017-10-29,Nigeria,England,2,1,African Cup of Nations,Nigeria City,Nigeria,True
+2017-10-30,Saudi Arabia,Argentina,0,2,CONCACAF Gold Cup,Saudi Arabia City,Saudi Arabia,False
+2017-10-31,Norway,Paraguay,0,0,FIFA World Cup qualification,Doha,Qatar,True
+2017-11-05,Ghana,Scotland,1,2,FIFA World Cup qualification,Ghana City,Ghana,True
+2017-11-06,Australia,Brazil,1,2,Copa America,Australia City,Australia,False
+2017-11-07,Poland,Costa Rica,1,0,Copa America,Poland City,Poland,False
+2017-11-12,Cameroon,Wales,0,1,UEFA Nations League,Cameroon City,Cameroon,True
+2017-11-13,Qatar,Uruguay,0,0,African Cup of Nations,Qatar City,Qatar,False
+2017-11-14,Austria,Canada,3,0,Copa America,Austria City,Austria,True
+2017-11-19,Algeria,France,1,1,AFC Asian Cup,Algeria City,Algeria,False
+2017-11-20,Iraq,Colombia,0,0,CONCACAF Gold Cup,Iraq City,Iraq,False
+2017-11-21,Serbia,Mexico,1,1,Friendly,Doha,Qatar,False
+2017-11-26,Japan,Germany,1,0,CONCACAF Gold Cup,Japan City,Japan,False
+2017-11-27,Uzbekistan,Ecuador,0,1,African Cup of Nations,Uzbekistan City,Uzbekistan,False
+2017-11-28,Turkey,United States,0,2,CONCACAF Gold Cup,Doha,Qatar,False
+2017-12-03,South Korea,Netherlands,1,0,CONCACAF Gold Cup,South Korea City,South Korea,True
+2017-12-04,Denmark,England,0,0,FIFA World Cup qualification,Denmark City,Denmark,False
+2017-12-05,Czech Republic,Argentina,1,0,UEFA Nations League,Czech Republic City,Czech Republic,False
+2018-01-14,Iran,Croatia,0,2,FIFA World Cup qualification,Iran City,Iran,False
+2018-01-15,Sweden,Wales,0,0,UEFA Nations League,Sweden City,Sweden,False
+2018-01-16,Chile,Uruguay,0,2,African Cup of Nations,Chile City,Chile,True
+2018-01-21,Saudi Arabia,Spain,1,1,FIFA World Cup qualification,Saudi Arabia City,Saudi Arabia,True
+2018-01-22,Norway,France,0,1,CONCACAF Gold Cup,Norway City,Norway,False
+2018-01-23,Peru,Colombia,0,1,African Cup of Nations,Doha,Qatar,True
+2018-01-28,Australia,Portugal,2,1,FIFA World Cup qualification,Doha,Qatar,True
+2018-01-29,Poland,Germany,0,0,AFC Asian Cup,Doha,Qatar,True
+2018-01-30,Paraguay,Ecuador,2,2,African Cup of Nations,Doha,Qatar,False
+2018-02-04,Qatar,Italy,0,0,African Cup of Nations,Doha,Qatar,False
+2018-02-05,Austria,Netherlands,1,2,AFC Asian Cup,Austria City,Austria,True
+2018-02-06,Costa Rica,England,1,1,CONCACAF Gold Cup,Doha,Qatar,True
+2018-02-07,Canada,Scotland,0,1,Friendly,Canada City,Canada,True
+2018-02-11,Iraq,Switzerland,0,0,CONCACAF Gold Cup,Iraq City,Iraq,False
+2018-02-12,Serbia,Belgium,0,0,Friendly,Serbia City,Serbia,False
+2018-02-14,Mexico,Wales,1,0,AFC Asian Cup,Mexico City,Mexico,False
+2018-02-18,Uzbekistan,Morocco,0,1,UEFA Nations League,Uzbekistan City,Uzbekistan,False
+2018-02-19,Turkey,Croatia,1,1,AFC Asian Cup,Turkey City,Turkey,False
+2018-02-21,United States,France,1,2,Friendly,Los Angeles,United States,False
+2018-02-25,Denmark,Senegal,1,0,African Cup of Nations,Denmark City,Denmark,False
+2018-02-26,Czech Republic,Spain,0,3,UEFA Nations League,Czech Republic City,Czech Republic,False
+2018-02-28,Argentina,Germany,1,0,AFC Asian Cup,Buenos Aires,Argentina,False
+2018-03-04,Sweden,Tunisia,0,1,UEFA Nations League,Sweden City,Sweden,True
+2018-03-05,Chile,Portugal,0,0,Copa America,Chile City,Chile,False
+2018-03-07,Brazil,Netherlands,0,0,AFC Asian Cup,Rio de Janeiro,Brazil,False
+2018-03-11,Norway,Egypt,0,1,CONCACAF Gold Cup,Norway City,Norway,False
+2018-03-12,Peru,Italy,0,1,African Cup of Nations,Peru City,Peru,False
+2018-03-14,Uruguay,Belgium,0,0,Friendly,Uruguay City,Uruguay,False
+2018-03-18,Poland,Nigeria,2,1,Copa America,Poland City,Poland,True
+2018-03-19,Paraguay,Switzerland,0,0,Friendly,Paraguay City,Paraguay,False
+2018-03-21,Colombia,Croatia,1,1,Friendly,Colombia City,Colombia,True
+2018-03-25,Austria,Ghana,2,1,FIFA World Cup qualification,Austria City,Austria,False
+2018-03-26,Costa Rica,Morocco,0,1,CONCACAF Gold Cup,Costa Rica City,Costa Rica,False
+2018-03-27,Canada,Senegal,0,0,AFC Asian Cup,Canada City,Canada,False
+2018-03-28,Ecuador,Spain,1,1,AFC Asian Cup,Ecuador City,Ecuador,True
+2018-04-01,Serbia,Cameroon,1,1,FIFA World Cup qualification,Serbia City,Serbia,True
+2018-04-03,Mexico,Tunisia,1,0,AFC Asian Cup,Mexico City,Mexico,True
+2018-04-04,England,Portugal,1,0,UEFA Nations League,London,England,False
+2018-04-08,Turkey,Algeria,1,0,African Cup of Nations,Doha,Qatar,False
+2018-04-10,United States,Egypt,0,0,AFC Asian Cup,Los Angeles,United States,True
+2018-04-11,Scotland,Italy,2,2,African Cup of Nations,Scotland City,Scotland,True
+2018-04-15,Czech Republic,Japan,0,1,Friendly,Czech Republic City,Czech Republic,False
+2018-04-17,Argentina,Nigeria,0,0,UEFA Nations League,Buenos Aires,Argentina,False
+2018-04-18,Wales,Switzerland,0,1,UEFA Nations League,Wales City,Wales,True
+2018-04-22,Chile,South Korea,0,0,Friendly,Doha,Qatar,False
+2018-04-24,Brazil,Ghana,2,2,Copa America,Rio de Janeiro,Brazil,False
+2018-04-25,France,Morocco,1,0,African Cup of Nations,Paris,France,True
+2018-04-29,Peru,Iran,1,0,Friendly,Peru City,Peru,False
+2018-05-01,Uruguay,Cameroon,1,0,CONCACAF Gold Cup,Doha,Qatar,False
+2018-05-02,Germany,Senegal,2,0,Friendly,Germany City,Germany,False
+2018-05-06,Paraguay,Saudi Arabia,0,0,Copa America,Doha,Qatar,True
+2018-05-08,Colombia,Algeria,2,2,African Cup of Nations,Colombia City,Colombia,False
+2018-05-09,Netherlands,Tunisia,1,0,FIFA World Cup qualification,Doha,Qatar,False
+2018-05-13,Costa Rica,Australia,0,0,African Cup of Nations,Costa Rica City,Costa Rica,False
+2018-05-14,Canada,Qatar,0,1,Copa America,Canada City,Canada,False
+2018-05-15,Ecuador,Japan,1,0,AFC Asian Cup,Doha,Qatar,False
+2018-05-16,Belgium,Egypt,2,0,Copa America,Belgium City,Belgium,False
+2018-05-21,Mexico,Iraq,1,0,UEFA Nations League,Mexico City,Mexico,False
+2018-05-22,England,South Korea,0,1,Friendly,London,England,False
+2018-05-23,Croatia,Nigeria,0,0,African Cup of Nations,Doha,Qatar,False
+2018-05-28,United States,Uzbekistan,1,2,Copa America,Los Angeles,United States,True
+2018-05-29,Scotland,Iran,1,0,AFC Asian Cup,Scotland City,Scotland,False
+2018-05-30,Spain,Ghana,2,0,AFC Asian Cup,Spain City,Spain,False
+2018-06-04,Argentina,Denmark,2,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2018-06-05,Wales,Saudi Arabia,1,0,AFC Asian Cup,Doha,Qatar,False
+2018-06-06,Portugal,Cameroon,2,0,Copa America,Portugal City,Portugal,False
+2018-06-11,Brazil,Sweden,1,2,Copa America,Rio de Janeiro,Brazil,False
+2018-06-12,France,Australia,2,1,UEFA Nations League,Paris,France,False
+2018-06-13,Italy,Algeria,0,0,Copa America,Italy City,Italy,True
+2018-06-18,Uruguay,Norway,3,0,Copa America,Doha,Qatar,False
+2018-06-19,Germany,Qatar,1,0,AFC Asian Cup,Germany City,Germany,False
+2018-06-20,Switzerland,Japan,2,0,CONCACAF Gold Cup,Switzerland City,Switzerland,False
+2018-06-25,Colombia,Poland,2,1,AFC Asian Cup,Colombia City,Colombia,False
+2018-06-26,Netherlands,Iraq,2,0,Friendly,Netherlands City,Netherlands,False
+2018-06-27,Morocco,South Korea,1,0,Friendly,Morocco City,Morocco,False
+2018-06-30,France,Argentina,4,3,FIFA World Cup,Kazan,Russia,True
+2018-07-02,Ecuador,Austria,1,0,FIFA World Cup qualification,Ecuador City,Ecuador,False
+2018-07-03,Belgium,Uzbekistan,2,0,Friendly,Belgium City,Belgium,True
+2018-07-04,Senegal,Iran,0,0,FIFA World Cup qualification,Senegal City,Senegal,False
+2018-07-09,England,Serbia,2,2,CONCACAF Gold Cup,London,England,True
+2018-07-10,Croatia,Denmark,2,0,Copa America,Doha,Qatar,False
+2018-07-11,Tunisia,Saudi Arabia,2,2,FIFA World Cup qualification,Tunisia City,Tunisia,False
+2018-07-16,Scotland,Turkey,2,1,AFC Asian Cup,Scotland City,Scotland,True
+2018-07-17,Spain,Sweden,1,0,AFC Asian Cup,Spain City,Spain,False
+2018-07-18,Egypt,Australia,2,0,CONCACAF Gold Cup,Egypt City,Egypt,False
+2018-07-23,Wales,Czech Republic,1,0,FIFA World Cup qualification,Wales City,Wales,False
+2018-07-24,Portugal,Norway,1,0,UEFA Nations League,Doha,Qatar,True
+2018-07-25,Nigeria,Qatar,1,0,FIFA World Cup qualification,Nigeria City,Nigeria,False
+2018-07-30,France,Chile,2,0,Friendly,Paris,France,False
+2018-07-31,Italy,Poland,2,1,CONCACAF Gold Cup,Doha,Qatar,False
+2018-08-01,Ghana,Iraq,2,1,CONCACAF Gold Cup,Doha,Qatar,False
+2018-08-06,Germany,Peru,1,0,Friendly,Germany City,Germany,False
+2018-08-07,Switzerland,Austria,0,1,AFC Asian Cup,Switzerland City,Switzerland,True
+2018-08-08,Cameroon,Uzbekistan,1,0,CONCACAF Gold Cup,Cameroon City,Cameroon,False
+2018-08-13,Netherlands,Paraguay,2,1,UEFA Nations League,Netherlands City,Netherlands,True
+2018-08-14,Morocco,Serbia,1,1,Friendly,Morocco City,Morocco,False
+2018-08-15,Algeria,Denmark,0,1,AFC Asian Cup,Algeria City,Algeria,False
+2018-08-20,Belgium,Costa Rica,3,0,African Cup of Nations,Belgium City,Belgium,False
+2018-08-21,Senegal,Turkey,2,0,Copa America,Doha,Qatar,False
+2018-08-22,Japan,Sweden,1,1,Friendly,Japan City,Japan,True
+2018-08-27,Croatia,Canada,1,1,AFC Asian Cup,Croatia City,Croatia,False
+2018-08-28,Tunisia,Czech Republic,1,0,African Cup of Nations,Tunisia City,Tunisia,False
+2018-08-29,South Korea,Norway,1,0,Friendly,South Korea City,South Korea,False
+2018-09-03,Spain,Mexico,0,1,African Cup of Nations,Spain City,Spain,False
+2018-09-04,Egypt,Chile,2,0,Friendly,Egypt City,Egypt,False
+2018-09-05,Iran,Poland,0,0,AFC Asian Cup,Doha,Qatar,False
+2018-09-10,Portugal,United States,1,1,Copa America,Portugal City,Portugal,False
+2018-09-11,Nigeria,Peru,3,0,AFC Asian Cup,Nigeria City,Nigeria,False
+2018-09-12,Saudi Arabia,Austria,2,0,UEFA Nations League,Saudi Arabia City,Saudi Arabia,False
+2018-09-17,Italy,Argentina,0,2,Friendly,Italy City,Italy,False
+2018-09-18,Ghana,Paraguay,2,0,UEFA Nations League,Ghana City,Ghana,False
+2018-09-19,Australia,Serbia,1,2,CONCACAF Gold Cup,Doha,Qatar,False
+2018-09-24,Switzerland,Brazil,2,1,AFC Asian Cup,Switzerland City,Switzerland,False
+2018-09-25,Cameroon,Costa Rica,2,1,Copa America,Cameroon City,Cameroon,False
+2018-09-26,Qatar,Turkey,0,0,Friendly,Qatar City,Qatar,False
+2018-10-01,Morocco,Uruguay,0,1,AFC Asian Cup,Morocco City,Morocco,False
+2018-10-02,Algeria,Canada,0,0,CONCACAF Gold Cup,Algeria City,Algeria,True
+2018-10-03,Iraq,Czech Republic,0,1,AFC Asian Cup,Iraq City,Iraq,True
+2018-10-08,Senegal,Colombia,0,1,African Cup of Nations,Senegal City,Senegal,False
+2018-10-09,Japan,Mexico,1,0,Friendly,Japan City,Japan,False
+2018-10-10,Uzbekistan,Chile,0,0,CONCACAF Gold Cup,Uzbekistan City,Uzbekistan,False
+2018-10-15,Tunisia,Ecuador,3,0,Copa America,Tunisia City,Tunisia,True
+2018-10-16,South Korea,United States,1,2,Copa America,Doha,Qatar,True
+2018-10-17,Denmark,Peru,2,2,CONCACAF Gold Cup,Denmark City,Denmark,True
+2018-10-22,Egypt,England,1,1,AFC Asian Cup,Egypt City,Egypt,False
+2018-10-23,Iran,Argentina,1,0,African Cup of Nations,Iran City,Iran,True
+2018-10-24,Sweden,Paraguay,1,1,AFC Asian Cup,Sweden City,Sweden,False
+2018-10-29,Nigeria,Scotland,2,0,African Cup of Nations,Doha,Qatar,False
+2018-10-30,Saudi Arabia,Brazil,0,3,UEFA Nations League,Saudi Arabia City,Saudi Arabia,False
+2018-10-31,Norway,Costa Rica,2,0,Friendly,Doha,Qatar,True
+2018-11-05,Ghana,Wales,0,1,AFC Asian Cup,Ghana City,Ghana,False
+2018-11-06,Australia,Uruguay,2,1,AFC Asian Cup,Australia City,Australia,True
+2018-11-07,Poland,Canada,0,0,CONCACAF Gold Cup,Poland City,Poland,False
+2018-11-12,Cameroon,France,0,1,UEFA Nations League,Cameroon City,Cameroon,False
+2018-11-13,Qatar,Colombia,0,2,Copa America,Qatar City,Qatar,False
+2018-11-14,Austria,Mexico,0,3,African Cup of Nations,Austria City,Austria,False
+2018-11-19,Algeria,Germany,1,1,Friendly,Algeria City,Algeria,True
+2018-11-20,Iraq,Ecuador,0,1,AFC Asian Cup,Doha,Qatar,True
+2018-11-21,Serbia,United States,0,0,African Cup of Nations,Doha,Qatar,True
+2018-11-26,Japan,Netherlands,0,0,UEFA Nations League,Japan City,Japan,False
+2018-11-27,Uzbekistan,England,2,1,Friendly,Doha,Qatar,True
+2018-11-28,Turkey,Argentina,0,1,Copa America,Turkey City,Turkey,False
+2018-12-03,South Korea,Belgium,0,2,Friendly,South Korea City,South Korea,False
+2018-12-04,Denmark,Scotland,1,0,Friendly,Denmark City,Denmark,False
+2018-12-05,Czech Republic,Brazil,0,0,African Cup of Nations,Czech Republic City,Czech Republic,False
+2019-01-14,Iran,Spain,2,2,Friendly,Doha,Qatar,True
+2019-01-15,Sweden,France,0,2,CONCACAF Gold Cup,Sweden City,Sweden,False
+2019-01-16,Chile,Colombia,0,0,Copa America,Chile City,Chile,False
+2019-01-21,Saudi Arabia,Portugal,2,0,Copa America,Saudi Arabia City,Saudi Arabia,True
+2019-01-22,Norway,Germany,0,1,AFC Asian Cup,Norway City,Norway,True
+2019-01-23,Peru,Ecuador,0,4,African Cup of Nations,Peru City,Peru,True
+2019-01-28,Australia,Italy,2,1,African Cup of Nations,Australia City,Australia,True
+2019-01-29,Poland,Netherlands,0,1,African Cup of Nations,Poland City,Poland,False
+2019-01-30,Paraguay,England,0,0,Friendly,Paraguay City,Paraguay,False
+2019-02-04,Qatar,Switzerland,0,0,African Cup of Nations,Qatar City,Qatar,True
+2019-02-05,Austria,Belgium,0,1,Copa America,Austria City,Austria,False
+2019-02-06,Costa Rica,Scotland,2,0,CONCACAF Gold Cup,Doha,Qatar,False
+2019-02-07,Canada,Wales,0,0,UEFA Nations League,Canada City,Canada,False
+2019-02-11,Iraq,Morocco,0,3,AFC Asian Cup,Iraq City,Iraq,False
+2019-02-12,Serbia,Croatia,0,2,CONCACAF Gold Cup,Doha,Qatar,False
+2019-02-14,Mexico,France,1,1,African Cup of Nations,Mexico City,Mexico,False
+2019-02-18,Uzbekistan,Senegal,2,0,African Cup of Nations,Uzbekistan City,Uzbekistan,False
+2019-02-19,Turkey,Spain,0,1,African Cup of Nations,Turkey City,Turkey,False
+2019-02-21,United States,Germany,1,2,Copa America,Los Angeles,United States,False
+2019-02-25,Denmark,Tunisia,2,1,Copa America,Doha,Qatar,False
+2019-02-26,Czech Republic,Portugal,1,1,UEFA Nations League,Czech Republic City,Czech Republic,False
+2019-02-28,Argentina,Netherlands,2,2,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2019-03-04,Sweden,Egypt,1,1,CONCACAF Gold Cup,Sweden City,Sweden,False
+2019-03-05,Chile,Italy,0,1,AFC Asian Cup,Doha,Qatar,True
+2019-03-07,Brazil,Belgium,2,2,Copa America,Rio de Janeiro,Brazil,True
+2019-03-11,Norway,Nigeria,0,1,African Cup of Nations,Norway City,Norway,True
+2019-03-12,Peru,Switzerland,0,4,FIFA World Cup qualification,Peru City,Peru,False
+2019-03-14,Uruguay,Croatia,2,0,African Cup of Nations,Uruguay City,Uruguay,True
+2019-03-18,Poland,Ghana,1,0,Copa America,Poland City,Poland,True
+2019-03-19,Paraguay,Morocco,0,2,Copa America,Paraguay City,Paraguay,True
+2019-03-21,Colombia,Spain,0,0,AFC Asian Cup,Colombia City,Colombia,False
+2019-03-25,Austria,Cameroon,1,0,UEFA Nations League,Doha,Qatar,False
+2019-03-26,Costa Rica,Senegal,0,2,AFC Asian Cup,Doha,Qatar,False
+2019-03-27,Canada,Tunisia,2,0,CONCACAF Gold Cup,Canada City,Canada,False
+2019-03-28,Ecuador,Portugal,1,1,UEFA Nations League,Ecuador City,Ecuador,True
+2019-04-01,Serbia,Algeria,1,0,CONCACAF Gold Cup,Serbia City,Serbia,True
+2019-04-03,Mexico,Egypt,1,0,African Cup of Nations,Mexico City,Mexico,False
+2019-04-04,England,Italy,3,0,Copa America,London,England,True
+2019-04-08,Turkey,Japan,0,1,African Cup of Nations,Turkey City,Turkey,False
+2019-04-10,United States,Nigeria,1,0,African Cup of Nations,Los Angeles,United States,False
+2019-04-11,Scotland,Switzerland,1,1,Friendly,Scotland City,Scotland,False
+2019-04-15,Czech Republic,South Korea,1,2,AFC Asian Cup,Czech Republic City,Czech Republic,False
+2019-04-17,Argentina,Ghana,2,0,Copa America,Buenos Aires,Argentina,False
+2019-04-18,Wales,Morocco,0,1,FIFA World Cup qualification,Doha,Qatar,True
+2019-04-22,Chile,Iran,0,2,Friendly,Doha,Qatar,False
+2019-04-24,Brazil,Cameroon,0,0,Copa America,Rio de Janeiro,Brazil,False
+2019-04-25,France,Senegal,2,0,Friendly,Paris,France,True
+2019-04-29,Peru,Saudi Arabia,0,2,Friendly,Doha,Qatar,False
+2019-05-01,Uruguay,Algeria,1,0,Friendly,Uruguay City,Uruguay,False
+2019-05-02,Germany,Tunisia,1,0,FIFA World Cup qualification,Germany City,Germany,False
+2019-05-06,Paraguay,Australia,0,1,CONCACAF Gold Cup,Doha,Qatar,False
+2019-05-08,Colombia,Japan,1,0,African Cup of Nations,Colombia City,Colombia,False
+2019-05-09,Netherlands,Egypt,2,1,African Cup of Nations,Netherlands City,Netherlands,False
+2019-05-13,Costa Rica,Qatar,1,0,Copa America,Costa Rica City,Costa Rica,False
+2019-05-14,Canada,Iraq,1,0,FIFA World Cup qualification,Canada City,Canada,True
+2019-05-15,Ecuador,South Korea,1,2,CONCACAF Gold Cup,Ecuador City,Ecuador,False
+2019-05-16,Belgium,Nigeria,1,0,UEFA Nations League,Belgium City,Belgium,False
+2019-05-21,Mexico,Uzbekistan,2,2,Copa America,Mexico City,Mexico,True
+2019-05-22,England,Iran,3,0,Friendly,London,England,False
+2019-05-23,Croatia,Ghana,2,0,FIFA World Cup qualification,Croatia City,Croatia,False
+2019-05-28,United States,Denmark,0,0,UEFA Nations League,Los Angeles,United States,False
+2019-05-29,Scotland,Saudi Arabia,1,2,AFC Asian Cup,Scotland City,Scotland,True
+2019-05-30,Spain,Cameroon,1,0,Friendly,Spain City,Spain,False
+2019-06-04,Argentina,Sweden,2,0,Copa America,Buenos Aires,Argentina,True
+2019-06-05,Wales,Australia,1,1,CONCACAF Gold Cup,Wales City,Wales,True
+2019-06-06,Portugal,Algeria,3,0,UEFA Nations League,Portugal City,Portugal,False
+2019-06-11,Brazil,Norway,0,0,CONCACAF Gold Cup,Rio de Janeiro,Brazil,False
+2019-06-12,France,Qatar,0,1,FIFA World Cup qualification,Paris,France,False
+2019-06-13,Italy,Japan,1,0,CONCACAF Gold Cup,Italy City,Italy,False
+2019-06-18,Uruguay,Poland,2,0,UEFA Nations League,Uruguay City,Uruguay,False
+2019-06-19,Germany,Iraq,1,0,Copa America,Germany City,Germany,False
+2019-06-20,Switzerland,South Korea,0,0,UEFA Nations League,Switzerland City,Switzerland,False
+2019-06-25,Colombia,Austria,0,0,Copa America,Colombia City,Colombia,True
+2019-06-26,Netherlands,Uzbekistan,2,0,CONCACAF Gold Cup,Netherlands City,Netherlands,True
+2019-06-27,Morocco,Iran,0,0,Copa America,Morocco City,Morocco,False
+2019-07-02,Ecuador,Serbia,0,0,CONCACAF Gold Cup,Ecuador City,Ecuador,False
+2019-07-03,Belgium,Denmark,0,0,AFC Asian Cup,Doha,Qatar,True
+2019-07-04,Senegal,Saudi Arabia,1,0,Copa America,Senegal City,Senegal,False
+2019-07-09,England,Turkey,0,0,UEFA Nations League,London,England,True
+2019-07-10,Croatia,Sweden,1,0,AFC Asian Cup,Croatia City,Croatia,True
+2019-07-11,Tunisia,Australia,1,0,CONCACAF Gold Cup,Tunisia City,Tunisia,True
+2019-07-16,Scotland,Czech Republic,2,1,UEFA Nations League,Scotland City,Scotland,True
+2019-07-17,Spain,Norway,1,0,Copa America,Spain City,Spain,True
+2019-07-18,Egypt,Qatar,2,2,FIFA World Cup qualification,Egypt City,Egypt,True
+2019-07-23,Wales,Chile,0,0,African Cup of Nations,Wales City,Wales,False
+2019-07-24,Portugal,Poland,2,2,Friendly,Portugal City,Portugal,False
+2019-07-25,Nigeria,Iraq,1,2,Friendly,Doha,Qatar,False
+2019-07-30,France,Peru,3,2,AFC Asian Cup,Paris,France,False
+2019-07-31,Italy,Austria,1,1,AFC Asian Cup,Italy City,Italy,False
+2019-08-01,Ghana,Uzbekistan,2,0,CONCACAF Gold Cup,Doha,Qatar,False
+2019-08-06,Germany,Paraguay,1,0,CONCACAF Gold Cup,Germany City,Germany,False
+2019-08-07,Switzerland,Serbia,2,0,Friendly,Switzerland City,Switzerland,False
+2019-08-08,Cameroon,Denmark,1,0,FIFA World Cup qualification,Cameroon City,Cameroon,False
+2019-08-13,Netherlands,Costa Rica,3,1,Friendly,Netherlands City,Netherlands,True
+2019-08-14,Morocco,Turkey,1,1,UEFA Nations League,Doha,Qatar,False
+2019-08-15,Algeria,Sweden,0,1,UEFA Nations League,Algeria City,Algeria,False
+2019-08-20,Belgium,Canada,2,0,AFC Asian Cup,Belgium City,Belgium,False
+2019-08-21,Senegal,Czech Republic,1,0,African Cup of Nations,Senegal City,Senegal,True
+2019-08-22,Japan,Norway,2,1,UEFA Nations League,Japan City,Japan,True
+2019-08-27,Croatia,Mexico,0,1,Copa America,Croatia City,Croatia,False
+2019-08-28,Tunisia,Chile,0,0,Friendly,Tunisia City,Tunisia,True
+2019-08-29,South Korea,Poland,2,1,Copa America,South Korea City,South Korea,True
+2019-09-03,Spain,United States,1,1,UEFA Nations League,Spain City,Spain,False
+2019-09-04,Egypt,Peru,1,0,Friendly,Doha,Qatar,True
+2019-09-05,Iran,Austria,0,1,Copa America,Iran City,Iran,True
+2019-09-10,Portugal,Argentina,1,0,Friendly,Portugal City,Portugal,True
+2019-09-11,Nigeria,Paraguay,0,1,CONCACAF Gold Cup,Nigeria City,Nigeria,False
+2019-09-12,Saudi Arabia,Serbia,0,0,Copa America,Saudi Arabia City,Saudi Arabia,False
+2019-09-17,Italy,Brazil,0,0,Friendly,Doha,Qatar,False
+2019-09-18,Ghana,Costa Rica,0,2,UEFA Nations League,Doha,Qatar,False
+2019-09-19,Australia,Turkey,2,0,UEFA Nations League,Australia City,Australia,True
+2019-09-24,Switzerland,Uruguay,0,0,AFC Asian Cup,Switzerland City,Switzerland,False
+2019-09-25,Cameroon,Canada,1,0,Copa America,Cameroon City,Cameroon,True
+2019-09-26,Qatar,Czech Republic,0,0,African Cup of Nations,Qatar City,Qatar,False
+2019-10-01,Morocco,Colombia,1,1,African Cup of Nations,Doha,Qatar,False
+2019-10-02,Algeria,Mexico,2,1,AFC Asian Cup,Algeria City,Algeria,True
+2019-10-03,Iraq,Chile,0,1,UEFA Nations League,Iraq City,Iraq,False
+2019-10-08,Senegal,Ecuador,0,0,Friendly,Senegal City,Senegal,False
+2019-10-09,Japan,United States,0,0,African Cup of Nations,Japan City,Japan,True
+2019-10-10,Uzbekistan,Peru,0,2,UEFA Nations League,Uzbekistan City,Uzbekistan,False
+2019-10-15,Tunisia,England,0,0,UEFA Nations League,Tunisia City,Tunisia,False
+2019-10-16,South Korea,Argentina,2,1,Copa America,South Korea City,South Korea,False
+2019-10-17,Denmark,Paraguay,2,1,Friendly,Doha,Qatar,False
+2019-10-22,Egypt,Scotland,0,2,Copa America,Egypt City,Egypt,False
+2019-10-23,Iran,Brazil,0,2,FIFA World Cup qualification,Iran City,Iran,True
+2019-10-24,Sweden,Costa Rica,0,0,African Cup of Nations,Sweden City,Sweden,True
+2019-10-29,Nigeria,Wales,2,1,Copa America,Nigeria City,Nigeria,False
+2019-10-30,Saudi Arabia,Uruguay,0,2,FIFA World Cup qualification,Doha,Qatar,False
+2019-10-31,Norway,Canada,3,1,Copa America,Doha,Qatar,False
+2019-11-05,Ghana,France,0,1,Copa America,Ghana City,Ghana,True
+2019-11-06,Australia,Colombia,0,1,CONCACAF Gold Cup,Australia City,Australia,False
+2019-11-07,Poland,Mexico,1,0,UEFA Nations League,Doha,Qatar,False
+2019-11-12,Cameroon,Germany,0,0,African Cup of Nations,Doha,Qatar,False
+2019-11-13,Qatar,Ecuador,0,0,Copa America,Qatar City,Qatar,False
+2019-11-14,Austria,United States,1,0,FIFA World Cup qualification,Austria City,Austria,False
+2019-11-19,Algeria,Netherlands,0,2,AFC Asian Cup,Algeria City,Algeria,False
+2019-11-20,Iraq,England,0,2,CONCACAF Gold Cup,Iraq City,Iraq,False
+2019-11-21,Serbia,Argentina,1,0,Copa America,Doha,Qatar,False
+2019-11-26,Japan,Belgium,0,2,UEFA Nations League,Japan City,Japan,False
+2019-11-27,Uzbekistan,Scotland,0,1,Friendly,Uzbekistan City,Uzbekistan,False
+2019-11-28,Turkey,Brazil,1,2,FIFA World Cup qualification,Turkey City,Turkey,False
+2019-12-03,South Korea,Croatia,0,2,UEFA Nations League,South Korea City,South Korea,False
+2019-12-04,Denmark,Wales,1,2,FIFA World Cup qualification,Denmark City,Denmark,False
+2019-12-05,Czech Republic,Uruguay,0,2,AFC Asian Cup,Czech Republic City,Czech Republic,True
+2020-01-14,Iran,Portugal,0,0,African Cup of Nations,Iran City,Iran,False
+2020-01-15,Sweden,Germany,0,1,African Cup of Nations,Sweden City,Sweden,False
+2020-01-16,Chile,Ecuador,0,2,Copa America,Doha,Qatar,False
+2020-01-21,Saudi Arabia,Italy,0,1,CONCACAF Gold Cup,Saudi Arabia City,Saudi Arabia,True
+2020-01-22,Norway,Netherlands,0,2,FIFA World Cup qualification,Norway City,Norway,False
+2020-01-23,Peru,England,2,2,Friendly,Doha,Qatar,False
+2020-01-28,Australia,Switzerland,1,1,AFC Asian Cup,Doha,Qatar,True
+2020-01-29,Poland,Belgium,1,2,Copa America,Poland City,Poland,True
+2020-01-30,Paraguay,Scotland,0,2,AFC Asian Cup,Paraguay City,Paraguay,False
+2020-02-04,Qatar,Morocco,1,1,Copa America,Qatar City,Qatar,False
+2020-02-05,Austria,Croatia,1,1,Copa America,Doha,Qatar,False
+2020-02-06,Costa Rica,Wales,0,1,African Cup of Nations,Doha,Qatar,True
+2020-02-07,Canada,France,1,0,AFC Asian Cup,Canada City,Canada,False
+2020-02-11,Iraq,Senegal,0,1,African Cup of Nations,Iraq City,Iraq,False
+2020-02-12,Serbia,Spain,1,0,FIFA World Cup qualification,Serbia City,Serbia,False
+2020-02-14,Mexico,Germany,0,1,AFC Asian Cup,Mexico City,Mexico,True
+2020-02-18,Uzbekistan,Tunisia,0,2,African Cup of Nations,Uzbekistan City,Uzbekistan,False
+2020-02-19,Turkey,Portugal,0,2,AFC Asian Cup,Turkey City,Turkey,False
+2020-02-21,United States,Netherlands,2,3,Copa America,Los Angeles,United States,False
+2020-02-25,Denmark,Egypt,2,1,AFC Asian Cup,Doha,Qatar,True
+2020-02-26,Czech Republic,Italy,0,2,Copa America,Doha,Qatar,False
+2020-02-28,Argentina,Belgium,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2020-03-03,Sweden,Nigeria,0,0,FIFA World Cup qualification,Doha,Qatar,False
+2020-03-04,Chile,Switzerland,0,1,CONCACAF Gold Cup,Chile City,Chile,False
+2020-03-06,Brazil,Croatia,1,0,Copa America,Rio de Janeiro,Brazil,False
+2020-03-10,Norway,Ghana,0,2,CONCACAF Gold Cup,Norway City,Norway,True
+2020-03-11,Peru,Morocco,1,1,African Cup of Nations,Doha,Qatar,False
+2020-03-13,Uruguay,Spain,2,1,AFC Asian Cup,Uruguay City,Uruguay,False
+2020-03-17,Poland,Cameroon,1,0,African Cup of Nations,Poland City,Poland,True
+2020-03-18,Paraguay,Senegal,0,1,CONCACAF Gold Cup,Paraguay City,Paraguay,True
+2020-03-20,Colombia,Portugal,2,0,Friendly,Colombia City,Colombia,False
+2020-03-24,Austria,Algeria,1,0,AFC Asian Cup,Austria City,Austria,False
+2020-03-25,Costa Rica,Tunisia,0,0,FIFA World Cup qualification,Costa Rica City,Costa Rica,True
+2020-03-26,Canada,Egypt,1,2,African Cup of Nations,Canada City,Canada,False
+2020-03-27,Ecuador,Italy,0,1,Friendly,Ecuador City,Ecuador,True
+2020-03-31,Serbia,Japan,2,1,UEFA Nations League,Serbia City,Serbia,False
+2020-04-02,Mexico,Nigeria,1,0,Friendly,Mexico City,Mexico,False
+2020-04-03,England,Switzerland,3,0,UEFA Nations League,London,England,False
+2020-04-07,Turkey,South Korea,1,0,Copa America,Turkey City,Turkey,False
+2020-04-09,United States,Ghana,1,0,Copa America,Los Angeles,United States,False
+2020-04-10,Scotland,Morocco,1,2,African Cup of Nations,Scotland City,Scotland,False
+2020-04-14,Czech Republic,Iran,0,1,Copa America,Czech Republic City,Czech Republic,True
+2020-04-16,Argentina,Cameroon,3,0,Copa America,Buenos Aires,Argentina,True
+2020-04-17,Wales,Senegal,2,1,FIFA World Cup qualification,Wales City,Wales,True
+2020-04-21,Chile,Saudi Arabia,2,1,Copa America,Chile City,Chile,False
+2020-04-23,Brazil,Algeria,3,0,AFC Asian Cup,Rio de Janeiro,Brazil,False
+2020-04-24,France,Tunisia,2,1,UEFA Nations League,Paris,France,False
+2020-04-28,Peru,Australia,1,1,CONCACAF Gold Cup,Peru City,Peru,True
+2020-04-30,Uruguay,Japan,0,2,AFC Asian Cup,Uruguay City,Uruguay,False
+2020-05-01,Germany,Egypt,0,1,AFC Asian Cup,Germany City,Germany,False
+2020-05-05,Paraguay,Qatar,1,1,UEFA Nations League,Doha,Qatar,False
+2020-05-07,Colombia,South Korea,2,0,AFC Asian Cup,Colombia City,Colombia,True
+2020-05-08,Netherlands,Nigeria,3,0,UEFA Nations League,Netherlands City,Netherlands,False
+2020-05-12,Costa Rica,Iraq,2,0,African Cup of Nations,Costa Rica City,Costa Rica,False
+2020-05-13,Canada,Uzbekistan,0,0,FIFA World Cup qualification,Canada City,Canada,False
+2020-05-14,Ecuador,Iran,2,1,Copa America,Ecuador City,Ecuador,True
+2020-05-15,Belgium,Ghana,3,0,CONCACAF Gold Cup,Belgium City,Belgium,False
+2020-05-20,Mexico,Denmark,0,2,AFC Asian Cup,Mexico City,Mexico,True
+2020-05-21,England,Saudi Arabia,2,0,AFC Asian Cup,London,England,True
+2020-05-22,Croatia,Cameroon,4,1,AFC Asian Cup,Croatia City,Croatia,True
+2020-05-27,United States,Sweden,1,0,AFC Asian Cup,Los Angeles,United States,False
+2020-05-28,Scotland,Australia,0,0,AFC Asian Cup,Scotland City,Scotland,False
+2020-05-29,Spain,Algeria,1,1,Friendly,Doha,Qatar,False
+2020-06-03,Argentina,Norway,2,0,Friendly,Buenos Aires,Argentina,False
+2020-06-04,Wales,Qatar,0,0,African Cup of Nations,Doha,Qatar,False
+2020-06-05,Portugal,Japan,2,0,African Cup of Nations,Portugal City,Portugal,True
+2020-06-10,Brazil,Poland,2,0,AFC Asian Cup,Rio de Janeiro,Brazil,False
+2020-06-11,France,Iraq,3,0,Copa America,Paris,France,False
+2020-06-12,Italy,South Korea,1,0,African Cup of Nations,Italy City,Italy,False
+2020-06-17,Uruguay,Austria,2,1,UEFA Nations League,Doha,Qatar,False
+2020-06-18,Germany,Uzbekistan,1,0,African Cup of Nations,Germany City,Germany,True
+2020-06-19,Switzerland,Iran,0,0,UEFA Nations League,Doha,Qatar,False
+2020-06-24,Colombia,Serbia,1,0,UEFA Nations League,Colombia City,Colombia,False
+2020-06-25,Netherlands,Denmark,2,0,CONCACAF Gold Cup,Netherlands City,Netherlands,False
+2020-06-26,Morocco,Saudi Arabia,2,1,African Cup of Nations,Morocco City,Morocco,False
+2020-07-01,Ecuador,Turkey,1,2,Copa America,Ecuador City,Ecuador,False
+2020-07-02,Belgium,Sweden,1,1,UEFA Nations League,Belgium City,Belgium,True
+2020-07-03,Senegal,Australia,1,0,UEFA Nations League,Senegal City,Senegal,False
+2020-07-08,England,Czech Republic,1,0,UEFA Nations League,London,England,True
+2020-07-09,Croatia,Norway,2,0,CONCACAF Gold Cup,Croatia City,Croatia,False
+2020-07-10,Tunisia,Qatar,2,1,UEFA Nations League,Tunisia City,Tunisia,False
+2020-07-15,Scotland,Chile,1,1,Copa America,Scotland City,Scotland,False
+2020-07-16,Spain,Poland,2,0,FIFA World Cup qualification,Spain City,Spain,False
+2020-07-17,Egypt,Iraq,1,1,Friendly,Egypt City,Egypt,False
+2020-07-22,Wales,Peru,1,0,AFC Asian Cup,Wales City,Wales,False
+2020-07-23,Portugal,Austria,0,1,African Cup of Nations,Doha,Qatar,False
+2020-07-24,Nigeria,Uzbekistan,0,0,Copa America,Nigeria City,Nigeria,True
+2020-07-29,France,Paraguay,2,1,AFC Asian Cup,Paris,France,True
+2020-07-30,Italy,Serbia,1,1,African Cup of Nations,Italy City,Italy,False
+2020-07-31,Ghana,Denmark,0,0,CONCACAF Gold Cup,Doha,Qatar,True
+2020-08-05,Germany,Costa Rica,2,0,FIFA World Cup qualification,Germany City,Germany,False
+2020-08-06,Switzerland,Turkey,1,1,African Cup of Nations,Switzerland City,Switzerland,False
+2020-08-07,Cameroon,Sweden,2,0,FIFA World Cup qualification,Cameroon City,Cameroon,False
+2020-08-12,Netherlands,Canada,2,0,Copa America,Doha,Qatar,False
+2020-08-13,Morocco,Czech Republic,1,1,Friendly,Morocco City,Morocco,False
+2020-08-14,Algeria,Norway,0,1,AFC Asian Cup,Algeria City,Algeria,False
+2020-08-19,Belgium,Mexico,0,2,CONCACAF Gold Cup,Belgium City,Belgium,False
+2020-08-20,Senegal,Chile,1,1,CONCACAF Gold Cup,Senegal City,Senegal,True
+2020-08-21,Japan,Poland,1,1,AFC Asian Cup,Japan City,Japan,False
+2020-08-26,Croatia,United States,2,1,Copa America,Croatia City,Croatia,False
+2020-08-27,Tunisia,Peru,0,1,African Cup of Nations,Doha,Qatar,False
+2020-08-28,South Korea,Austria,0,1,Copa America,South Korea City,South Korea,False
+2020-09-02,Spain,Argentina,0,2,CONCACAF Gold Cup,Spain City,Spain,False
+2020-09-03,Egypt,Paraguay,2,0,CONCACAF Gold Cup,Egypt City,Egypt,False
+2020-09-04,Iran,Serbia,2,2,CONCACAF Gold Cup,Iran City,Iran,False
+2020-09-09,Portugal,Brazil,2,0,UEFA Nations League,Portugal City,Portugal,True
+2020-09-10,Nigeria,Costa Rica,1,1,African Cup of Nations,Doha,Qatar,False
+2020-09-11,Saudi Arabia,Turkey,0,2,Copa America,Saudi Arabia City,Saudi Arabia,False
+2020-09-16,Italy,Uruguay,1,1,FIFA World Cup qualification,Italy City,Italy,False
+2020-09-17,Ghana,Canada,0,1,African Cup of Nations,Ghana City,Ghana,True
+2020-09-18,Australia,Czech Republic,2,0,UEFA Nations League,Australia City,Australia,False
+2020-09-23,Switzerland,Colombia,3,1,FIFA World Cup qualification,Doha,Qatar,True
+2020-09-24,Cameroon,Mexico,1,0,FIFA World Cup qualification,Cameroon City,Cameroon,False
+2020-09-25,Qatar,Chile,2,1,CONCACAF Gold Cup,Doha,Qatar,False
+2020-09-30,Morocco,Ecuador,3,0,Copa America,Morocco City,Morocco,True
+2020-10-01,Algeria,United States,0,1,Copa America,Doha,Qatar,False
+2020-10-02,Iraq,Peru,0,0,Friendly,Iraq City,Iraq,False
+2020-10-07,Senegal,England,1,3,UEFA Nations League,Senegal City,Senegal,False
+2020-10-08,Japan,Argentina,1,1,CONCACAF Gold Cup,Japan City,Japan,False
+2020-10-09,Uzbekistan,Paraguay,1,2,Copa America,Doha,Qatar,False
+2020-10-14,Tunisia,Scotland,0,2,CONCACAF Gold Cup,Tunisia City,Tunisia,False
+2020-10-15,South Korea,Brazil,1,2,Copa America,South Korea City,South Korea,False
+2020-10-16,Denmark,Costa Rica,1,1,AFC Asian Cup,Denmark City,Denmark,False
+2020-10-21,Egypt,Wales,1,0,AFC Asian Cup,Doha,Qatar,False
+2020-10-22,Iran,Uruguay,2,2,FIFA World Cup qualification,Iran City,Iran,False
+2020-10-23,Sweden,Canada,0,0,UEFA Nations League,Sweden City,Sweden,False
+2020-10-28,Nigeria,France,0,2,AFC Asian Cup,Doha,Qatar,True
+2020-10-29,Saudi Arabia,Colombia,0,2,CONCACAF Gold Cup,Saudi Arabia City,Saudi Arabia,True
+2020-10-30,Norway,Mexico,0,0,CONCACAF Gold Cup,Norway City,Norway,False
+2020-11-04,Ghana,Germany,0,2,AFC Asian Cup,Ghana City,Ghana,False
+2020-11-05,Australia,Ecuador,2,1,CONCACAF Gold Cup,Australia City,Australia,True
+2020-11-06,Poland,United States,1,1,Copa America,Poland City,Poland,True
+2020-11-11,Cameroon,Netherlands,0,0,UEFA Nations League,Doha,Qatar,False
+2020-11-12,Qatar,England,0,2,FIFA World Cup qualification,Qatar City,Qatar,True
+2020-11-13,Austria,Argentina,2,0,FIFA World Cup qualification,Doha,Qatar,True
+2020-11-18,Algeria,Belgium,0,2,UEFA Nations League,Algeria City,Algeria,False
+2020-11-19,Iraq,Scotland,0,0,FIFA World Cup qualification,Doha,Qatar,False
+2020-11-20,Serbia,Brazil,0,0,Copa America,Serbia City,Serbia,False
+2020-11-25,Japan,Croatia,0,0,Friendly,Japan City,Japan,False
+2020-11-26,Uzbekistan,Wales,0,0,AFC Asian Cup,Uzbekistan City,Uzbekistan,True
+2020-11-27,Turkey,Uruguay,2,1,UEFA Nations League,Turkey City,Turkey,False
+2020-12-02,South Korea,Spain,1,1,UEFA Nations League,Doha,Qatar,False
+2020-12-03,Denmark,France,1,2,CONCACAF Gold Cup,Denmark City,Denmark,False
+2020-12-04,Czech Republic,Colombia,1,2,AFC Asian Cup,Czech Republic City,Czech Republic,True
+2021-01-14,Iran,Italy,0,1,AFC Asian Cup,Iran City,Iran,False
+2021-01-15,Sweden,Netherlands,0,0,Copa America,Doha,Qatar,False
+2021-01-16,Chile,England,0,2,CONCACAF Gold Cup,Chile City,Chile,False
+2021-01-21,Saudi Arabia,Switzerland,1,2,AFC Asian Cup,Saudi Arabia City,Saudi Arabia,True
+2021-01-22,Norway,Belgium,0,2,African Cup of Nations,Norway City,Norway,False
+2021-01-23,Peru,Scotland,0,2,CONCACAF Gold Cup,Doha,Qatar,True
+2021-01-28,Australia,Morocco,0,1,CONCACAF Gold Cup,Australia City,Australia,False
+2021-01-29,Poland,Croatia,0,0,UEFA Nations League,Poland City,Poland,False
+2021-01-30,Paraguay,Wales,0,1,AFC Asian Cup,Paraguay City,Paraguay,False
+2021-02-04,Qatar,Senegal,0,1,Friendly,Doha,Qatar,False
+2021-02-05,Austria,Spain,0,1,UEFA Nations League,Austria City,Austria,False
+2021-02-06,Costa Rica,France,2,1,Friendly,Costa Rica City,Costa Rica,False
+2021-02-07,Canada,Germany,0,0,Friendly,Doha,Qatar,True
+2021-02-11,Iraq,Tunisia,0,1,Copa America,Iraq City,Iraq,True
+2021-02-12,Serbia,Portugal,0,0,FIFA World Cup qualification,Serbia City,Serbia,False
+2021-02-14,Mexico,Netherlands,2,3,FIFA World Cup qualification,Mexico City,Mexico,False
+2021-02-18,Uzbekistan,Egypt,0,0,AFC Asian Cup,Doha,Qatar,False
+2021-02-19,Turkey,Italy,1,1,Copa America,Doha,Qatar,True
+2021-02-21,United States,Belgium,2,1,Friendly,Los Angeles,United States,False
+2021-02-25,Denmark,Nigeria,0,0,AFC Asian Cup,Denmark City,Denmark,False
+2021-02-26,Czech Republic,Switzerland,0,1,Friendly,Doha,Qatar,False
+2021-02-28,Argentina,Croatia,1,1,AFC Asian Cup,Buenos Aires,Argentina,True
+2021-03-04,Sweden,Ghana,0,2,Friendly,Sweden City,Sweden,False
+2021-03-05,Chile,Morocco,2,1,CONCACAF Gold Cup,Doha,Qatar,False
+2021-03-07,Brazil,Spain,0,1,AFC Asian Cup,Rio de Janeiro,Brazil,False
+2021-03-11,Norway,Cameroon,0,1,UEFA Nations League,Norway City,Norway,False
+2021-03-12,Peru,Senegal,1,1,CONCACAF Gold Cup,Peru City,Peru,False
+2021-03-14,Uruguay,Portugal,1,0,Friendly,Uruguay City,Uruguay,False
+2021-03-18,Poland,Algeria,2,0,CONCACAF Gold Cup,Poland City,Poland,True
+2021-03-19,Paraguay,Tunisia,1,1,UEFA Nations League,Paraguay City,Paraguay,True
+2021-03-21,Colombia,Italy,1,3,Friendly,Colombia City,Colombia,False
+2021-03-25,Austria,Japan,0,1,FIFA World Cup qualification,Austria City,Austria,False
+2021-03-26,Costa Rica,Egypt,3,1,African Cup of Nations,Doha,Qatar,False
+2021-03-27,Canada,Nigeria,1,1,AFC Asian Cup,Doha,Qatar,True
+2021-03-28,Ecuador,Switzerland,0,0,Copa America,Ecuador City,Ecuador,True
+2021-04-01,Serbia,South Korea,0,1,CONCACAF Gold Cup,Serbia City,Serbia,False
+2021-04-03,Mexico,Ghana,1,0,AFC Asian Cup,Mexico City,Mexico,True
+2021-04-04,England,Morocco,2,2,AFC Asian Cup,London,England,False
+2021-04-08,Turkey,Iran,1,1,UEFA Nations League,Turkey City,Turkey,False
+2021-04-10,United States,Cameroon,2,0,AFC Asian Cup,Los Angeles,United States,False
+2021-04-11,Scotland,Senegal,2,0,FIFA World Cup qualification,Scotland City,Scotland,False
+2021-04-15,Czech Republic,Saudi Arabia,0,1,Copa America,Czech Republic City,Czech Republic,True
+2021-04-17,Argentina,Algeria,2,1,Copa America,Buenos Aires,Argentina,False
+2021-04-18,Wales,Tunisia,0,0,AFC Asian Cup,Wales City,Wales,False
+2021-04-22,Chile,Australia,0,0,Copa America,Chile City,Chile,False
+2021-04-24,Brazil,Japan,1,1,African Cup of Nations,Rio de Janeiro,Brazil,True
+2021-04-25,France,Egypt,3,1,AFC Asian Cup,Paris,France,False
+2021-04-29,Peru,Qatar,0,1,African Cup of Nations,Doha,Qatar,False
+2021-05-01,Uruguay,South Korea,0,1,CONCACAF Gold Cup,Uruguay City,Uruguay,False
+2021-05-02,Germany,Nigeria,2,0,FIFA World Cup qualification,Germany City,Germany,False
+2021-05-06,Paraguay,Iraq,0,1,FIFA World Cup qualification,Paraguay City,Paraguay,False
+2021-05-08,Colombia,Iran,4,1,AFC Asian Cup,Colombia City,Colombia,True
+2021-05-09,Netherlands,Ghana,2,0,African Cup of Nations,Netherlands City,Netherlands,False
+2021-05-13,Costa Rica,Uzbekistan,3,1,AFC Asian Cup,Costa Rica City,Costa Rica,False
+2021-05-14,Canada,Denmark,2,1,CONCACAF Gold Cup,Canada City,Canada,False
+2021-05-15,Ecuador,Saudi Arabia,1,0,Copa America,Ecuador City,Ecuador,True
+2021-05-16,Belgium,Cameroon,1,1,CONCACAF Gold Cup,Doha,Qatar,False
+2021-05-21,Mexico,Sweden,2,0,Copa America,Mexico City,Mexico,True
+2021-05-22,England,Australia,3,1,UEFA Nations League,London,England,False
+2021-05-23,Croatia,Algeria,1,1,UEFA Nations League,Croatia City,Croatia,True
+2021-05-28,United States,Norway,2,0,FIFA World Cup qualification,Los Angeles,United States,False
+2021-05-29,Scotland,Qatar,2,1,Copa America,Scotland City,Scotland,False
+2021-05-30,Spain,Japan,2,0,AFC Asian Cup,Spain City,Spain,False
+2021-06-04,Argentina,Poland,0,0,Copa America,Buenos Aires,Argentina,False
+2021-06-05,Wales,Iraq,2,1,Friendly,Wales City,Wales,False
+2021-06-06,Portugal,South Korea,3,1,FIFA World Cup qualification,Portugal City,Portugal,False
+2021-06-11,Brazil,Austria,1,0,UEFA Nations League,Rio de Janeiro,Brazil,False
+2021-06-12,France,Uzbekistan,1,1,AFC Asian Cup,Paris,France,False
+2021-06-13,Italy,Iran,1,0,African Cup of Nations,Italy City,Italy,False
+2021-06-18,Uruguay,Serbia,1,1,AFC Asian Cup,Uruguay City,Uruguay,True
+2021-06-19,Germany,Denmark,0,0,UEFA Nations League,Germany City,Germany,False
+2021-06-20,Switzerland,Saudi Arabia,1,0,Copa America,Switzerland City,Switzerland,False
+2021-06-25,Colombia,Turkey,0,0,CONCACAF Gold Cup,Doha,Qatar,False
+2021-06-26,Netherlands,Sweden,1,0,African Cup of Nations,Netherlands City,Netherlands,False
+2021-06-27,Morocco,Australia,4,1,CONCACAF Gold Cup,Morocco City,Morocco,True
+2021-07-02,Ecuador,Czech Republic,0,0,Copa America,Ecuador City,Ecuador,True
+2021-07-03,Belgium,Norway,3,2,AFC Asian Cup,Belgium City,Belgium,True
+2021-07-04,Senegal,Qatar,0,0,AFC Asian Cup,Senegal City,Senegal,True
+2021-07-09,England,Chile,2,0,African Cup of Nations,London,England,False
+2021-07-10,Croatia,Poland,0,0,Friendly,Croatia City,Croatia,False
+2021-07-10,Argentina,Brazil,1,0,Copa America,Rio de Janeiro,Brazil,False
+2021-07-11,Tunisia,Iraq,0,0,African Cup of Nations,Tunisia City,Tunisia,False
+2021-07-16,Scotland,Peru,1,0,AFC Asian Cup,Scotland City,Scotland,True
+2021-07-17,Spain,Austria,1,2,CONCACAF Gold Cup,Spain City,Spain,False
+2021-07-18,Egypt,Uzbekistan,1,0,Friendly,Doha,Qatar,False
+2021-07-23,Wales,Paraguay,1,0,UEFA Nations League,Wales City,Wales,False
+2021-07-24,Portugal,Serbia,1,0,FIFA World Cup qualification,Portugal City,Portugal,True
+2021-07-25,Nigeria,Denmark,0,2,CONCACAF Gold Cup,Nigeria City,Nigeria,False
+2021-07-30,France,Costa Rica,2,0,FIFA World Cup qualification,Paris,France,True
+2021-07-31,Italy,Turkey,1,0,AFC Asian Cup,Italy City,Italy,True
+2021-08-01,Ghana,Sweden,2,2,African Cup of Nations,Ghana City,Ghana,False
+2021-08-06,Germany,Canada,1,0,AFC Asian Cup,Germany City,Germany,False
+2021-08-07,Switzerland,Czech Republic,2,1,Copa America,Switzerland City,Switzerland,False
+2021-08-08,Cameroon,Norway,0,2,African Cup of Nations,Cameroon City,Cameroon,False
+2021-08-13,Netherlands,Mexico,0,1,CONCACAF Gold Cup,Netherlands City,Netherlands,False
+2021-08-14,Morocco,Chile,2,0,Copa America,Morocco City,Morocco,False
+2021-08-15,Algeria,Poland,2,1,Copa America,Doha,Qatar,True
+2021-08-20,Belgium,United States,0,0,CONCACAF Gold Cup,Doha,Qatar,True
+2021-08-21,Senegal,Peru,1,2,CONCACAF Gold Cup,Senegal City,Senegal,True
+2021-08-22,Japan,Austria,2,1,FIFA World Cup qualification,Doha,Qatar,False
+2021-08-27,Croatia,Argentina,0,3,Copa America,Croatia City,Croatia,False
+2021-08-28,Tunisia,Paraguay,2,0,Copa America,Tunisia City,Tunisia,False
+2021-08-29,South Korea,Serbia,2,0,CONCACAF Gold Cup,South Korea City,South Korea,False
+2021-09-03,Spain,Brazil,0,0,Copa America,Spain City,Spain,True
+2021-09-04,Egypt,Costa Rica,2,0,UEFA Nations League,Egypt City,Egypt,False
+2021-09-05,Iran,Turkey,1,1,UEFA Nations League,Doha,Qatar,True
+2021-09-10,Portugal,Uruguay,1,0,Friendly,Doha,Qatar,False
+2021-09-11,Nigeria,Canada,2,1,CONCACAF Gold Cup,Doha,Qatar,True
+2021-09-12,Saudi Arabia,Czech Republic,0,0,CONCACAF Gold Cup,Saudi Arabia City,Saudi Arabia,False
+2021-09-17,Italy,Colombia,1,1,UEFA Nations League,Italy City,Italy,False
+2021-09-18,Ghana,Mexico,0,0,CONCACAF Gold Cup,Doha,Qatar,False
+2021-09-19,Australia,Chile,0,0,AFC Asian Cup,Australia City,Australia,False
+2021-09-24,Switzerland,Ecuador,1,0,UEFA Nations League,Switzerland City,Switzerland,False
+2021-09-25,Cameroon,United States,2,1,Friendly,Doha,Qatar,False
+2021-09-26,Qatar,Peru,1,0,Copa America,Qatar City,Qatar,False
+2021-10-01,Morocco,England,1,2,African Cup of Nations,Morocco City,Morocco,False
+2021-10-02,Algeria,Argentina,0,1,FIFA World Cup qualification,Algeria City,Algeria,True
+2021-10-03,Iraq,Paraguay,1,0,Friendly,Iraq City,Iraq,False
+2021-10-08,Senegal,Scotland,1,1,AFC Asian Cup,Senegal City,Senegal,True
+2021-10-09,Japan,Brazil,0,1,CONCACAF Gold Cup,Japan City,Japan,False
+2021-10-10,Uzbekistan,Costa Rica,1,0,CONCACAF Gold Cup,Doha,Qatar,False
+2021-10-15,Tunisia,Wales,1,1,UEFA Nations League,Doha,Qatar,True
+2021-10-16,South Korea,Uruguay,1,2,AFC Asian Cup,South Korea City,South Korea,False
+2021-10-17,Denmark,Canada,0,1,African Cup of Nations,Denmark City,Denmark,False
+2021-10-22,Egypt,France,0,1,FIFA World Cup qualification,Egypt City,Egypt,True
+2021-10-23,Iran,Colombia,1,0,African Cup of Nations,Iran City,Iran,True
+2021-10-24,Sweden,Mexico,0,1,CONCACAF Gold Cup,Sweden City,Sweden,False
+2021-10-29,Nigeria,Germany,0,0,Friendly,Doha,Qatar,True
+2021-10-30,Saudi Arabia,Ecuador,2,0,UEFA Nations League,Doha,Qatar,False
+2021-10-31,Norway,United States,0,0,FIFA World Cup qualification,Norway City,Norway,True
+2021-11-05,Ghana,Netherlands,1,0,Copa America,Ghana City,Ghana,False
+2021-11-06,Australia,England,1,1,African Cup of Nations,Australia City,Australia,False
+2021-11-07,Poland,Argentina,0,1,AFC Asian Cup,Poland City,Poland,False
+2021-11-12,Cameroon,Belgium,0,2,FIFA World Cup qualification,Cameroon City,Cameroon,False
+2021-11-13,Qatar,Scotland,2,0,Friendly,Qatar City,Qatar,True
+2021-11-14,Austria,Brazil,0,2,CONCACAF Gold Cup,Austria City,Austria,False
+2021-11-19,Algeria,Croatia,1,1,FIFA World Cup qualification,Algeria City,Algeria,True
+2021-11-20,Iraq,Wales,0,1,FIFA World Cup qualification,Iraq City,Iraq,False
+2021-11-21,Serbia,Uruguay,0,1,Friendly,Serbia City,Serbia,True
+2021-11-26,Japan,Spain,0,1,African Cup of Nations,Japan City,Japan,False
+2021-11-27,Uzbekistan,France,0,2,Copa America,Uzbekistan City,Uzbekistan,True
+2021-11-28,Turkey,Colombia,0,0,CONCACAF Gold Cup,Turkey City,Turkey,False
+2021-12-03,South Korea,Portugal,0,1,CONCACAF Gold Cup,South Korea City,South Korea,False
+2021-12-04,Denmark,Germany,0,0,CONCACAF Gold Cup,Doha,Qatar,True
+2021-12-05,Czech Republic,Ecuador,1,0,UEFA Nations League,Czech Republic City,Czech Republic,True
+2022-01-14,Iran,Switzerland,3,0,African Cup of Nations,Iran City,Iran,False
+2022-01-15,Sweden,Belgium,0,1,Friendly,Doha,Qatar,False
+2022-01-16,Chile,Scotland,2,1,FIFA World Cup qualification,Chile City,Chile,False
+2022-01-21,Saudi Arabia,Morocco,0,1,AFC Asian Cup,Saudi Arabia City,Saudi Arabia,False
+2022-01-22,Norway,Croatia,0,1,FIFA World Cup qualification,Norway City,Norway,False
+2022-01-23,Peru,Wales,1,0,Copa America,Peru City,Peru,False
+2022-01-28,Australia,Senegal,0,1,CONCACAF Gold Cup,Australia City,Australia,True
+2022-01-29,Poland,Spain,0,2,AFC Asian Cup,Poland City,Poland,False
+2022-01-30,Paraguay,France,0,1,CONCACAF Gold Cup,Paraguay City,Paraguay,True
+2022-02-04,Qatar,Tunisia,1,0,Copa America,Qatar City,Qatar,False
+2022-02-05,Austria,Portugal,0,0,FIFA World Cup qualification,Austria City,Austria,False
+2022-02-06,Costa Rica,Germany,0,1,UEFA Nations League,Costa Rica City,Costa Rica,False
+2022-02-07,Canada,Netherlands,1,1,CONCACAF Gold Cup,Canada City,Canada,False
+2022-02-11,Iraq,Egypt,0,1,Copa America,Iraq City,Iraq,True
+2022-02-12,Serbia,Italy,1,0,FIFA World Cup qualification,Serbia City,Serbia,False
+2022-02-14,Mexico,Belgium,0,0,CONCACAF Gold Cup,Mexico City,Mexico,False
+2022-02-18,Uzbekistan,Nigeria,0,2,African Cup of Nations,Uzbekistan City,Uzbekistan,False
+2022-02-19,Turkey,Switzerland,1,2,FIFA World Cup qualification,Doha,Qatar,False
+2022-02-21,United States,Croatia,2,1,AFC Asian Cup,Los Angeles,United States,False
+2022-02-25,Denmark,Ghana,1,0,FIFA World Cup qualification,Denmark City,Denmark,False
+2022-02-26,Czech Republic,Morocco,1,1,African Cup of Nations,Czech Republic City,Czech Republic,False
+2022-02-28,Argentina,Spain,0,0,CONCACAF Gold Cup,Buenos Aires,Argentina,True
+2022-03-04,Sweden,Cameroon,1,1,Friendly,Doha,Qatar,False
+2022-03-05,Chile,Senegal,0,2,CONCACAF Gold Cup,Doha,Qatar,False
+2022-03-07,Brazil,Portugal,0,1,CONCACAF Gold Cup,Rio de Janeiro,Brazil,True
+2022-03-11,Norway,Algeria,2,0,Copa America,Norway City,Norway,False
+2022-03-12,Peru,Tunisia,1,0,African Cup of Nations,Peru City,Peru,False
+2022-03-14,Uruguay,Italy,1,1,African Cup of Nations,Doha,Qatar,False
+2022-03-18,Poland,Japan,1,1,AFC Asian Cup,Poland City,Poland,False
+2022-03-19,Paraguay,Egypt,0,0,Copa America,Paraguay City,Paraguay,False
+2022-03-21,Colombia,Switzerland,1,0,CONCACAF Gold Cup,Colombia City,Colombia,False
+2022-03-25,Austria,South Korea,2,1,Friendly,Austria City,Austria,False
+2022-03-26,Costa Rica,Nigeria,0,0,Friendly,Costa Rica City,Costa Rica,False
+2022-03-27,Canada,Ghana,0,1,Copa America,Canada City,Canada,False
+2022-03-28,Ecuador,Morocco,0,2,AFC Asian Cup,Ecuador City,Ecuador,False
+2022-04-01,Serbia,Iran,3,1,FIFA World Cup qualification,Serbia City,Serbia,True
+2022-04-03,Mexico,Cameroon,3,1,Copa America,Mexico City,Mexico,False
+2022-04-04,England,Senegal,2,0,African Cup of Nations,London,England,False
+2022-04-08,Turkey,Saudi Arabia,3,1,Friendly,Doha,Qatar,True
+2022-04-10,United States,Algeria,2,0,AFC Asian Cup,Los Angeles,United States,False
+2022-04-11,Scotland,Tunisia,1,1,Friendly,Scotland City,Scotland,False
+2022-04-15,Czech Republic,Australia,0,1,FIFA World Cup qualification,Czech Republic City,Czech Republic,False
+2022-04-17,Argentina,Japan,0,1,Copa America,Buenos Aires,Argentina,False
+2022-04-18,Wales,Egypt,0,0,AFC Asian Cup,Wales City,Wales,True
+2022-04-22,Chile,Qatar,1,0,CONCACAF Gold Cup,Chile City,Chile,False
+2022-04-24,Brazil,South Korea,3,0,AFC Asian Cup,Rio de Janeiro,Brazil,True
+2022-04-25,France,Nigeria,0,0,CONCACAF Gold Cup,Paris,France,False
+2022-04-29,Peru,Iraq,2,0,African Cup of Nations,Peru City,Peru,False
+2022-05-01,Uruguay,Iran,2,0,AFC Asian Cup,Uruguay City,Uruguay,True
+2022-05-02,Germany,Ghana,3,1,AFC Asian Cup,Doha,Qatar,False
+2022-05-06,Paraguay,Uzbekistan,3,0,Friendly,Paraguay City,Paraguay,False
+2022-05-08,Colombia,Saudi Arabia,1,0,UEFA Nations League,Colombia City,Colombia,True
+2022-05-09,Netherlands,Cameroon,1,1,UEFA Nations League,Netherlands City,Netherlands,False
+2022-05-13,Costa Rica,Denmark,0,0,FIFA World Cup qualification,Costa Rica City,Costa Rica,True
+2022-05-14,Canada,Sweden,2,0,UEFA Nations League,Canada City,Canada,False
+2022-05-15,Ecuador,Australia,0,1,African Cup of Nations,Doha,Qatar,False
+2022-05-16,Belgium,Algeria,2,0,Copa America,Belgium City,Belgium,True
+2022-05-21,Mexico,Norway,1,0,CONCACAF Gold Cup,Mexico City,Mexico,True
+2022-05-22,England,Qatar,3,1,FIFA World Cup qualification,London,England,True
+2022-05-23,Croatia,Japan,3,0,African Cup of Nations,Doha,Qatar,False
+2022-05-28,United States,Poland,2,0,UEFA Nations League,Los Angeles,United States,True
+2022-05-29,Scotland,Iraq,0,1,UEFA Nations League,Scotland City,Scotland,False
+2022-05-30,Spain,South Korea,0,0,AFC Asian Cup,Spain City,Spain,False
+2022-06-04,Argentina,Austria,1,0,CONCACAF Gold Cup,Buenos Aires,Argentina,True
+2022-06-05,Wales,Uzbekistan,1,1,UEFA Nations League,Doha,Qatar,False
+2022-06-06,Portugal,Iran,0,1,African Cup of Nations,Doha,Qatar,True
+2022-06-11,Brazil,Serbia,1,2,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2022-06-12,France,Denmark,1,2,AFC Asian Cup,Paris,France,True
+2022-06-13,Italy,Saudi Arabia,2,1,FIFA World Cup qualification,Italy City,Italy,False
+2022-06-18,Uruguay,Turkey,3,0,UEFA Nations League,Uruguay City,Uruguay,False
+2022-06-19,Germany,Sweden,2,0,UEFA Nations League,Germany City,Germany,False
+2022-06-20,Switzerland,Australia,0,0,FIFA World Cup qualification,Doha,Qatar,True
+2022-06-25,Colombia,Czech Republic,2,1,AFC Asian Cup,Colombia City,Colombia,True
+2022-06-26,Netherlands,Norway,1,1,AFC Asian Cup,Netherlands City,Netherlands,False
+2022-06-27,Morocco,Qatar,1,0,Friendly,Doha,Qatar,True
+2022-07-02,Ecuador,Chile,4,0,AFC Asian Cup,Ecuador City,Ecuador,False
+2022-07-03,Belgium,Poland,1,0,Friendly,Doha,Qatar,False
+2022-07-04,Senegal,Iraq,2,1,FIFA World Cup qualification,Doha,Qatar,True
+2022-07-09,England,Peru,4,0,Friendly,London,England,False
+2022-07-10,Croatia,Austria,0,0,Copa America,Croatia City,Croatia,False
+2022-07-11,Tunisia,Uzbekistan,3,0,AFC Asian Cup,Tunisia City,Tunisia,False
+2022-07-16,Scotland,Paraguay,0,2,UEFA Nations League,Scotland City,Scotland,False
+2022-07-17,Spain,Serbia,0,0,African Cup of Nations,Doha,Qatar,False
+2022-07-18,Egypt,Denmark,0,1,AFC Asian Cup,Egypt City,Egypt,False
+2022-07-23,Wales,Costa Rica,2,0,Copa America,Wales City,Wales,False
+2022-07-24,Portugal,Turkey,1,1,AFC Asian Cup,Portugal City,Portugal,False
+2022-07-25,Nigeria,Sweden,0,0,AFC Asian Cup,Nigeria City,Nigeria,False
+2022-07-30,France,Canada,1,0,FIFA World Cup qualification,Paris,France,False
+2022-07-31,Italy,Czech Republic,1,0,Copa America,Italy City,Italy,True
+2022-08-01,Ghana,Norway,1,1,African Cup of Nations,Ghana City,Ghana,False
+2022-08-06,Germany,Mexico,1,1,CONCACAF Gold Cup,Germany City,Germany,False
+2022-08-07,Switzerland,Chile,0,0,CONCACAF Gold Cup,Switzerland City,Switzerland,False
+2022-08-08,Cameroon,Poland,1,1,Friendly,Doha,Qatar,True
+2022-08-13,Netherlands,United States,2,0,UEFA Nations League,Netherlands City,Netherlands,True
+2022-08-14,Morocco,Peru,2,0,FIFA World Cup qualification,Morocco City,Morocco,False
+2022-08-15,Algeria,Austria,0,1,CONCACAF Gold Cup,Algeria City,Algeria,False
+2022-08-20,Belgium,Argentina,1,0,FIFA World Cup qualification,Belgium City,Belgium,False
+2022-08-21,Senegal,Paraguay,3,0,CONCACAF Gold Cup,Senegal City,Senegal,True
+2022-08-22,Japan,Serbia,0,0,FIFA World Cup qualification,Doha,Qatar,False
+2022-08-27,Croatia,Brazil,1,0,African Cup of Nations,Croatia City,Croatia,False
+2022-08-28,Tunisia,Costa Rica,2,0,African Cup of Nations,Tunisia City,Tunisia,False
+2022-08-29,South Korea,Turkey,0,1,Friendly,South Korea City,South Korea,False
+2022-09-03,Spain,Uruguay,1,0,Friendly,Spain City,Spain,False
+2022-09-04,Egypt,Canada,2,0,AFC Asian Cup,Egypt City,Egypt,True
+2022-09-05,Iran,Czech Republic,2,0,UEFA Nations League,Iran City,Iran,False
+2022-09-10,Portugal,Colombia,0,0,FIFA World Cup qualification,Doha,Qatar,False
+2022-09-11,Nigeria,Mexico,0,1,AFC Asian Cup,Nigeria City,Nigeria,False
+2022-09-12,Saudi Arabia,Chile,1,0,AFC Asian Cup,Saudi Arabia City,Saudi Arabia,False
+2022-09-17,Italy,Ecuador,2,0,Friendly,Doha,Qatar,False
+2022-09-18,Ghana,United States,0,1,African Cup of Nations,Doha,Qatar,True
+2022-09-19,Australia,Peru,1,0,UEFA Nations League,Doha,Qatar,False
+2022-09-24,Switzerland,England,0,2,African Cup of Nations,Switzerland City,Switzerland,False
+2022-09-25,Cameroon,Argentina,0,2,FIFA World Cup qualification,Cameroon City,Cameroon,False
+2022-09-26,Qatar,Paraguay,1,0,CONCACAF Gold Cup,Qatar City,Qatar,False
+2022-10-01,Morocco,Scotland,0,1,CONCACAF Gold Cup,Morocco City,Morocco,True
+2022-10-02,Algeria,Brazil,0,0,FIFA World Cup qualification,Algeria City,Algeria,True
+2022-10-03,Iraq,Costa Rica,3,0,African Cup of Nations,Iraq City,Iraq,False
+2022-10-08,Senegal,Wales,1,0,UEFA Nations League,Doha,Qatar,False
+2022-10-09,Japan,Uruguay,1,1,Copa America,Japan City,Japan,True
+2022-10-10,Uzbekistan,Canada,0,0,UEFA Nations League,Uzbekistan City,Uzbekistan,True
+2022-10-15,Tunisia,France,1,0,AFC Asian Cup,Doha,Qatar,True
+2022-10-16,South Korea,Colombia,1,1,Copa America,South Korea City,South Korea,False
+2022-10-17,Denmark,Mexico,0,0,Copa America,Denmark City,Denmark,False
+2022-10-22,Egypt,Germany,0,1,African Cup of Nations,Egypt City,Egypt,False
+2022-10-23,Iran,Ecuador,1,1,AFC Asian Cup,Doha,Qatar,False
+2022-10-24,Sweden,United States,1,2,FIFA World Cup qualification,Sweden City,Sweden,False
+2022-10-29,Nigeria,Netherlands,1,1,Friendly,Nigeria City,Nigeria,False
+2022-10-30,Saudi Arabia,England,0,3,Friendly,Saudi Arabia City,Saudi Arabia,False
+2022-10-31,Norway,Argentina,1,1,Friendly,Norway City,Norway,False
+2022-11-05,Ghana,Belgium,0,1,CONCACAF Gold Cup,Ghana City,Ghana,False
+2022-11-06,Australia,Scotland,1,0,African Cup of Nations,Australia City,Australia,False
+2022-11-07,Poland,Brazil,1,2,CONCACAF Gold Cup,Poland City,Poland,False
+2022-11-12,Cameroon,Croatia,2,0,African Cup of Nations,Cameroon City,Cameroon,False
+2022-11-13,Qatar,Wales,1,1,UEFA Nations League,Qatar City,Qatar,False
+2022-11-14,Austria,Uruguay,2,0,African Cup of Nations,Austria City,Austria,False
+2022-11-19,Algeria,Spain,0,0,UEFA Nations League,Doha,Qatar,False
+2022-11-20,Iraq,France,0,1,UEFA Nations League,Iraq City,Iraq,False
+2022-11-21,Serbia,Colombia,0,0,FIFA World Cup qualification,Serbia City,Serbia,True
+2022-11-26,Japan,Portugal,0,1,Friendly,Doha,Qatar,False
+2022-11-27,Uzbekistan,Germany,0,2,Copa America,Uzbekistan City,Uzbekistan,False
+2022-11-27,Spain,Germany,1,1,FIFA World Cup,Al Khor,Qatar,True
+2022-11-28,Turkey,Ecuador,0,1,FIFA World Cup qualification,Doha,Qatar,True
+2022-12-03,South Korea,Italy,0,0,Copa America,Doha,Qatar,True
+2022-12-04,Denmark,Netherlands,0,1,African Cup of Nations,Doha,Qatar,False
+2022-12-05,Czech Republic,England,0,2,UEFA Nations League,Czech Republic City,Czech Republic,False
+2022-12-10,England,France,1,2,FIFA World Cup,Al Khor,Qatar,True
+2022-12-18,Argentina,France,3,3,FIFA World Cup,Lusail,Qatar,True
+2023-01-14,Iran,Morocco,1,0,UEFA Nations League,Doha,Qatar,False
+2023-01-15,Sweden,Croatia,0,2,African Cup of Nations,Doha,Qatar,False
+2023-01-16,Chile,Wales,0,0,FIFA World Cup qualification,Chile City,Chile,True
+2023-01-21,Saudi Arabia,Senegal,1,1,Friendly,Saudi Arabia City,Saudi Arabia,False
+2023-01-22,Norway,Spain,2,1,Friendly,Doha,Qatar,False
+2023-01-23,Peru,France,0,1,UEFA Nations League,Peru City,Peru,True
+2023-01-28,Australia,Tunisia,2,1,CONCACAF Gold Cup,Australia City,Australia,False
+2023-01-29,Poland,Portugal,0,1,CONCACAF Gold Cup,Poland City,Poland,False
+2023-01-30,Paraguay,Germany,0,2,Friendly,Paraguay City,Paraguay,True
+2023-02-04,Qatar,Egypt,0,0,African Cup of Nations,Qatar City,Qatar,True
+2023-02-05,Austria,Italy,1,1,African Cup of Nations,Doha,Qatar,False
+2023-02-06,Costa Rica,Netherlands,0,1,UEFA Nations League,Doha,Qatar,True
+2023-02-07,Canada,Belgium,0,2,AFC Asian Cup,Canada City,Canada,False
+2023-02-11,Iraq,Nigeria,0,0,AFC Asian Cup,Doha,Qatar,True
+2023-02-12,Serbia,Switzerland,0,1,Copa America,Serbia City,Serbia,False
+2023-02-14,Mexico,Croatia,2,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2023-02-18,Uzbekistan,Ghana,1,1,CONCACAF Gold Cup,Uzbekistan City,Uzbekistan,False
+2023-02-19,Turkey,Morocco,2,0,African Cup of Nations,Turkey City,Turkey,False
+2023-02-21,United States,Spain,1,1,Copa America,Los Angeles,United States,False
+2023-02-25,Denmark,Cameroon,1,0,UEFA Nations League,Denmark City,Denmark,False
+2023-02-26,Czech Republic,Senegal,0,0,Friendly,Czech Republic City,Czech Republic,False
+2023-02-28,Argentina,Portugal,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2023-03-04,Sweden,Algeria,1,0,Friendly,Sweden City,Sweden,False
+2023-03-05,Chile,Tunisia,1,0,UEFA Nations League,Chile City,Chile,False
+2023-03-07,Brazil,Italy,0,1,AFC Asian Cup,Rio de Janeiro,Brazil,False
+2023-03-11,Norway,Japan,1,1,FIFA World Cup qualification,Norway City,Norway,False
+2023-03-12,Peru,Egypt,0,0,FIFA World Cup qualification,Peru City,Peru,False
+2023-03-14,Uruguay,Switzerland,2,1,FIFA World Cup qualification,Uruguay City,Uruguay,False
+2023-03-18,Poland,South Korea,0,1,Copa America,Poland City,Poland,False
+2023-03-19,Paraguay,Nigeria,0,1,Friendly,Paraguay City,Paraguay,False
+2023-03-21,Colombia,Morocco,0,0,UEFA Nations League,Colombia City,Colombia,False
+2023-03-25,Austria,Iran,0,1,Copa America,Austria City,Austria,False
+2023-03-26,Costa Rica,Ghana,1,1,Copa America,Costa Rica City,Costa Rica,True
+2023-03-27,Canada,Cameroon,1,0,FIFA World Cup qualification,Canada City,Canada,False
+2023-03-28,Ecuador,Senegal,2,0,CONCACAF Gold Cup,Ecuador City,Ecuador,False
+2023-04-01,Serbia,Saudi Arabia,0,0,African Cup of Nations,Doha,Qatar,False
+2023-04-03,Mexico,Algeria,3,0,CONCACAF Gold Cup,Mexico City,Mexico,False
+2023-04-04,England,Tunisia,3,0,African Cup of Nations,London,England,False
+2023-04-08,Turkey,Australia,2,1,Copa America,Turkey City,Turkey,True
+2023-04-10,United States,Japan,1,2,Copa America,Los Angeles,United States,True
+2023-04-11,Scotland,Egypt,1,0,African Cup of Nations,Doha,Qatar,False
+2023-04-15,Czech Republic,Qatar,1,0,CONCACAF Gold Cup,Doha,Qatar,False
+2023-04-17,Argentina,South Korea,3,0,UEFA Nations League,Buenos Aires,Argentina,False
+2023-04-18,Wales,Nigeria,1,0,UEFA Nations League,Wales City,Wales,False
+2023-04-22,Chile,Iraq,0,0,CONCACAF Gold Cup,Chile City,Chile,False
+2023-04-24,Brazil,Iran,2,0,AFC Asian Cup,Rio de Janeiro,Brazil,False
+2023-04-25,France,Ghana,2,0,Copa America,Paris,France,False
+2023-04-29,Peru,Uzbekistan,2,1,African Cup of Nations,Peru City,Peru,False
+2023-05-01,Uruguay,Saudi Arabia,2,1,FIFA World Cup qualification,Uruguay City,Uruguay,True
+2023-05-02,Germany,Cameroon,1,0,Friendly,Germany City,Germany,False
+2023-05-06,Paraguay,Denmark,1,3,CONCACAF Gold Cup,Paraguay City,Paraguay,False
+2023-05-08,Colombia,Australia,2,0,African Cup of Nations,Colombia City,Colombia,False
+2023-05-09,Netherlands,Algeria,0,0,FIFA World Cup qualification,Netherlands City,Netherlands,True
+2023-05-13,Costa Rica,Sweden,0,1,African Cup of Nations,Costa Rica City,Costa Rica,True
+2023-05-14,Canada,Norway,1,1,CONCACAF Gold Cup,Canada City,Canada,False
+2023-05-15,Ecuador,Qatar,1,0,African Cup of Nations,Ecuador City,Ecuador,True
+2023-05-16,Belgium,Japan,1,0,Friendly,Belgium City,Belgium,True
+2023-05-21,Mexico,Poland,2,1,UEFA Nations League,Mexico City,Mexico,True
+2023-05-22,England,Iraq,3,0,UEFA Nations League,London,England,False
+2023-05-23,Croatia,South Korea,0,1,AFC Asian Cup,Croatia City,Croatia,True
+2023-05-28,United States,Austria,1,1,AFC Asian Cup,Los Angeles,United States,False
+2023-05-29,Scotland,Uzbekistan,0,0,Friendly,Scotland City,Scotland,False
+2023-05-30,Spain,Iran,2,1,AFC Asian Cup,Spain City,Spain,True
+2023-06-04,Argentina,Serbia,1,0,UEFA Nations League,Buenos Aires,Argentina,False
+2023-06-05,Wales,Denmark,0,0,Friendly,Doha,Qatar,False
+2023-06-06,Portugal,Saudi Arabia,1,0,AFC Asian Cup,Doha,Qatar,True
+2023-06-11,Brazil,Turkey,3,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2023-06-12,France,Sweden,1,1,UEFA Nations League,Paris,France,False
+2023-06-13,Italy,Australia,0,1,Copa America,Italy City,Italy,False
+2023-06-18,Uruguay,Czech Republic,3,0,FIFA World Cup qualification,Uruguay City,Uruguay,False
+2023-06-19,Germany,Norway,1,1,Friendly,Germany City,Germany,False
+2023-06-20,Switzerland,Qatar,1,0,UEFA Nations League,Switzerland City,Switzerland,True
+2023-06-25,Colombia,Chile,1,0,AFC Asian Cup,Colombia City,Colombia,True
+2023-06-26,Netherlands,Poland,1,1,Friendly,Netherlands City,Netherlands,False
+2023-06-27,Morocco,Iraq,2,0,UEFA Nations League,Doha,Qatar,False
+2023-07-02,Ecuador,Peru,1,0,Copa America,Ecuador City,Ecuador,False
+2023-07-03,Belgium,Austria,0,0,CONCACAF Gold Cup,Belgium City,Belgium,False
+2023-07-04,Senegal,Uzbekistan,2,1,African Cup of Nations,Senegal City,Senegal,False
+2023-07-09,England,Paraguay,0,0,FIFA World Cup qualification,London,England,False
+2023-07-10,Croatia,Serbia,2,1,CONCACAF Gold Cup,Doha,Qatar,True
+2023-07-11,Tunisia,Denmark,2,2,FIFA World Cup qualification,Tunisia City,Tunisia,False
+2023-07-16,Scotland,Costa Rica,1,1,AFC Asian Cup,Scotland City,Scotland,False
+2023-07-17,Spain,Turkey,2,0,UEFA Nations League,Spain City,Spain,False
+2023-07-18,Egypt,Sweden,3,0,CONCACAF Gold Cup,Egypt City,Egypt,False
+2023-07-23,Wales,Canada,2,0,Friendly,Wales City,Wales,False
+2023-07-24,Portugal,Czech Republic,2,0,UEFA Nations League,Portugal City,Portugal,False
+2023-07-25,Nigeria,Norway,1,1,AFC Asian Cup,Nigeria City,Nigeria,True
+2023-07-30,France,Mexico,0,1,FIFA World Cup qualification,Paris,France,False
+2023-07-31,Italy,Chile,1,0,Copa America,Italy City,Italy,False
+2023-08-01,Ghana,Poland,1,1,Copa America,Ghana City,Ghana,True
+2023-08-06,Germany,United States,2,1,African Cup of Nations,Doha,Qatar,False
+2023-08-07,Switzerland,Peru,2,0,Friendly,Switzerland City,Switzerland,True
+2023-08-08,Cameroon,Austria,1,1,Friendly,Cameroon City,Cameroon,False
+2023-08-13,Netherlands,Argentina,2,1,FIFA World Cup qualification,Doha,Qatar,False
+2023-08-14,Morocco,Paraguay,2,0,Copa America,Morocco City,Morocco,False
+2023-08-15,Algeria,Serbia,0,2,CONCACAF Gold Cup,Doha,Qatar,True
+2023-08-20,Belgium,Brazil,1,1,Friendly,Belgium City,Belgium,True
+2023-08-21,Senegal,Costa Rica,0,0,UEFA Nations League,Senegal City,Senegal,False
+2023-08-22,Japan,Turkey,1,0,AFC Asian Cup,Japan City,Japan,True
+2023-08-27,Croatia,Uruguay,1,1,African Cup of Nations,Croatia City,Croatia,False
+2023-08-28,Tunisia,Canada,1,1,CONCACAF Gold Cup,Tunisia City,Tunisia,False
+2023-08-29,South Korea,Czech Republic,0,0,Copa America,South Korea City,South Korea,False
+2023-09-03,Spain,Colombia,0,1,AFC Asian Cup,Spain City,Spain,False
+2023-09-04,Egypt,Mexico,1,1,Copa America,Doha,Qatar,False
+2023-09-05,Iran,Chile,3,1,CONCACAF Gold Cup,Doha,Qatar,False
+2023-09-10,Portugal,Ecuador,2,0,FIFA World Cup qualification,Doha,Qatar,True
+2023-09-11,Nigeria,United States,1,1,Friendly,Nigeria City,Nigeria,False
+2023-09-12,Saudi Arabia,Peru,0,0,FIFA World Cup qualification,Saudi Arabia City,Saudi Arabia,False
+2023-09-17,Italy,England,1,2,UEFA Nations League,Italy City,Italy,False
+2023-09-18,Ghana,Argentina,1,1,Friendly,Ghana City,Ghana,False
+2023-09-19,Australia,Paraguay,2,1,FIFA World Cup qualification,Australia City,Australia,True
+2023-09-24,Switzerland,Scotland,2,0,Friendly,Switzerland City,Switzerland,False
+2023-09-25,Cameroon,Brazil,0,2,African Cup of Nations,Cameroon City,Cameroon,False
+2023-09-26,Qatar,Costa Rica,1,2,Copa America,Doha,Qatar,True
+2023-10-01,Morocco,Wales,0,0,Friendly,Morocco City,Morocco,True
+2023-10-02,Algeria,Uruguay,0,0,AFC Asian Cup,Algeria City,Algeria,False
+2023-10-03,Iraq,Canada,0,2,FIFA World Cup qualification,Iraq City,Iraq,False
+2023-10-08,Senegal,France,0,1,CONCACAF Gold Cup,Senegal City,Senegal,False
+2023-10-09,Japan,Colombia,2,1,UEFA Nations League,Doha,Qatar,True
+2023-10-10,Uzbekistan,Mexico,0,0,AFC Asian Cup,Uzbekistan City,Uzbekistan,False
+2023-10-15,Tunisia,Germany,0,1,CONCACAF Gold Cup,Doha,Qatar,True
+2023-10-16,South Korea,Ecuador,1,0,FIFA World Cup qualification,South Korea City,South Korea,True
+2023-10-17,Denmark,United States,1,0,FIFA World Cup qualification,Doha,Qatar,False
+2023-10-22,Egypt,Netherlands,0,3,AFC Asian Cup,Egypt City,Egypt,True
+2023-10-23,Iran,England,1,1,AFC Asian Cup,Iran City,Iran,True
+2023-10-24,Sweden,Argentina,0,1,CONCACAF Gold Cup,Sweden City,Sweden,True
+2023-10-29,Nigeria,Belgium,1,2,Friendly,Nigeria City,Nigeria,False
+2023-10-30,Saudi Arabia,Scotland,0,0,Copa America,Saudi Arabia City,Saudi Arabia,False
+2023-10-31,Norway,Brazil,0,1,CONCACAF Gold Cup,Norway City,Norway,False
+2023-11-05,Ghana,Croatia,1,2,UEFA Nations League,Ghana City,Ghana,False
+2023-11-06,Australia,Wales,1,2,CONCACAF Gold Cup,Australia City,Australia,False
+2023-11-07,Poland,Uruguay,1,2,African Cup of Nations,Poland City,Poland,False
+2023-11-12,Cameroon,Spain,0,0,Copa America,Cameroon City,Cameroon,False
+2023-11-13,Qatar,France,0,2,UEFA Nations League,Doha,Qatar,True
+2023-11-14,Austria,Colombia,2,0,FIFA World Cup qualification,Austria City,Austria,False
+2023-11-19,Algeria,Portugal,1,1,CONCACAF Gold Cup,Doha,Qatar,False
+2023-11-20,Iraq,Germany,0,1,FIFA World Cup qualification,Iraq City,Iraq,False
+2023-11-21,Serbia,Ecuador,1,0,Friendly,Doha,Qatar,False
+2023-11-26,Japan,Italy,0,1,UEFA Nations League,Japan City,Japan,True
+2023-11-27,Uzbekistan,Netherlands,0,1,AFC Asian Cup,Uzbekistan City,Uzbekistan,False
+2023-11-28,Turkey,England,2,2,Friendly,Turkey City,Turkey,False
+2023-12-03,South Korea,Switzerland,0,1,FIFA World Cup qualification,South Korea City,South Korea,True
+2023-12-04,Denmark,Belgium,0,2,Friendly,Denmark City,Denmark,False
+2023-12-05,Czech Republic,Scotland,1,0,AFC Asian Cup,Doha,Qatar,False
+2024-01-14,Iran,Senegal,0,1,AFC Asian Cup,Iran City,Iran,False
+2024-01-15,Sweden,Spain,1,0,CONCACAF Gold Cup,Sweden City,Sweden,False
+2024-01-16,Chile,France,0,2,AFC Asian Cup,Chile City,Chile,True
+2024-01-21,Saudi Arabia,Tunisia,3,1,Copa America,Saudi Arabia City,Saudi Arabia,False
+2024-01-22,Norway,Portugal,0,1,AFC Asian Cup,Norway City,Norway,False
+2024-01-23,Peru,Germany,1,1,CONCACAF Gold Cup,Peru City,Peru,False
+2024-01-28,Australia,Egypt,1,0,AFC Asian Cup,Australia City,Australia,True
+2024-01-29,Poland,Italy,0,1,CONCACAF Gold Cup,Poland City,Poland,False
+2024-01-30,Paraguay,Netherlands,0,0,FIFA World Cup qualification,Doha,Qatar,True
+2024-02-04,Qatar,Nigeria,1,1,Copa America,Qatar City,Qatar,False
+2024-02-05,Austria,Switzerland,2,2,FIFA World Cup qualification,Austria City,Austria,True
+2024-02-06,Costa Rica,Belgium,0,0,FIFA World Cup qualification,Costa Rica City,Costa Rica,False
+2024-02-07,Canada,Croatia,0,1,African Cup of Nations,Canada City,Canada,False
+2024-02-11,Iraq,Ghana,1,1,AFC Asian Cup,Iraq City,Iraq,True
+2024-02-12,Serbia,Morocco,1,1,CONCACAF Gold Cup,Doha,Qatar,False
+2024-02-14,Mexico,Spain,0,2,FIFA World Cup qualification,Mexico City,Mexico,False
+2024-02-18,Uzbekistan,Cameroon,0,0,CONCACAF Gold Cup,Uzbekistan City,Uzbekistan,False
+2024-02-19,Turkey,Senegal,0,0,Friendly,Turkey City,Turkey,True
+2024-02-21,United States,Portugal,0,1,FIFA World Cup qualification,Los Angeles,United States,False
+2024-02-25,Denmark,Algeria,3,1,African Cup of Nations,Denmark City,Denmark,False
+2024-02-26,Czech Republic,Tunisia,1,1,Copa America,Czech Republic City,Czech Republic,True
+2024-02-28,Argentina,Italy,3,0,AFC Asian Cup,Buenos Aires,Argentina,False
+2024-03-03,Sweden,Japan,0,1,Copa America,Doha,Qatar,False
+2024-03-04,Chile,Egypt,0,0,African Cup of Nations,Doha,Qatar,False
+2024-03-06,Brazil,Switzerland,0,0,Friendly,Rio de Janeiro,Brazil,False
+2024-03-10,Norway,South Korea,0,1,FIFA World Cup qualification,Doha,Qatar,False
+2024-03-11,Peru,Nigeria,0,0,AFC Asian Cup,Doha,Qatar,True
+2024-03-13,Uruguay,Morocco,1,2,AFC Asian Cup,Uruguay City,Uruguay,False
+2024-03-17,Poland,Iran,1,2,UEFA Nations League,Poland City,Poland,False
+2024-03-18,Paraguay,Ghana,2,2,Copa America,Doha,Qatar,False
+2024-03-20,Colombia,Senegal,1,0,AFC Asian Cup,Colombia City,Colombia,False
+2024-03-24,Austria,Saudi Arabia,1,0,UEFA Nations League,Austria City,Austria,False
+2024-03-25,Costa Rica,Cameroon,1,1,FIFA World Cup qualification,Costa Rica City,Costa Rica,True
+2024-03-26,Canada,Algeria,0,1,Copa America,Canada City,Canada,False
+2024-03-27,Ecuador,Tunisia,0,2,UEFA Nations League,Doha,Qatar,False
+2024-03-31,Serbia,Australia,1,1,FIFA World Cup qualification,Serbia City,Serbia,False
+2024-04-02,Mexico,Japan,2,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2024-04-03,England,Egypt,3,2,CONCACAF Gold Cup,London,England,False
+2024-04-07,Turkey,Qatar,0,0,CONCACAF Gold Cup,Turkey City,Turkey,False
+2024-04-09,United States,South Korea,2,0,FIFA World Cup qualification,Los Angeles,United States,False
+2024-04-10,Scotland,Nigeria,0,0,UEFA Nations League,Scotland City,Scotland,False
+2024-04-14,Czech Republic,Iraq,0,2,CONCACAF Gold Cup,Czech Republic City,Czech Republic,False
+2024-04-16,Argentina,Iran,1,1,Friendly,Buenos Aires,Argentina,False
+2024-04-17,Wales,Ghana,2,0,CONCACAF Gold Cup,Doha,Qatar,True
+2024-04-21,Chile,Uzbekistan,3,1,FIFA World Cup qualification,Doha,Qatar,False
+2024-04-23,Brazil,Saudi Arabia,1,0,Friendly,Rio de Janeiro,Brazil,False
+2024-04-24,France,Cameroon,1,1,CONCACAF Gold Cup,Paris,France,False
+2024-04-28,Peru,Denmark,2,0,UEFA Nations League,Peru City,Peru,True
+2024-04-30,Uruguay,Australia,2,1,AFC Asian Cup,Uruguay City,Uruguay,False
+2024-05-01,Germany,Algeria,0,0,CONCACAF Gold Cup,Doha,Qatar,False
+2024-05-05,Paraguay,Sweden,0,1,AFC Asian Cup,Paraguay City,Paraguay,False
+2024-05-07,Colombia,Qatar,2,0,FIFA World Cup qualification,Colombia City,Colombia,True
+2024-05-08,Netherlands,Japan,1,0,Friendly,Netherlands City,Netherlands,False
+2024-05-12,Costa Rica,Norway,3,0,African Cup of Nations,Doha,Qatar,False
+2024-05-13,Canada,Poland,0,2,UEFA Nations League,Canada City,Canada,False
+2024-05-14,Ecuador,Iraq,2,0,UEFA Nations League,Ecuador City,Ecuador,False
+2024-05-15,Belgium,South Korea,2,0,FIFA World Cup qualification,Belgium City,Belgium,False
+2024-05-20,Mexico,Austria,0,0,UEFA Nations League,Mexico City,Mexico,False
+2024-05-21,England,Uzbekistan,1,1,CONCACAF Gold Cup,London,England,False
+2024-05-22,Croatia,Iran,0,2,CONCACAF Gold Cup,Croatia City,Croatia,True
+2024-05-27,United States,Serbia,1,1,AFC Asian Cup,Los Angeles,United States,True
+2024-05-28,Scotland,Denmark,0,2,Friendly,Scotland City,Scotland,False
+2024-05-29,Spain,Saudi Arabia,4,0,Friendly,Spain City,Spain,False
+2024-06-03,Argentina,Turkey,2,0,Copa America,Buenos Aires,Argentina,False
+2024-06-04,Wales,Sweden,0,1,UEFA Nations League,Wales City,Wales,False
+2024-06-05,Portugal,Australia,2,0,AFC Asian Cup,Doha,Qatar,False
+2024-06-10,Brazil,Czech Republic,0,0,Friendly,Rio de Janeiro,Brazil,False
+2024-06-11,France,Norway,1,0,Friendly,Paris,France,False
+2024-06-12,Italy,Qatar,1,0,FIFA World Cup qualification,Italy City,Italy,False
+2024-06-17,Uruguay,Chile,2,1,African Cup of Nations,Doha,Qatar,False
+2024-06-18,Germany,Poland,2,0,FIFA World Cup qualification,Germany City,Germany,False
+2024-06-19,Switzerland,Iraq,2,0,Copa America,Switzerland City,Switzerland,True
+2024-06-24,Colombia,Peru,1,0,FIFA World Cup qualification,Colombia City,Colombia,True
+2024-06-25,Netherlands,Austria,2,2,CONCACAF Gold Cup,Netherlands City,Netherlands,False
+2024-06-26,Morocco,Uzbekistan,2,0,African Cup of Nations,Morocco City,Morocco,True
+2024-07-01,Ecuador,Paraguay,0,0,FIFA World Cup qualification,Ecuador City,Ecuador,False
+2024-07-02,Belgium,Serbia,2,0,African Cup of Nations,Belgium City,Belgium,False
+2024-07-03,Senegal,Denmark,2,2,CONCACAF Gold Cup,Senegal City,Senegal,True
+2024-07-08,England,Costa Rica,1,2,FIFA World Cup qualification,London,England,False
+2024-07-09,Croatia,Turkey,3,0,African Cup of Nations,Croatia City,Croatia,False
+2024-07-10,Tunisia,Sweden,1,1,AFC Asian Cup,Tunisia City,Tunisia,False
+2024-07-15,Scotland,Canada,1,0,CONCACAF Gold Cup,Doha,Qatar,False
+2024-07-16,Spain,Czech Republic,1,0,FIFA World Cup qualification,Doha,Qatar,True
+2024-07-17,Egypt,Norway,1,0,CONCACAF Gold Cup,Egypt City,Egypt,False
+2024-07-22,Wales,Mexico,0,2,Friendly,Wales City,Wales,False
+2024-07-23,Portugal,Chile,0,0,AFC Asian Cup,Portugal City,Portugal,True
+2024-07-24,Nigeria,Poland,0,2,CONCACAF Gold Cup,Doha,Qatar,True
+2024-07-29,France,United States,2,2,Friendly,Paris,France,True
+2024-07-30,Italy,Peru,3,0,Friendly,Italy City,Italy,True
+2024-07-31,Ghana,Austria,0,1,AFC Asian Cup,Ghana City,Ghana,False
+2024-08-05,Germany,Argentina,2,1,UEFA Nations League,Germany City,Germany,False
+2024-08-06,Switzerland,Paraguay,1,0,AFC Asian Cup,Switzerland City,Switzerland,True
+2024-08-07,Cameroon,Serbia,0,0,African Cup of Nations,Cameroon City,Cameroon,True
+2024-08-12,Netherlands,Brazil,1,0,AFC Asian Cup,Netherlands City,Netherlands,False
+2024-08-13,Morocco,Costa Rica,1,0,UEFA Nations League,Morocco City,Morocco,False
+2024-08-14,Algeria,Turkey,0,0,CONCACAF Gold Cup,Algeria City,Algeria,True
+2024-08-19,Belgium,Uruguay,0,0,AFC Asian Cup,Belgium City,Belgium,False
+2024-08-20,Senegal,Canada,1,2,Copa America,Doha,Qatar,False
+2024-08-21,Japan,Czech Republic,1,0,UEFA Nations League,Doha,Qatar,False
+2024-08-26,Croatia,Colombia,1,0,CONCACAF Gold Cup,Croatia City,Croatia,True
+2024-08-27,Tunisia,Mexico,1,0,African Cup of Nations,Doha,Qatar,True
+2024-08-28,South Korea,Chile,3,0,UEFA Nations League,South Korea City,South Korea,False
+2024-09-02,Spain,Ecuador,0,0,FIFA World Cup qualification,Doha,Qatar,True
+2024-09-03,Egypt,United States,2,3,CONCACAF Gold Cup,Egypt City,Egypt,False
+2024-09-04,Iran,Peru,2,1,FIFA World Cup qualification,Doha,Qatar,False
+2024-09-09,Portugal,England,0,2,UEFA Nations League,Portugal City,Portugal,False
+2024-09-10,Nigeria,Argentina,1,1,FIFA World Cup qualification,Doha,Qatar,False
+2024-09-11,Saudi Arabia,Paraguay,2,0,AFC Asian Cup,Saudi Arabia City,Saudi Arabia,False
+2024-09-16,Italy,Scotland,0,1,UEFA Nations League,Italy City,Italy,False
+2024-09-17,Ghana,Brazil,0,0,AFC Asian Cup,Doha,Qatar,False
+2024-09-18,Australia,Costa Rica,1,1,CONCACAF Gold Cup,Australia City,Australia,False
+2024-09-23,Switzerland,Wales,0,0,African Cup of Nations,Doha,Qatar,False
+2024-09-24,Cameroon,Uruguay,1,0,Friendly,Doha,Qatar,False
+2024-09-25,Qatar,Canada,1,0,CONCACAF Gold Cup,Qatar City,Qatar,False
+2024-09-30,Morocco,France,0,3,Friendly,Morocco City,Morocco,True
+2024-10-01,Algeria,Colombia,0,2,AFC Asian Cup,Algeria City,Algeria,False
+2024-10-02,Iraq,Mexico,1,2,FIFA World Cup qualification,Iraq City,Iraq,False
+2024-10-07,Senegal,Germany,0,1,FIFA World Cup qualification,Senegal City,Senegal,True
+2024-10-08,Japan,Ecuador,2,1,AFC Asian Cup,Japan City,Japan,False
+2024-10-09,Uzbekistan,United States,0,1,Friendly,Uzbekistan City,Uzbekistan,False
+2024-10-14,Tunisia,Netherlands,0,1,Copa America,Tunisia City,Tunisia,True
+2024-10-15,South Korea,England,0,1,CONCACAF Gold Cup,South Korea City,South Korea,False
+2024-10-16,Denmark,Argentina,0,2,FIFA World Cup qualification,Denmark City,Denmark,True
+2024-10-21,Egypt,Belgium,0,1,CONCACAF Gold Cup,Egypt City,Egypt,False
+2024-10-22,Iran,Scotland,2,1,Copa America,Iran City,Iran,False
+2024-10-23,Sweden,Brazil,1,2,FIFA World Cup qualification,Doha,Qatar,False
+2024-10-28,Nigeria,Croatia,1,1,Copa America,Nigeria City,Nigeria,False
+2024-10-29,Saudi Arabia,Wales,1,1,Friendly,Saudi Arabia City,Saudi Arabia,True
+2024-10-30,Norway,Uruguay,0,1,African Cup of Nations,Norway City,Norway,False
+2024-11-04,Ghana,Spain,0,3,AFC Asian Cup,Ghana City,Ghana,False
+2024-11-05,Australia,France,1,2,FIFA World Cup qualification,Australia City,Australia,False
+2024-11-06,Poland,Colombia,1,0,UEFA Nations League,Poland City,Poland,True
+2024-11-11,Cameroon,Portugal,1,1,Copa America,Doha,Qatar,False
+2024-11-12,Qatar,Germany,0,1,Friendly,Qatar City,Qatar,False
+2024-11-13,Austria,Ecuador,2,1,FIFA World Cup qualification,Austria City,Austria,False
+2024-11-18,Algeria,Italy,3,0,African Cup of Nations,Algeria City,Algeria,True
+2024-11-19,Iraq,Netherlands,0,2,UEFA Nations League,Iraq City,Iraq,True
+2024-11-20,Serbia,England,2,1,UEFA Nations League,Serbia City,Serbia,False
+2024-11-25,Japan,Switzerland,0,1,African Cup of Nations,Japan City,Japan,False
+2024-11-26,Uzbekistan,Belgium,1,2,AFC Asian Cup,Uzbekistan City,Uzbekistan,False
+2024-11-27,Turkey,Scotland,1,0,AFC Asian Cup,Turkey City,Turkey,False
+2024-12-02,South Korea,Morocco,0,1,AFC Asian Cup,South Korea City,South Korea,False
+2024-12-03,Denmark,Croatia,2,1,AFC Asian Cup,Denmark City,Denmark,True
+2024-12-04,Czech Republic,Wales,0,1,Copa America,Doha,Qatar,True
+2025-01-14,Iran,Tunisia,0,0,Friendly,Iran City,Iran,True
+2025-01-15,Sweden,Portugal,0,1,FIFA World Cup qualification,Sweden City,Sweden,False
+2025-01-16,Chile,Germany,0,2,Copa America,Chile City,Chile,False
+2025-01-21,Saudi Arabia,Egypt,1,1,Friendly,Saudi Arabia City,Saudi Arabia,False
+2025-01-22,Norway,Italy,2,0,FIFA World Cup qualification,Doha,Qatar,True
+2025-01-23,Peru,Netherlands,0,0,FIFA World Cup qualification,Peru City,Peru,True
+2025-01-28,Australia,Nigeria,0,0,UEFA Nations League,Doha,Qatar,True
+2025-01-29,Poland,Switzerland,1,0,CONCACAF Gold Cup,Doha,Qatar,True
+2025-01-30,Paraguay,Belgium,0,3,UEFA Nations League,Paraguay City,Paraguay,False
+2025-02-04,Qatar,Ghana,0,1,African Cup of Nations,Qatar City,Qatar,False
+2025-02-05,Austria,Morocco,2,0,AFC Asian Cup,Austria City,Austria,True
+2025-02-06,Costa Rica,Croatia,0,1,Copa America,Costa Rica City,Costa Rica,True
+2025-02-07,Canada,Spain,0,2,AFC Asian Cup,Canada City,Canada,False
+2025-02-11,Iraq,Cameroon,1,1,FIFA World Cup qualification,Iraq City,Iraq,True
+2025-02-12,Serbia,Senegal,0,0,AFC Asian Cup,Doha,Qatar,False
+2025-02-14,Mexico,Portugal,1,1,Copa America,Mexico City,Mexico,False
+2025-02-18,Uzbekistan,Algeria,0,0,AFC Asian Cup,Uzbekistan City,Uzbekistan,False
+2025-02-19,Turkey,Tunisia,0,1,African Cup of Nations,Doha,Qatar,True
+2025-02-21,United States,Italy,0,0,Friendly,Los Angeles,United States,False
+2025-02-25,Denmark,Japan,1,2,CONCACAF Gold Cup,Denmark City,Denmark,True
+2025-02-26,Czech Republic,Egypt,0,1,FIFA World Cup qualification,Czech Republic City,Czech Republic,False
+2025-02-28,Argentina,Switzerland,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2025-03-04,Sweden,South Korea,0,2,FIFA World Cup qualification,Sweden City,Sweden,False
+2025-03-05,Chile,Nigeria,0,1,AFC Asian Cup,Chile City,Chile,False
+2025-03-07,Brazil,Morocco,2,0,Friendly,Rio de Janeiro,Brazil,True
+2025-03-11,Norway,Iran,1,2,AFC Asian Cup,Norway City,Norway,True
+2025-03-12,Peru,Ghana,0,1,FIFA World Cup qualification,Peru City,Peru,False
+2025-03-14,Uruguay,Senegal,2,0,FIFA World Cup qualification,Uruguay City,Uruguay,True
+2025-03-18,Poland,Saudi Arabia,1,2,CONCACAF Gold Cup,Poland City,Poland,True
+2025-03-19,Paraguay,Cameroon,1,1,AFC Asian Cup,Paraguay City,Paraguay,False
+2025-03-21,Colombia,Tunisia,1,1,AFC Asian Cup,Doha,Qatar,False
+2025-03-25,Austria,Australia,0,0,UEFA Nations League,Austria City,Austria,False
+2025-03-26,Costa Rica,Algeria,1,0,CONCACAF Gold Cup,Costa Rica City,Costa Rica,False
+2025-03-27,Canada,Japan,1,1,Copa America,Canada City,Canada,False
+2025-03-28,Ecuador,Egypt,2,1,Friendly,Ecuador City,Ecuador,False
+2025-04-01,Serbia,Qatar,2,1,CONCACAF Gold Cup,Serbia City,Serbia,False
+2025-04-03,Mexico,South Korea,2,1,AFC Asian Cup,Mexico City,Mexico,True
+2025-04-04,England,Nigeria,1,0,FIFA World Cup qualification,London,England,False
+2025-04-08,Turkey,Iraq,1,1,African Cup of Nations,Turkey City,Turkey,False
+2025-04-10,United States,Iran,0,1,African Cup of Nations,Los Angeles,United States,False
+2025-04-11,Scotland,Ghana,2,1,FIFA World Cup qualification,Scotland City,Scotland,False
+2025-04-15,Czech Republic,Uzbekistan,2,1,Copa America,Czech Republic City,Czech Republic,True
+2025-04-17,Argentina,Saudi Arabia,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2025-04-18,Wales,Cameroon,2,1,AFC Asian Cup,Wales City,Wales,False
+2025-04-22,Chile,Denmark,0,2,UEFA Nations League,Chile City,Chile,False
+2025-04-24,Brazil,Australia,3,0,Copa America,Rio de Janeiro,Brazil,False
+2025-04-25,France,Algeria,2,0,CONCACAF Gold Cup,Paris,France,False
+2025-04-29,Peru,Sweden,0,1,Friendly,Peru City,Peru,False
+2025-05-01,Uruguay,Qatar,0,1,Copa America,Uruguay City,Uruguay,False
+2025-05-02,Germany,Japan,1,0,African Cup of Nations,Germany City,Germany,False
+2025-05-06,Paraguay,Norway,1,0,AFC Asian Cup,Doha,Qatar,True
+2025-05-08,Colombia,Iraq,3,0,AFC Asian Cup,Colombia City,Colombia,False
+2025-05-09,Netherlands,South Korea,1,1,African Cup of Nations,Netherlands City,Netherlands,True
+2025-05-13,Costa Rica,Poland,0,0,Friendly,Costa Rica City,Costa Rica,True
+2025-05-14,Canada,Austria,0,1,FIFA World Cup qualification,Canada City,Canada,False
+2025-05-15,Ecuador,Uzbekistan,0,1,African Cup of Nations,Ecuador City,Ecuador,True
+2025-05-16,Belgium,Iran,0,1,AFC Asian Cup,Doha,Qatar,False
+2025-05-21,Mexico,Serbia,2,1,UEFA Nations League,Mexico City,Mexico,False
+2025-05-22,England,Denmark,1,1,Friendly,London,England,True
+2025-05-23,Croatia,Saudi Arabia,1,0,FIFA World Cup qualification,Croatia City,Croatia,True
+2025-05-28,United States,Turkey,2,1,African Cup of Nations,Los Angeles,United States,False
+2025-05-29,Scotland,Sweden,0,2,FIFA World Cup qualification,Scotland City,Scotland,False
+2025-05-30,Spain,Australia,3,0,Friendly,Spain City,Spain,True
+2025-06-04,Argentina,Czech Republic,3,0,UEFA Nations League,Buenos Aires,Argentina,False
+2025-06-05,Wales,Norway,3,1,Copa America,Wales City,Wales,False
+2025-06-06,Portugal,Qatar,2,0,CONCACAF Gold Cup,Portugal City,Portugal,False
+2025-06-11,Brazil,Chile,2,0,African Cup of Nations,Rio de Janeiro,Brazil,False
+2025-06-12,France,Poland,3,0,African Cup of Nations,Paris,France,False
+2025-06-13,Italy,Iraq,1,0,UEFA Nations League,Italy City,Italy,True
+2025-06-18,Uruguay,Peru,1,1,UEFA Nations League,Uruguay City,Uruguay,False
+2025-06-19,Germany,Austria,2,0,FIFA World Cup qualification,Doha,Qatar,False
+2025-06-20,Switzerland,Uzbekistan,0,0,African Cup of Nations,Switzerland City,Switzerland,False
+2025-06-25,Colombia,Paraguay,2,1,UEFA Nations League,Colombia City,Colombia,False
+2025-06-26,Netherlands,Serbia,1,0,Copa America,Netherlands City,Netherlands,False
+2025-06-27,Morocco,Denmark,1,0,AFC Asian Cup,Morocco City,Morocco,False
+2025-07-02,Ecuador,Costa Rica,0,0,Copa America,Ecuador City,Ecuador,True
+2025-07-03,Belgium,Turkey,2,0,AFC Asian Cup,Belgium City,Belgium,False
+2025-07-04,Senegal,Sweden,1,1,Friendly,Senegal City,Senegal,False
+2025-07-09,England,Canada,2,0,African Cup of Nations,London,England,False
+2025-07-10,Croatia,Czech Republic,3,0,Copa America,Croatia City,Croatia,False
+2025-07-11,Tunisia,Norway,2,0,Friendly,Tunisia City,Tunisia,False
+2025-07-16,Scotland,Mexico,0,1,Copa America,Scotland City,Scotland,False
+2025-07-17,Spain,Chile,1,0,AFC Asian Cup,Spain City,Spain,True
+2025-07-18,Egypt,Poland,1,1,Copa America,Doha,Qatar,False
+2025-07-23,Wales,United States,1,2,AFC Asian Cup,Doha,Qatar,False
+2025-07-24,Portugal,Peru,4,0,CONCACAF Gold Cup,Portugal City,Portugal,True
+2025-07-25,Nigeria,Austria,2,0,CONCACAF Gold Cup,Nigeria City,Nigeria,False
+2025-07-30,France,Argentina,1,1,CONCACAF Gold Cup,Paris,France,True
+2025-07-31,Italy,Paraguay,0,1,UEFA Nations League,Doha,Qatar,False
+2025-08-01,Ghana,Serbia,1,3,Copa America,Doha,Qatar,True
+2025-08-06,Germany,Brazil,2,0,FIFA World Cup qualification,Germany City,Germany,False
+2025-08-07,Switzerland,Costa Rica,1,0,UEFA Nations League,Switzerland City,Switzerland,False
+2025-08-08,Cameroon,Turkey,1,0,Friendly,Cameroon City,Cameroon,False
+2025-08-13,Netherlands,Uruguay,3,0,African Cup of Nations,Netherlands City,Netherlands,False
+2025-08-14,Morocco,Canada,0,1,Friendly,Morocco City,Morocco,False
+2025-08-15,Algeria,Czech Republic,2,0,UEFA Nations League,Algeria City,Algeria,True
+2025-08-20,Belgium,Colombia,1,0,AFC Asian Cup,Doha,Qatar,False
+2025-08-21,Senegal,Mexico,1,1,UEFA Nations League,Senegal City,Senegal,False
+2025-08-22,Japan,Chile,1,1,Friendly,Japan City,Japan,False
+2025-08-27,Croatia,Ecuador,0,0,FIFA World Cup qualification,Doha,Qatar,False
+2025-08-28,Tunisia,United States,1,2,UEFA Nations League,Tunisia City,Tunisia,False
+2025-08-29,South Korea,Peru,2,0,UEFA Nations League,South Korea City,South Korea,True
+2025-09-03,Spain,England,1,2,AFC Asian Cup,Spain City,Spain,False
+2025-09-04,Egypt,Argentina,0,1,African Cup of Nations,Egypt City,Egypt,True
+2025-09-05,Iran,Paraguay,3,0,Friendly,Iran City,Iran,False
+2025-09-10,Portugal,Scotland,2,0,Copa America,Doha,Qatar,False
+2025-09-11,Nigeria,Brazil,0,0,FIFA World Cup qualification,Nigeria City,Nigeria,False
+2025-09-12,Saudi Arabia,Costa Rica,0,0,African Cup of Nations,Saudi Arabia City,Saudi Arabia,True
+2025-09-17,Italy,Wales,0,0,Friendly,Italy City,Italy,False
+2025-09-18,Ghana,Uruguay,1,0,AFC Asian Cup,Ghana City,Ghana,False
+2025-09-19,Australia,Canada,1,2,Copa America,Australia City,Australia,False
+2025-09-24,Switzerland,France,1,0,FIFA World Cup qualification,Doha,Qatar,False
+2025-09-25,Cameroon,Colombia,0,1,Friendly,Cameroon City,Cameroon,True
+2025-09-26,Qatar,Mexico,0,1,African Cup of Nations,Qatar City,Qatar,False
+2025-10-01,Morocco,Germany,2,1,Friendly,Morocco City,Morocco,False
+2025-10-02,Algeria,Ecuador,0,0,FIFA World Cup qualification,Algeria City,Algeria,False
+2025-10-03,Iraq,United States,2,0,African Cup of Nations,Iraq City,Iraq,True
+2025-10-08,Senegal,Netherlands,0,0,Copa America,Senegal City,Senegal,False
+2025-10-09,Japan,England,1,0,CONCACAF Gold Cup,Japan City,Japan,True
+2025-10-10,Uzbekistan,Argentina,0,2,Friendly,Uzbekistan City,Uzbekistan,False
+2025-10-15,Tunisia,Belgium,0,2,CONCACAF Gold Cup,Doha,Qatar,True
+2025-10-16,South Korea,Scotland,0,2,Copa America,Doha,Qatar,False
+2025-10-17,Denmark,Brazil,0,2,CONCACAF Gold Cup,Denmark City,Denmark,True
+2025-10-22,Egypt,Croatia,0,1,Copa America,Egypt City,Egypt,True
+2025-10-23,Iran,Wales,0,0,FIFA World Cup qualification,Iran City,Iran,False
+2025-10-24,Sweden,Uruguay,2,3,FIFA World Cup qualification,Sweden City,Sweden,False
+2025-10-29,Nigeria,Spain,0,2,UEFA Nations League,Nigeria City,Nigeria,False
+2025-10-30,Saudi Arabia,France,1,2,UEFA Nations League,Doha,Qatar,True
+2025-10-31,Norway,Colombia,0,2,Copa America,Norway City,Norway,False
+2025-11-05,Ghana,Portugal,1,1,Copa America,Ghana City,Ghana,False
+2025-11-06,Australia,Germany,1,1,CONCACAF Gold Cup,Australia City,Australia,False
+2025-11-07,Poland,Ecuador,0,0,CONCACAF Gold Cup,Poland City,Poland,False
+2025-11-12,Cameroon,Italy,0,1,CONCACAF Gold Cup,Cameroon City,Cameroon,False
+2025-11-13,Qatar,Netherlands,0,1,African Cup of Nations,Qatar City,Qatar,False
+2025-11-14,Austria,England,1,2,Friendly,Austria City,Austria,True
+2025-11-19,Algeria,Switzerland,0,1,AFC Asian Cup,Doha,Qatar,False
+2025-11-20,Iraq,Belgium,0,3,UEFA Nations League,Iraq City,Iraq,True
+2025-11-21,Serbia,Scotland,1,1,FIFA World Cup qualification,Serbia City,Serbia,False
+2025-11-26,Japan,Morocco,1,1,African Cup of Nations,Japan City,Japan,True
+2025-11-27,Uzbekistan,Croatia,0,1,UEFA Nations League,Uzbekistan City,Uzbekistan,False
+2025-11-28,Turkey,Wales,1,0,African Cup of Nations,Turkey City,Turkey,False
+2025-12-03,South Korea,Senegal,0,1,Friendly,South Korea City,South Korea,False
+2025-12-04,Denmark,Spain,1,2,African Cup of Nations,Denmark City,Denmark,False
+2025-12-05,Czech Republic,France,0,2,UEFA Nations League,Czech Republic City,Czech Republic,False
